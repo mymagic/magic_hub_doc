@@ -2,6 +2,8 @@
 
 * [What is CENTRAL](README.md)
 * [MaGIC Startup Stages](magic-startup-stages.md)
+* [MaGIC Alumni Definition](magic-alumni-definition.md)
+* [MaGIC Data Standard](data-standard.md)
 
 ## For Frontend Users
 
@@ -19,8 +21,6 @@
 * [Running an accelerator](for-program-owner/running-an-accelerator.md)
 * [Train the trainer](for-program-owner/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
-* [Data Standard](for-program-owner/data-standard.md)
-* [MaGIC Alumni Definition](for-program-owner/magic-alumni-definition.md)
 
 ## For Ecosystem Developers
 

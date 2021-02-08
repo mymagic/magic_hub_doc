@@ -1,4 +1,0 @@
-# Data Standard
-
-To do...
-
