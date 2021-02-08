@@ -10,3 +10,9 @@ description: >-
 
 CENTRAL is integrated with **Eventbrite** system and all events are automatically synced to Central.
 
+### Guidelines for program owner on using Eventbrite
+
+{% embed url="https://docs.google.com/document/d/1XuFb6sWdilYSh8Yk96hc24\_kJNVR3R0PF9J\_CNjwxkU/edit?usp=sharing" %}
+
+
+

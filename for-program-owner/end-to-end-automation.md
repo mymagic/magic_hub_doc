@@ -8,7 +8,9 @@ CENTRAL facilitates your programs and events from the application stage, selecti
 
 ![](../.gitbook/assets/screenshot-2021-02-08-at-12.48.39-pm.png)
 
-{% embed url="https://docs.google.com/presentation/d/1wDNsWqn8b05EgGwN9zP8TakFieZc59zW\_\_qXt1f8Kxw/edit?usp=sharing" caption="CENTRAL Guide for Program Owners" %}
+{% embed url="https://docs.google.com/presentation/d/1wDNsWqn8b05EgGwN9zP8TakFieZc59zW\_\_qXt1f8Kxw/edit?usp=sharing" caption="MaGIC Central \(Events & F7\) for program owner" %}
+
+
 
 
 
