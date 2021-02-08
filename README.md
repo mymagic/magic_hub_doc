@@ -1,10 +1,10 @@
-# What is MaGIC Central
+# What is Central
 
-MaGIC Central is a one-stop **startup ecosystem management tool.** 
+Central is a one-stop **startup ecosystem management tool.** 
 
 It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosystem partners & entrepreneurs through integrated, convenient and quality digital services.
 
-### With MaGIC Central you can:
+### With Central you can:
 
 * **Remove Information Silo** with Central acting as a Single Source Of Truth \(SSOT\) for data
 

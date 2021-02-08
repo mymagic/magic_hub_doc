@@ -1,0 +1,2 @@
+# MaGIC SE.A
+
