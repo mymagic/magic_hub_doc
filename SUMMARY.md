@@ -9,5 +9,5 @@
 * [Running a program](for-program-owner/running-a-program.md)
 * [Running an accelerator](for-program-owner/running-an-accelerator.md)
 * [Train the trainer](for-program-owner/train-the-trainer.md)
-* [Open Dashboard](for-program-owner/open-dashboard.md)
+* [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 
