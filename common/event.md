@@ -2,7 +2,7 @@
 
 ### Manage Event
 
-Most of the activities happened in startup ecosystem can be broken down and categorized as Event. Tracking event allows ecosystem builder to understand the development of an ecosystem.
+Most of the activities happened in startup ecosystem can be broken down and categorized as Event. Tracking event allows ecosystem builder to understand the development of the entire ecosystem.
 
 ### Search & View Event
 

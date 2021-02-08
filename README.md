@@ -11,6 +11,9 @@ It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosyst
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.33.37-am.png)
 
 * **Overcome Management Challenge** where KPI is now detailed up to atomic level
+
+![](.gitbook/assets/screenshot-2021-02-08-at-5.29.51-pm.png)
+
 * **Streamline UX Experience -** no more duplicate user profiles in different systems.
 
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.06.58-am.png)
