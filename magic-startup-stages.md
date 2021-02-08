@@ -10,3 +10,5 @@ Events, Resources, Startups, Founders are all linked and tracked using this defi
 
 > Do you know that different ecosystem has their own set of stages?
 
+* [https://www.startupcommons.org/startup-development-phases.html](https://www.startupcommons.org/startup-development-phases.html)
+
