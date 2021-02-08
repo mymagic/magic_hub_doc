@@ -1,6 +1,6 @@
 # OpenHub
 
-OpenHub is an **open source** version of MaGIC Central, available for **FREE** for all MaGIC-like ecosystem developers at different geo location. 
+OpenHub is an **open source** version of MaGIC CENTRAL, available for **FREE** for all MaGIC-like ecosystem developers at different geo location. 
 
 We hope thru this open source initiative, MaGIC-like ecosystem developers can come together and build a shared digital platform where everybody can be benefited from it.
 
@@ -10,7 +10,7 @@ We hope thru this open source initiative, MaGIC-like ecosystem developers can co
 
 ### Technical Details
 
-This open source project is under BSD-3-Clause License. As it is a software project, participants are expected to have programming backgrounds and willing to get hands dirty with coding.
+This open source project is under BSD-3-Clause License. As it is a software project, participants are expected to have programming backgrounds and willing to get hands dirty with coding. MaGIC has no obligation to provide any supports to this initiative.
 
 * Familiar with GIT, Sub GIT module, Docker & Mac shell script
 * LAMP \(Ubuntu, Apache2, MariaDb, PHP\)

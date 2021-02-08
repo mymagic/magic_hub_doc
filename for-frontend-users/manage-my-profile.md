@@ -24,7 +24,7 @@ You may **Terminate your account** from a link found at bottom of this page. Ple
 
 Help us serve you better by updating your interest to get better program and service recommendations. 
 
-Central ask for your interest upon your first login to Member Control Panel. Here is where you can update the data if you missed it.
+CENTRAL ask for your interest upon your first login to Member Control Panel. Here is where you can update the data if you missed it.
 
 We ask for:
 

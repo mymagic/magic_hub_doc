@@ -4,7 +4,7 @@ MaGIC Dashboard is developed and maintained by Strategy Team \ Data Unit and all
 
 ### Google Data Studio
 
-Data displayed are synced in **near real-time** between Central Database and Google Data Studio. Base on different reporting settings, it can be 1 hr, 4 hrs, 12 hrs or up to 24 hrs.
+Data displayed are synced in **near real-time** between CENTRAL Database and Google Data Studio. Base on different reporting settings, it can be 1 hr, 4 hrs, 12 hrs or up to 24 hrs.
 
 ### Google Chrome browser session
 

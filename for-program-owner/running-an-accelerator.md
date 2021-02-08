@@ -2,7 +2,7 @@
 
 **ATAS \(Accelerator Tracking Application System\)**
 
-Historitically built as a separate and standalone system, it is now integrated and become part of Central module starting from **GAP05**. 
+Historically built as a separate and standalone system, it is now integrated and become part of CENTRAL module starting from **GAP05**. 
 
 ATAS module makes use of various other modules such as **F7 Form, Milestone, Claim & Mentorship.** 
 

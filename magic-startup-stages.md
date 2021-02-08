@@ -1,6 +1,6 @@
 # MaGIC Startup Stages
 
-MaGIC startup stages serves as the foundation for Central system design. 
+MaGIC startup stages serves as the foundation for CENTRAL system design. 
 
 Events, Resources, Startups, Founders are all linked and tracked using this definition.
 

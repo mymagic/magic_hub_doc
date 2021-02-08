@@ -1,12 +1,12 @@
-# What is Central
+# What is CENTRAL
 
-Central is a one-stop **startup ecosystem management tool.** 
+CENTRAL is a one-stop **startup ecosystem management tool.** 
 
 It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosystem partners & entrepreneurs through integrated, convenient and quality digital services.
 
-### With Central you can:
+### With CENTRAL you can:
 
-* **Remove Information Silo** with Central acting as a Single Source Of Truth \(SSOT\) for data
+* **Remove Information Silo** with CENTRAL acting as a Single Source Of Truth \(SSOT\) for data
 
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.33.37-am.png)
 

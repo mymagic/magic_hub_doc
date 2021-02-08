@@ -1,6 +1,6 @@
 # Table of contents
 
-* [What is Central](README.md)
+* [What is CENTRAL](README.md)
 * [MaGIC Startup Stages](magic-startup-stages.md)
 
 ## For Frontend Users
@@ -20,6 +20,7 @@
 * [Train the trainer](for-program-owner/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 * [Data Standard](for-program-owner/data-standard.md)
+* [MaGIC Alumni Definition](for-program-owner/magic-alumni-definition.md)
 
 ## For Ecosystem Developers
 
