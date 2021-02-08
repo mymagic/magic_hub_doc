@@ -21,11 +21,15 @@
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 * [Data Standard](for-program-owner/data-standard.md)
 * [MaGIC Alumni Definition](for-program-owner/magic-alumni-definition.md)
-* [Event](for-program-owner/event.md)
 
 ## For Ecosystem Developers
 
 * [OpenHub](for-ecosystem-developers/untitled.md)
+
+## Core Features
+
+* [Member](core-features/member.md)
+* [Event](core-features/event.md)
 
 ## By Modules
 
