@@ -12,7 +12,7 @@
 
 ## For Program Owner
 
-* [Accessing the Backend](for-program-owner/accessing-the-backend.md)
+* [CENTRAL Backend](for-program-owner/accessing-the-backend.md)
 * [End-to-end Automation](for-program-owner/end-to-end-automation.md)
 * [Running an event](for-program-owner/running-an-event.md)
 * [Running a program](for-program-owner/running-a-program.md)
@@ -21,6 +21,7 @@
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 * [Data Standard](for-program-owner/data-standard.md)
 * [MaGIC Alumni Definition](for-program-owner/magic-alumni-definition.md)
+* [Event](for-program-owner/event.md)
 
 ## For Ecosystem Developers
 

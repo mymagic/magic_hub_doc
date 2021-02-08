@@ -10,7 +10,7 @@ We hope thru this open source initiative, MaGIC-like ecosystem developers can co
 
 ### Technical Details
 
-This open source project is under BSD-3-Clause License. As it is a software project, participants are expected to have programming backgrounds and willing to get hands dirty with coding. MaGIC has no obligation to provide any supports to this initiative.
+This open source project is under BSD-3-Clause License. As a software project, contributors are expected to have programming skillset and willing to get hands dirty with coding. MaGIC has no obligation to provide any supports to this initiative.
 
 * Familiar with GIT, Sub GIT module, Docker & Mac shell script
 * LAMP \(Ubuntu, Apache2, MariaDb, PHP\)
