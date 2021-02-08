@@ -26,11 +26,6 @@
 
 * [OpenHub](for-ecosystem-developers/untitled.md)
 
-## Core Features
-
-* [Member](core-features/member.md)
-* [Event](core-features/event.md)
-
 ## By Modules
 
 * [Resource Directory](by-modules/resource-directory.md)
@@ -51,4 +46,13 @@
 * [esLog](by-modules/eslog.md)
 * [Comment](by-modules/comment.md)
 * [Collection](by-modules/collection.md)
+
+## Core Features
+
+* [Member](core-features/member.md)
+* [Admin](core-features/admin.md)
+* [Organization](core-features/organization.md)
+* [Individual](core-features/individual.md)
+* [Event](core-features/event.md)
+* [Master Data](core-features/master-data.md)
 
