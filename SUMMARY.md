@@ -50,7 +50,8 @@
 
 * [Open Source Modules](by-modules/open-source-modules/README.md)
   * [Resource Directory](by-modules/open-source-modules/resource-directory.md)
-  * [F7 Form](by-modules/open-source-modules/f7-form.md)
+  * [F7 Form](by-modules/open-source-modules/f7-form/README.md)
+    * [F7 Form Advance](by-modules/open-source-modules/f7-form/f7-form-advance.md)
   * [Eventbrite](by-modules/open-source-modules/eventbrite.md)
   * [Challenge](by-modules/open-source-modules/challenge.md)
   * [CV \(Talentbank\)](by-modules/open-source-modules/cv-talentbank.md)
