@@ -26,25 +26,25 @@
 
 * [OpenHub](for-ecosystem-developers/untitled.md)
 
-## Core Features
+## Common
 
-* [Member](core-features/member.md)
-* [Admin](core-features/admin.md)
-* [Organization](core-features/organization/README.md)
-  * [Organization Funding](core-features/organization/organization-funding.md)
-  * [Organization Revenue](core-features/organization/organization-revenue.md)
-  * [Organization Status](core-features/organization/organization-status.md)
-* [Individual](core-features/individual.md)
-* [Event](core-features/event.md)
-* [Master Data](core-features/master-data.md)
-* [Site](core-features/site/README.md)
-  * [System](core-features/site/system.md)
-  * [SEO](core-features/site/seo.md)
-  * [Request](core-features/site/request.md)
-  * [Registry](core-features/site/registry.md)
-  * [Setting](core-features/site/setting.md)
-  * [Lingual](core-features/site/lingual.md)
-  * [Embed](core-features/site/embed.md)
+* [Member](common/member.md)
+* [Admin](common/admin.md)
+* [Organization](common/organization/README.md)
+  * [Organization Funding](common/organization/organization-funding.md)
+  * [Organization Revenue](common/organization/organization-revenue.md)
+  * [Organization Status](common/organization/organization-status.md)
+* [Individual](common/individual.md)
+* [Event](common/event.md)
+* [Master Data](common/master-data.md)
+* [Site](common/site/README.md)
+  * [Embed](common/site/embed.md)
+  * [Lingual](common/site/lingual.md)
+  * [Setting](common/site/setting.md)
+  * [Registry](common/site/registry.md)
+  * [Request](common/site/request.md)
+  * [SEO](common/site/seo.md)
+  * [System](common/site/system.md)
 
 ## By Modules
 
