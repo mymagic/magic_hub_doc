@@ -1,6 +1,7 @@
 # Table of contents
 
 * [What is MaGIC Central](README.md)
+* [MaGIC Startup Stages](magic-startup-stages.md)
 
 ## For Frontend Users
 
