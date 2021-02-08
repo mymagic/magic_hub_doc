@@ -10,4 +10,13 @@
 * [Running an accelerator](for-program-owner/running-an-accelerator.md)
 * [Train the trainer](for-program-owner/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
+* [Data Standard](for-program-owner/data-standard.md)
+
+## For Frontend Users
+
+* [Untitled](for-frontend-users/untitled.md)
+
+## For Ecosystem Developers
+
+* [Untitled](for-ecosystem-developers/untitled.md)
 
