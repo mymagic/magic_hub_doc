@@ -2,6 +2,10 @@
 
 * [What is MaGIC Central](README.md)
 
+## For Frontend Users
+
+* [Todo](for-frontend-users/untitled.md)
+
 ## For Program Owner
 
 * [End-to-end Automation](for-program-owner/end-to-end-automation.md)
@@ -11,10 +15,6 @@
 * [Train the trainer](for-program-owner/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 * [Data Standard](for-program-owner/data-standard.md)
-
-## For Frontend Users
-
-* [Todo](for-frontend-users/untitled.md)
 
 ## For Ecosystem Developers
 
