@@ -6,27 +6,14 @@ It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosyst
 
 ### With MaGIC Central you can:
 
-* **Remove Information Silo**
-
-Central act as Single Source Of Truth \(SSOT\) for data
+* **Remove Information Silo** with Central acting as a Single Source Of Truth \(SSOT\) for data
 
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.06.58-am.png)
 
-* **Overcome Management Challenge**
-
-KPI is now detailed up to atomic level
-
-* **Streamline UX Experience**
-
-No more duplicate user profiles in different systems.
-
-* **Enforce System Integration**
-
-System built by different vendors can be a night mare: following different data standard and used incompatible stack of technologies.
-
-* **Reduce Redundant Effort**
-
-Everyone in the ecosystem seems to has their own ‘resource directory’
+* **Overcome Management Challenge** where KPI is now detailed up to atomic level
+* **Streamline UX Experience -** no more duplicate user profiles in different systems.
+* **Enforce Integration** with systems built by different vendors using the same data standard and stack of technologies.
+* **Reduce Redundant Effort** by building together thru Open Source and Open Data 
 
 
 
