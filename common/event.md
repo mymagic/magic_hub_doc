@@ -30,6 +30,13 @@ Event Organization keeps track of companies/organizations who participated in an
 
 ### Surveys
 
+When enabled, CENTRAL automatically email survey link to attended participants a day after the event ended. 
+
+* Event has to be active and not cancel
+* Setting `event-sendPostSurveyEmail` must be turned on
+* Hourly cron job is set to trigger the command `php yiic emailSurveyAfterEvent oneDayAfter`
+* Respective F7 form must exist
+
 ### Sync from Eventbrite
 
 ### Link with Resource
