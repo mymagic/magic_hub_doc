@@ -15,7 +15,7 @@ CENTRAL facilitates your programs and events from the application stage, selecti
 CENTRAL tracks all activities happening in the organization**.** Regardless it's an one-off event like fireside chat, online/offline sharing session, workshop; or series of events like **Grill-or-chill**, **USC**, various **bootcamps** and **accelerator p**rograms, and etc; they are all recorded into the system as an **event**.
 
 {% hint style="warning" %}
-KPI Dashboard and Survey only works when data is captured in CENTRAL event.
+KPI Dashboard and Survey only work when data is captured in CENTRAL event.
 {% endhint %}
 
 An event has the following basic attributes:
