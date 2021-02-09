@@ -8,7 +8,7 @@ description: >-
 
 ### **Eventbrite**
 
-CENTRAL is integrated with **Eventbrite** system and all events are automatically synced to Central.
+CENTRAL is integrated with **Eventbrite** system and all events are automatically synced to CENTRAL.
 
 ### Guidelines for program owner on using Eventbrite
 
