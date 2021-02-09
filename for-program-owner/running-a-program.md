@@ -8,7 +8,11 @@ Programs with a selection stage like Bootcamps, University Startup Challenge \(*
 F7 is a Google form like CENTRAL module. Developers can create new form quickly in JSON language at a turnaround time of about 3 working days. 
 {% endhint %}
 
-Accelerators such as Global Accelerator Program \(**GAP**\) are excluded.
+{% page-ref page="../by-modules/open-source-modules/f7-form/" %}
+
+Accelerators such as Global Accelerator Program \(**GAP**\) will be using the ATAS module. Please read `Running an accelerator`page for details.
+
+{% page-ref page="running-an-accelerator.md" %}
 
 ### Sync to CENTRAL Event
 

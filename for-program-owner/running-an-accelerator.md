@@ -10,6 +10,8 @@ ATAS module makes use of various other modules such as **F7 Form, Milestone, Cla
 
 Todo
 
+{% page-ref page="../by-modules/magic-specific-modules/atas.md" %}
+
 ### Discontinue of ATAS standalone
 
 We decided to discontinue ATAS standalone system due to:
