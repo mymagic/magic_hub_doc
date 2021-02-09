@@ -48,16 +48,6 @@
 
 ## By Modules
 
-* [Open Source Modules](by-modules/open-source-modules/README.md)
-  * [Resource Directory](by-modules/open-source-modules/resource-directory.md)
-  * [F7 Form](by-modules/open-source-modules/f7-form/README.md)
-    * [F7 Form Advance](by-modules/open-source-modules/f7-form/f7-form-advance.md)
-  * [Eventbrite](by-modules/open-source-modules/eventbrite.md)
-  * [Challenge](by-modules/open-source-modules/challenge.md)
-  * [CV \(Talentbank\)](by-modules/open-source-modules/cv-talentbank.md)
-  * [Collection](by-modules/open-source-modules/collection.md)
-  * [Comment](by-modules/open-source-modules/comment.md)
-  * [esLog](by-modules/open-source-modules/eslog.md)
 * [MaGIC Specific Modules](by-modules/magic-specific-modules/README.md)
   * [Mentorship](by-modules/magic-specific-modules/mentorship.md)
   * [Community](by-modules/magic-specific-modules/community.md)
@@ -69,4 +59,14 @@
   * [Ideabank](by-modules/magic-specific-modules/ideabank.md)
   * [NTIS](by-modules/magic-specific-modules/ntis.md)
   * [News](by-modules/magic-specific-modules/news.md)
+* [Open Source Modules](by-modules/open-source-modules/README.md)
+  * [Resource Directory](by-modules/open-source-modules/resource-directory.md)
+  * [F7 Form](by-modules/open-source-modules/f7-form/README.md)
+    * [F7 Form Advance](by-modules/open-source-modules/f7-form/f7-form-advance.md)
+  * [Eventbrite](by-modules/open-source-modules/eventbrite.md)
+  * [Challenge](by-modules/open-source-modules/challenge.md)
+  * [CV \(Talentbank\)](by-modules/open-source-modules/cv-talentbank.md)
+  * [Collection](by-modules/open-source-modules/collection.md)
+  * [Comment](by-modules/open-source-modules/comment.md)
+  * [esLog](by-modules/open-source-modules/eslog.md)
 
