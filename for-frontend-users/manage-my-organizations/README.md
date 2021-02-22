@@ -1,16 +1,12 @@
-# Manage My Organizations
+# Manage My Organisations
 
-### Create Organizations
+### Create Organisations
 
-You may create a new organization profile if it does not exists in CENTRAL yet. Or, you may join an existing organization profile.
+You may create a new organisation profile if it does not exists in CENTRAL yet. Or, you may join an existing organisation profile.
 
 ![](../../.gitbook/assets/screenshot-2021-02-22-at-12.00.39-pm.png)
 
-### Update Organization
-
-### Manage Team Members
-
-### Manage Products
+### Update Organisation
 
 
 
