@@ -19,6 +19,7 @@
 * [Running an event](for-program-owner/running-an-event.md)
 * [Running a program](for-program-owner/running-a-program.md)
 * [Running an accelerator](for-program-owner/running-an-accelerator.md)
+* [Running a mentorship program](for-program-owner/running-a-mentorship-program.md)
 * [Train the trainer](for-program-owner/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 
