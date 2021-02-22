@@ -6,6 +6,8 @@ Programs with a selection stage like Bootcamps, University Startup Challenge \(*
 
 {% hint style="info" %}
 F7 is a Google form like CENTRAL module. Developers can create new form quickly in JSON language at a turnaround time of about 3 working days. 
+
+Using F7 has advantages like applicant can reuse their company profile in submission. Entire workflow from application stage to KPI reporting stage can be automated and to comply with SOP.
 {% endhint %}
 
 ![An example of F7 form](../.gitbook/assets/screenshot-2021-02-22-at-10.02.02-am.png)
