@@ -14,7 +14,7 @@ For time being, standard answer is about 3k in Malaysia, our alumni is about 1.5
 Public Impact Dashboard providing ilve data from Central and accessible by public from URL: [https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ\_Qp/page/A3L1?s=mISRUN\_djwg](https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ_Qp/page/A3L1?s=mISRUN_djwg)
 {% endhint %}
 
-![Dashboard has about 2,565 startups and 1,555 unique startup](../.gitbook/assets/screenshot-2021-02-22-at-11.22.42-am.png)
+![2,656 \(join multiple programs\) and 1,555 \(unique startup\)](../.gitbook/assets/screenshot-2021-02-22-at-11.22.42-am.png)
 
 
 
