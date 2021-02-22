@@ -4,8 +4,6 @@ description: CENTRAL is a one-stop startup ecosystem management tool.
 
 # What is CENTRAL
 
-
-
 It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosystem partners & entrepreneurs through integrated, convenient and quality digital services.
 
 {% hint style="warning" %}
