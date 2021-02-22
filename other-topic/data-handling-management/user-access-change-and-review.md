@@ -3,7 +3,7 @@
 {% hint style="info" %}
 **Policy 1.2.1**
 
-* UAM review shall be conducted on a yearly basis.
+* UAM \(User Access Matrix\) review shall be conducted on a yearly basis.
 * Default user access is limited to the user’s respective department upon recruitment.
 {% endhint %}
 
