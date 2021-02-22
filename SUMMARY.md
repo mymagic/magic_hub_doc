@@ -57,7 +57,7 @@
   * [Community](by-modules/magic-specific-modules/community.md)
   * [Activate](by-modules/magic-specific-modules/magic-activate/README.md)
     * [Activate for Solution Provider](by-modules/magic-specific-modules/magic-activate/activate-for-solution-provider.md)
-    * [Activate for Problem Statement Woner](by-modules/magic-specific-modules/magic-activate/activate-for-problem-statement-owner.md)
+    * [Activate for Problem Statement Owner](by-modules/magic-specific-modules/magic-activate/activate-for-problem-statement-owner.md)
     * [Activate for Program Owner](by-modules/magic-specific-modules/magic-activate/activate-for-program-owner.md)
   * [Envoy](by-modules/magic-specific-modules/envoy.md)
   * [ATAS](by-modules/magic-specific-modules/atas.md)

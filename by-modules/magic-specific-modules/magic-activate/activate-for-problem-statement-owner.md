@@ -1,4 +1,4 @@
-# Activate for Problem Statement Woner
+# Activate for Problem Statement Owner
 
 In the past, big corporate is the focus and only source of problem statement supply. However, with a true open innovation challenge, we empowered everyone to utilise this platform regardless of their size and background, from startup to government and even individual. 
 
