@@ -4,7 +4,7 @@ We will never have a definite number. One needs to understand startup is not a c
 
 Just like if u ask TEKUN on how many micro SME in Malaysia; they would not be able to give an exact number. People may start selling burger this month but stop in next month. They can only give number base on their funding application and run program to encourage these micro SME to register.
 
-Hence, to better answer this question, all magician should work together. We can educate and encourage startups we encounter to register with SSM.
+Hence, to better answer this question, all magician can work together to educate and encourage startups we encounter to form a proper company and proceed to register with SSM.
 
 For time being, standard answer is about 3k in Malaysia, our alumni is about 1.5 to 2k. Strategy team is the custodian of this number.
 
