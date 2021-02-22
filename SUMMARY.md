@@ -71,3 +71,7 @@
   * [Comment](by-modules/open-source-modules/comment.md)
   * [esLog](by-modules/open-source-modules/eslog.md)
 
+## Other Topics <a id="other-topic"></a>
+
+* [Number of Startups](other-topic/number-of-startups.md)
+
