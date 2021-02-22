@@ -16,3 +16,5 @@ We periodically check our numbers with database from news site like [TIA](https:
 
 ![Debatable if listed company should be counted as startup or not](../.gitbook/assets/screenshot-2021-02-22-at-10.40.14-am.png)
 
+![E27 shows about 2000 Malaysia Startups](../.gitbook/assets/screenshot-2021-02-22-at-11.18.14-am.png)
+
