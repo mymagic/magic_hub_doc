@@ -10,6 +10,8 @@ For time being, standard answer is about 3k in Malaysia, our alumni is about 1.5
 
 #### Number from TIA and E27
 
+We periodically check our numbers with database from news site like [TIA](https://www.techinasia.com/companies) & [E27](https://e27.co/startups/).  
+
 ![TIA shows about 2000 Malaysia startups](../.gitbook/assets/screenshot-2021-02-22-at-10.39.20-am.png)
 
 ![Debatable if listed company should be counted as startup or not](../.gitbook/assets/screenshot-2021-02-22-at-10.40.14-am.png)
