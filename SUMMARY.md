@@ -9,7 +9,8 @@
 
 * [MaGIC Account](for-frontend-users/magic-account.md)
 * [Member Control Panel](for-frontend-users/untitled.md)
-* [Manage My Organizations](for-frontend-users/manage-my-organizations.md)
+* [Manage My Organizations](for-frontend-users/manage-my-organizations/README.md)
+  * [Manage Organisation's Resources](for-frontend-users/manage-my-organizations/manage-organisations-resources.md)
 * [Manage My Profile](for-frontend-users/manage-my-profile.md)
 
 ## For Program Owner
