@@ -20,7 +20,7 @@ Magic Activate is a MaGIC owned program make use and build on top of the challen
 MaGIC Activate module is not open source while challenge  module is.
 {% endhint %}
 
-{% page-ref page="../magic-specific-modules/magic-activate.md" %}
+{% page-ref page="../magic-specific-modules/magic-activate/" %}
 
 
 
