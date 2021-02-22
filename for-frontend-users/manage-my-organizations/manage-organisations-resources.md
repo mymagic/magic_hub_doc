@@ -1,6 +1,6 @@
 # Manage Organisation's Resources
 
-Resources are attach to an organisation. To manage or add a new one, you must first select an organisation to start with.
+Resources are attach to organisation. To manage or add a new one, you must first select an organisation to start with.
 
 ### List Resources
 
@@ -26,6 +26,12 @@ Approved Submission will be automatically publish onto Central Resource frontend
 5. Click `Save` button once you done editing. Your changes will automatically published onto the frontend without the need for admin approval.
 
 ### Resource Frontend
+
+MaGIC Resource is a crowdsource directory with a comprehensive collection of products and services from public and private organisations, available for entrepreneur. 
+
+{% hint style="warning" %}
+Do not spam this crowdsource directory with irrelevant products or services. Doing so may cause your account to be blacklisted and blocked permanently without warning. 
+{% endhint %}
 
 ![](../../.gitbook/assets/screenshot-2021-02-22-at-12.11.27-pm.png)
 
