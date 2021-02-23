@@ -51,17 +51,35 @@ Please check your spam box if you failed to receive the verification email. This
 
 ### After Login
 
+Upon successful login, you may be redirected to:
+
+* Update Profile page in MaGIC Account
+* MaGIC Central Member Control Panel
+* A preset URL to continue your action before this
+
 ![](../.gitbook/assets/screenshot-2021-02-23-at-11.41.37-am.png)
 
 ### Logout
+
+Logout from the system is as easy as clicking your avatar on the header bar and select "**Logout**".
 
 ### Forgot Password
 
 In case you have lost your password, you may retrieve it back by clicking the "**Forgot Password**" link on login page.
 
-![](../.gitbook/assets/screenshot-2021-02-23-at-11.59.13-am.png)
+1. Fill in the Reset Password form with your email address and click **Send Request** button,
 
-![](../.gitbook/assets/screenshot-2021-02-23-at-11.59.35-am.png)
+![Reset Password form](../.gitbook/assets/screenshot-2021-02-23-at-11.59.13-am.png)
+
+2. An email will be automatically sent to your mailbox. Follow the instruction and click "**Reset Password**" button. 
+
+Repeat step 1 if you did not receive this email within an hour to have the system resend a new email.
+
+![Email Instruction on Reset Password](../.gitbook/assets/screenshot-2021-02-23-at-11.59.35-am.png)
+
+3. The link will brought you to this **Reset Password** page. Insert the same email address but new password to proceed.
+
+Upon successful reset, you will be redirected to "Central Member Control Panel".
 
 ![](../.gitbook/assets/screenshot-2021-02-23-at-11.59.44-am.png)
 
