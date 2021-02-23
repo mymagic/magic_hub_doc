@@ -16,6 +16,8 @@ Multiple events can be group under 1 Event Group. For example, a 'MaGIC Accelera
 
 ### Create Event
 
+### Update Event
+
 ### Event Owners
 
 ### Event Registrations
@@ -24,9 +26,13 @@ Event registration keeps track of individuals who participated in an event.
 
 These data can be sync thru modules like `Eventbrite` and `Bizzabo`. It can also be manually bulk loaded using spreadsheet. \(todo: attach link of the spreadsheet template here\).
 
-### Event Organizations
+#### Manually a**dd Events Attendance \(Individual Participants\)**
+
+### Event Organisations
 
 Event Organization keeps track of companies/organizations who participated in an event. For examples, an event would be organised by `MaGIC` and `Ministry of Technology`, sponsored by `Google` and `Facebook`, with judges came from `Multimedia University` and `Startup Melaka`.
+
+#### Manually a**dd Events Attendance \(Organisation Participants\)**
 
 ### Surveys
 
