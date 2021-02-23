@@ -63,6 +63,8 @@ Upon successful login, you may be redirected to:
 
 Logout from the system is as easy as clicking your avatar on the header bar and select "**Logout**".
 
+Please note for better security, the system will automatically log you out once its detected idle session. 
+
 ### Forgot Password
 
 In case you have lost your password, you may retrieve it back by clicking the "**Forgot Password**" link on login page.
