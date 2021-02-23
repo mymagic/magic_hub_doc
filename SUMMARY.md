@@ -84,4 +84,5 @@
   * [Data Backup](other-topic/data-handling-management/data-backup.md)
   * [User Access Change & Review](other-topic/data-handling-management/user-access-change-and-review.md)
   * [Security & Data Breach](other-topic/data-handling-management/security-and-data-breach.md)
+* [Deprecated](other-topic/deprecated.md)
 
