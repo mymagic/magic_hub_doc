@@ -18,7 +18,7 @@ A rating design to check the completeness of organization profile in Central sys
 
 The only mandatory field here is Title. Providing more information base on the table below will increase completeness scoring \(0-100%\).
 
-Each of these fields has a weightage from 1-5. 
+Each of these fields has a weightage from 1 \(less important\) to 5 \(more important\).
 
 | Field | Weight |
 | :--- | :--- |
