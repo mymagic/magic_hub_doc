@@ -12,15 +12,17 @@
 
 ### Merge Duplicated Organization
 
-### Housekeeping
-
 ### Profile Completeness Score
 
 A rating design to check the completeness of organization profile in Central system.
 
+The only mandatory field here is Title. Providing more information base on the table below will increase completeness scoring \(0-100%\).
+
+Each of these fields has a weightage from 1-5. 
+
 | Field | Weight |
 | :--- | :--- |
-| Title | 5 |
+| Title\* | 5 |
 | One liner | 5 |
 | Country | 5 |
 | Logo | 4 |
@@ -33,7 +35,9 @@ A rating design to check the completeness of organization profile in Central sys
 | Full Address | 3 |
 | Short Description | 1 |
 
+### Housekeeping
+
 {% hint style="info" %}
-This is a developer only function
+This is a developer-admin only function
 {% endhint %}
 
