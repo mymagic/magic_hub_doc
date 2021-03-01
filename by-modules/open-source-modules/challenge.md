@@ -1,8 +1,12 @@
 # Challenge
 
-Challenge is a problem statement database. 
+Challenge is a problem statement database.
 
 ### Open Challenge
+
+Anyone can create and publish a challenge. Challenge will be listed on frontend and for solution provider to submit proposal.
+
+
 
 ### Manage Challenges
 

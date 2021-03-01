@@ -6,7 +6,7 @@ Solution Provider interact with MaGIC Activate service from the `frontend` as we
 
 ### Browse Challenges
 
-![A typical MaGIC Activate frontend](../../../.gitbook/assets/magic-central.png)
+![Challenge directory on frontend](../../../.gitbook/assets/screenshot-2021-03-01-at-6.25.44-pm.png)
 
 Featured challenges are listed on the front page while all including non-featured are listed on the `Challenges` page, sorted by latest challenge on top \(base on closing date\).
 
@@ -14,13 +14,26 @@ Featured challenges are listed on the front page while all including non-feature
 
 ![Click the Participate button to propose your solution](../../../.gitbook/assets/magic-dev-.png)
 
-Solution provider may click into a specific challenge to understand its detail such as expected deliverable, selection criteria, prizes and timeline. 
+Solution provider \(Startups, Social Innovator\) may click into a specific challenge to learn more on its detail like expected deliverable, selection criteria, prizes and timeline. 
 
 After decision made, he may proceed to propose solution to this challenge by clicking `Participate` button on the right.
 
-A form will display.
+A form will show up.
 
 ![Example of challenge participation form](../../../.gitbook/assets/screenshot-2021-02-22-at-3.19.41-pm.png)
 
 Fill up and submit before the closing date.
+
+### After Submit
+
+Program owner or admin will help the Problem Statement owner to manage the submission by updating its status as workflow below:
+
+1. **Application** - This is a new application.
+2. **Pending** - This submission is submitted and pending for admin action.
+3. **Approved** - This submission has been accepted as one of the solution by problem owner
+4. **Rejected** - This submission is rejected by problem owner
+
+### Others
+
+![An example of page long challenges](../../../.gitbook/assets/magic-central.png)
 
