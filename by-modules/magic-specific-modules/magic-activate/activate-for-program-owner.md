@@ -6,6 +6,8 @@ MaGIC Activate used `Challenge` module as backend and its management interface c
 
 `Backend` -&gt; `Service` -&gt; `Challenge` -&gt; `Manage`
 
+![Manage Challenges](../../../.gitbook/assets/screenshot-2021-03-02-at-12.44.36-am.png)
+
 ### Workflow for Challenge \(Problem Statement\)
 
 As admin, you can perform the following workflow action onto a challenge submission by problem statement owner.
