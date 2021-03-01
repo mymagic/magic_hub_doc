@@ -55,9 +55,29 @@ Click `Add` button and you will have to fill up a form to post:
 
 ![In Update Challenge screen](../../../.gitbook/assets/screenshot-2021-03-01-at-7.12.45-pm.png)
 
-Click `Submit` button and you will not be able to revert to editing mode.
+Click `Submit` button and you will not be able to revert to editing mode. An notification email will be sent to your user account.
 
-### Getting Featured
+### Preview Challenge
+
+Once submitted, you can preveiw your challenge at Member Control Panel while waiting for admin approval for listing.
+
+![](../../../.gitbook/assets/screenshot-2021-03-01-at-7.20.01-pm.png)
+
+![](../../../.gitbook/assets/screenshot-2021-03-01-at-7.20.10-pm.png)
+
+### Getting Approval & Featured
+
+{% hint style="success" %}
+MaGIC Alumni with Campus ID will be able to acquired auto approval upon submission without any human intervention.
+{% endhint %}
+
+It's solely MaGIC Program Owner or Admin decision to approve, approve with featured or reject a challenge post. 
 
 ### Receiving application from Solution Provider
+
+{% hint style="info" %}
+Function to allow Problem Statement Owner DIY manage submission from Solution Provider is under development. 
+{% endhint %}
+
+For the time being, Program owner or admin will help the Problem Statement owner to manage the submissions manually.
 
