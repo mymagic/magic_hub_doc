@@ -22,5 +22,24 @@ As admin, you can perform the following workflow action onto a challenge submiss
 
 ### Workflow for Solution Provider
 
-### F7 Form
+The entire workflow is handled by F7 Stage:
+
+1. `application` - Submitted new application
+2. `pending` - Pending for problem statement owner
+3. `approved` - Proposed solution is approved by problem statement owner
+4. `rejected` - Rejected by problem statement owner
+
+An application can be edited under `draft` mode. Once submit in `submitted` status, application is not editable. However, before closing date, applicant can revert a submitted application back to `draft` for re-editing. 
+
+### F7 Form Solution Provider Submission
+
+You can manage all submission of a particular challenge by viewing into a challenge.
+
+![View Challenge](../../../.gitbook/assets/screenshot-2021-03-02-at-12.40.40-am.png)
+
+Click link under `Applicaiton` form and you will be brought to the F7 form page in backend.
+
+![View F7 Form](../../../.gitbook/assets/screenshot-2021-03-02-at-12.42.28-am.png)
+
+All submissions \(`draft` and `submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
 

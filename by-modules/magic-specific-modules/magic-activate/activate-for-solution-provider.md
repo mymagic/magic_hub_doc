@@ -26,7 +26,7 @@ Fill up and submit before the closing date.
 
 ### After Submit
 
-Program owner or admin will help the Problem Statement owner to manage the submission by updating its status as workflow stated in page:
+Applicant submission will be managed by program owner or admin, following '**Workflow for Solution Provider**' stated here:
 
 {% page-ref page="activate-for-program-owner.md" %}
 
