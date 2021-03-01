@@ -26,12 +26,11 @@ Fill up and submit before the closing date.
 
 ### After Submit
 
-Program owner or admin will help the Problem Statement owner to manage the submission by updating its status as workflow below:
+Program owner or admin will help the Problem Statement owner to manage the submission by updating its status as workflow stated in page:
 
-1. **Application** - This is a new application.
-2. **Pending** - This submission is submitted and pending for admin action.
-3. **Approved** - This submission has been accepted as one of the solution by problem owner
-4. **Rejected** - This submission is rejected by problem owner
+{% page-ref page="activate-for-program-owner.md" %}
+
+
 
 ### Others
 
