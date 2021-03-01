@@ -22,9 +22,11 @@ A form will show up.
 
 ![Example of challenge participation form](../../../.gitbook/assets/screenshot-2021-02-22-at-3.19.41-pm.png)
 
-Fill up and submit before the closing date.
+Fill up and submit before the closing date. You are not allowed to edit it when it is in `Submitted`stage. However, before closing date, you may revert a submission back to `Draft` stage for editing.
 
 ### After Submit
+
+The application status is now `Submitted`
 
 Applicant submission will be managed by program owner or admin, following '**Workflow for Solution Provider**' stated here:
 
