@@ -24,11 +24,14 @@ A form will show up.
 
 Fill up and submit before the closing date. You are not allowed to edit it when it is in `Submitted`stage. However, before closing date, you may revert a submission back to `Draft` stage for editing.
 
+* User need to login to MaGIC Central account to access the form
+* A user can only make one submission \(NOT MULTIPLE\) for each challenge
+
 ### After Submit
 
 The application status is now `Submitted`
 
-Applicant submission will be managed by program owner or admin, following '**Workflow for Solution Provider**' stated here:
+Applicant's submission will be managed by program owner or admin, following '**Workflow for Solution Provider**' stated here:
 
 {% page-ref page="activate-for-program-owner.md" %}
 
