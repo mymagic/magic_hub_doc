@@ -18,7 +18,7 @@
 ## For Program Owner
 
 * [Submitting Request to Tech team](for-program-owner/submitting-request-to-tech-team.md)
-* [CENTRAL Backend](for-program-owner/accessing-the-backend.md)
+* [Access CENTRAL Backend](for-program-owner/accessing-the-backend.md)
 * [End-to-end Automation](for-program-owner/end-to-end-automation/README.md)
   * [Running an event](for-program-owner/end-to-end-automation/running-an-event.md)
   * [Running a program](for-program-owner/end-to-end-automation/running-a-program.md)
