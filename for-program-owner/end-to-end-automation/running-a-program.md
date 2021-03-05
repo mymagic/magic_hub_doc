@@ -10,9 +10,9 @@ F7 is a Google form like CENTRAL module. Developers can create new form quickly 
 Using F7 has advantages like applicant can reuse their company profile in submission. Entire workflow from application stage to KPI reporting stage can be automated and to comply with SOP.
 {% endhint %}
 
-![An example of F7 form](../.gitbook/assets/screenshot-2021-02-22-at-10.02.02-am.png)
+![An example of F7 form](../../.gitbook/assets/screenshot-2021-02-22-at-10.02.02-am.png)
 
-{% page-ref page="../by-modules/open-source-modules/f7-form/" %}
+{% page-ref page="../../by-modules/open-source-modules/f7-form/" %}
 
 Accelerators such as Global Accelerator Program \(**GAP**\) will be using the ATAS module. Please read `Running an accelerator`page for details.
 

@@ -6,7 +6,7 @@ description: From Application to KPI Reporting
 
 CENTRAL facilitates your programs and events from the application stage, selection stage, KPI reporting and up to post-event survey stage. The main goal is to reduce human intervention in the process to ensure data integrity and to promote transparency.
 
-![](../.gitbook/assets/screenshot-2021-02-08-at-12.48.39-pm.png)
+![](../../.gitbook/assets/screenshot-2021-02-08-at-12.48.39-pm.png)
 
 {% embed url="https://docs.google.com/presentation/d/1wDNsWqn8b05EgGwN9zP8TakFieZc59zW\_\_qXt1f8Kxw/edit?usp=sharing" caption="MaGIC Central \(Events & F7\) for program owner" %}
 

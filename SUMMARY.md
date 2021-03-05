@@ -19,12 +19,12 @@
 
 * [Submitting Request to Tech team](for-program-owner/submitting-request-to-tech-team.md)
 * [CENTRAL Backend](for-program-owner/accessing-the-backend.md)
-* [End-to-end Automation](for-program-owner/end-to-end-automation.md)
-* [Running an event](for-program-owner/running-an-event.md)
-* [Running a program](for-program-owner/running-a-program.md)
-* [Running an accelerator](for-program-owner/running-an-accelerator.md)
-* [Running a mentorship program](for-program-owner/running-a-mentorship-program.md)
-* [Train the trainer](for-program-owner/train-the-trainer.md)
+* [End-to-end Automation](for-program-owner/end-to-end-automation/README.md)
+  * [Running an event](for-program-owner/end-to-end-automation/running-an-event.md)
+  * [Running a program](for-program-owner/end-to-end-automation/running-a-program.md)
+  * [Running an accelerator](for-program-owner/end-to-end-automation/running-an-accelerator.md)
+  * [Running a mentorship program](for-program-owner/end-to-end-automation/running-a-mentorship-program.md)
+  * [Train the trainer](for-program-owner/end-to-end-automation/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
 
 ## For Ecosystem Developers
