@@ -1,6 +1,6 @@
 # Submitting Request to Tech team
 
-To handle program owners request better in a more systematic way, we introduced '[Tech Software Request Form](https://docs.google.com/document/d/147kl-tehu3Z3rVUBiNRcJlyVuVGqYcPXulRXyEPkxQE/)'. Please feel free to duplicate this template and fill up to submit to Tech thru JIRA or Email.
+To handle program owners request better in a more systematic way, we introduced '[Tech Software Request Form](https://docs.google.com/document/d/147kl-tehu3Z3rVUBiNRcJlyVuVGqYcPXulRXyEPkxQE/)'. Please feel free to duplicate this template and fill up to submit to Tech thru JIRA \(preferred\) or Email.
 
 This is also part of our SOP process and requirements from '[SOP Event & Program Management'](https://drive.google.com/file/d/11iDCfN-OZ_CGii43_-A23t8tZQ5axcDI/view?usp=sharing) & '[SOP System Development](https://drive.google.com/file/d/1i34sAP5hJLr5dIL5E__cXeXOI3qFK4bJ/view?usp=sharing)'. \(we are refining these SOP\)
 
