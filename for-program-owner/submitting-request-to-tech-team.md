@@ -6,7 +6,7 @@ This is also part of our SOP process and requirements from '[SOP Event & Program
 
 ![SOP Event &amp; Program Management](../.gitbook/assets/screenshot-2021-03-05-at-10.23.33-am.png)
 
-![SOP System Development](../.gitbook/assets/image1.png)
+![](../.gitbook/assets/image1.png)
 
 {% hint style="info" %}
 Program Owners are expected to submit this at earlier of the year as soon as possible when their project execution memo is approved.
