@@ -20,7 +20,11 @@ Upcoming events that you registered, mentorship booking made as well as expiring
 
 Recommendation and highlight curated by various services and modules, base on user's personalisation, display here in card form. 
 
+![](../.gitbook/assets/screenshot-2021-03-17-at-2.40.34-pm.png)
+
 ### Activity Feeds
 
 This is where your past activities with MaGIC are shown.
+
+![](../.gitbook/assets/screenshot-2021-03-17-at-2.39.40-pm.png)
 
