@@ -6,13 +6,21 @@
 
 ![](../.gitbook/assets/screenshot-2021-03-10-at-3.38.06-pm.png)
 
-First time login user will be prompt to insert interest so the system can better serve them with personalisation.
+First time login user will be prompt to insert interest in order for the system to serve them better with personalisation features.
 
 ### Need  Help?
 
+Try our 'Getting Started Wizard' and 'Startup Journey Map' if you are new to MaGIC. The wizard will walk you thru an interactive guide and help you identify your current stage in [MaGIC Startup Stages](../magic-startup-stages.md), suggesting programs that you should join. While Startup Journey Map give you an overview to help you get started quickly.
+
 ### Your Upcoming Activities
+
+Upcoming events that you registered, mentorship booking made as well as expiring application form you are filling up all display here as reminder. 
 
 ### System Recommendation
 
+Recommendation and highlight curated by various services and modules, base on user's personalisation, display here in card form. 
+
 ### Activity Feeds
+
+This is where your past activities with MaGIC are shown.
 

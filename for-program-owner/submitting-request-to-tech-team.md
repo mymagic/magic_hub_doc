@@ -16,6 +16,7 @@ Take Notes:
 
 * Memo must be approved by CEO and attach as a copy here
 * All projects must appoint a person in charge. Tech team appointed project manager will liaise with this personnel only. 
+* All project must have gone through UAT test \(where program owner is involve\) before it can be publish onto the Internet. 
 * All project must renew yearly, else allocated resources will automatically discontinued \(e.g. domain name etc\)
-* All SLA duration is 6 months with another 6 months extensible.
+* All SLA duration is 6 months with another 6 months extension with a total budget not more than MYR 100k.
 
