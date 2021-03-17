@@ -10,7 +10,7 @@ First time login user will be prompt to insert interest in order for the system 
 
 ### Need  Help?
 
-Try our 'Getting Started Wizard' and 'Startup Journey Map' if you are new to MaGIC. The wizard will walk you thru an interactive guide and help you identify your current stage in [MaGIC Startup Stages](../magic-startup-stages.md), suggesting programs that you should join. While Startup Journey Map give you an overview to help you get started quickly.
+Try our '[Getting Started Wizard](https://central.mymagic.my/wizard)' and '[Startup Journey Map](https://www.mymagic.my/startup-journey-map)' if you are new to MaGIC. The wizard will walk you thru an interactive guide and help you identify your current stage in [MaGIC Startup Stages](../magic-startup-stages.md), suggesting programs that you should join. While Startup Journey Map give you an overview to help you get started quickly.
 
 ### Your Upcoming Activities
 
