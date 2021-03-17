@@ -1,6 +1,6 @@
 # Network
 
-Network is a module that to replace community. Inspired by StartupSg and StartupBlink, it provide map view driven filter to browse and search alumni.
+Network is a module that to replace community. Inspired by StartupSg and StartupBlink, it provides map  driven filter to browse and search alumni.
 
 ![Map view filter](../../.gitbook/assets/screenshot-2021-03-17-at-1.39.28-pm.png)
 
