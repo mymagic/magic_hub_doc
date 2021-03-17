@@ -22,3 +22,5 @@ Our data came from these sources:
 * Public information found on social media
 * Public information on the internet \(crunchbase, data.gov.my, etc\)
 
+While we try to make sure these information are as accurate as possible, by tied it up with our KPI creating a single source of truth, but it should only be use as a reference.
+
