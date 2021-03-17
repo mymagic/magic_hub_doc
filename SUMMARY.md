@@ -54,8 +54,9 @@
 ## By Modules
 
 * [MaGIC Specific Modules](by-modules/magic-specific-modules/README.md)
-  * [Mentorship](by-modules/magic-specific-modules/mentorship.md)
+  * [Network](by-modules/magic-specific-modules/network.md)
   * [Community](by-modules/magic-specific-modules/community.md)
+  * [Mentorship](by-modules/magic-specific-modules/mentorship.md)
   * [Activate](by-modules/magic-specific-modules/magic-activate/README.md)
     * [Activate for Solution Provider](by-modules/magic-specific-modules/magic-activate/activate-for-solution-provider.md)
     * [Activate for Problem Statement Owner](by-modules/magic-specific-modules/magic-activate/activate-for-problem-statement-owner.md)
