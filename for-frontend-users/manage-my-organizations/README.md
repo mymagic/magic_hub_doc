@@ -21,5 +21,11 @@ Don't be surprise if you are unable to locate the update button and modify organ
 
 ### How it link with F7 Form and other modules
 
+Your organisation profile is reusable for other services on MaGIC Central. For example, startup apply to MaGIC program using [F7 form](../../by-modules/open-source-modules/f7-form/) service using their existing organisations profile thru the selection list.
+
+1. Save Time of applicant reinserting same information over and over again
+2. Prevent duplication of entries
+3. Make data cleaning job easier as we are referring to the organisation using ID instead of name variants.
+
 
 
