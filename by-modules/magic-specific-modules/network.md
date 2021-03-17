@@ -12,3 +12,13 @@ Network service is integrated with [Resource Directory](../open-source-modules/r
 
 {% embed url="https://www.youtube.com/watch?v=CpbPGTuuYQY" %}
 
+### Data Source
+
+Our data came from these sources:
+
+* Application form that startup submitted
+* Organisation information that startup updated thru Member Control Panel
+* Survey answered by the startup
+* Public information found on social media
+* Public information on the internet \(crunchbase, data.gov.my, etc\)
+
