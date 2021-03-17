@@ -16,6 +16,12 @@ We understand our users have multiple email addresses and may use different ones
 
 ### Manage Notifications
 
+All MaGIC Mailchimp newsletters are listed here for you to DIY manage newsletter subscription.
+
+* You are free to subscribe / unsubscribe public and private newsletter
+* Private newsletter are display provided your email is tied to it by program owner
+* You are not allowed to subscribe to private newsletter where you are not invited
+
 ### Download Account Information
 
 You may **Terminate your account** from a link found at bottom of this page. Please note this action is none reversible and we will not be able to recover your account after this.
