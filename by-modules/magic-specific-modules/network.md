@@ -25,7 +25,7 @@ Our data came from these sources:
 
 While we try to make sure these information are as accurate as possible, by tied it up with our KPI creating a single source of truth, but it should only be use as a reference.
 
-### Use for entire ecosystem
+### For entire ecosystem use
 
 In near future, we like the entire ecosystem \(e.g. MDeC, Cradle, SITEC, SMA, SCEIC...\) to use this same interface to list their alumni. Then, we will have a comprehensive ecosystem wide database that everyone can refer to.  
 
