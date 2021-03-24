@@ -1,9 +1,13 @@
 # UAT
 
+### Definition
+
 | Cpanel | Member Control Panel |
 | :--- | :--- |
 | XP | Experience Point |
 | RP | Redeemable Point |
+
+### For Member
 
 * [ ] As a registered Central Member, I can signup for Campus ID membership for individual thru Cpanel
 * [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. It gets instant approval once auto identification done. 
@@ -19,4 +23,15 @@
   * [ ] I can claim points from the event list
   * [ ] Points claimed are immediately debit into my Campus ID membership account
   * [ ] List of transaction of points
+
+### For Admin
+
+* [ ] As admin, I can see `Manage Campus` menu item in backend under services
+* [ ] As admin, I can view a list of campus member
+* [ ] As admin, I can allocate points to an event
+  * [ ] I can choose to give to the individual or organization participants
+  * [ ] For individual, I can give to those with attendance only using role code 'isAttended'
+  * [ ] For organization, I can give to those selected participants by using role code 'selectedParticipant'
+  * [ ] I can see a list of qualified individuals or organizations and they had made the claim or not
+  * [ ] I understand I cant simply change the points when there already a claim being made out of the entire list
 
