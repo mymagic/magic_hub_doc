@@ -68,6 +68,8 @@
   * [Ideabank](by-modules/magic-specific-modules/ideabank.md)
   * [NTIS](by-modules/magic-specific-modules/ntis.md)
   * [News](by-modules/magic-specific-modules/news.md)
+  * [Campus ID](by-modules/magic-specific-modules/campus-id/README.md)
+    * [UAT](by-modules/magic-specific-modules/campus-id/uat.md)
 * [Open Source Modules](by-modules/open-source-modules/README.md)
   * [Resource Directory](by-modules/open-source-modules/resource-directory.md)
   * [F7 Form](by-modules/open-source-modules/f7-form/README.md)
