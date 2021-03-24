@@ -6,12 +6,17 @@
 | :--- | :--- |
 | XP | Experience Point |
 | RP | Redeemable Point |
+| EKYC | Electronic Know Your Customer |
 
 ### For Member
 
 * [ ] As a registered Central Member, I can signup for Campus ID membership for individual thru Cpanel
-* [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. It gets instant approval once auto identification done. 
+* [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. 
+  * [ ] Using Blink, my application is instant approve once auto identification completed
+  * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method
 * [ ] As a registered Central Member, I get a Campus ID Membership code \(e.g. 'P99999'\) upon successful enrollment. Approved Individual EKYC is part of the requirements.
+* [ ] As a registered Central Member, I can acquire a Campus ID Membership code \(e.g. 'C88888'\) for my organization profile
+  * [ ] I can submit application by providing information like \(SSM Reg No, SSM Company Name, SSM Company Address, SSM copy of documentation\) and have it process manually
 * [ ] As a Campus ID member, I understand there are 2 type of membership. One for individual and one for organization.
 * [ ] As a Campus ID member, I can go to Cpanel homepage and see my current XP and RP there
 * [ ] As a Campus ID member, I also can get to Campus ID Member page thru Cpanel
