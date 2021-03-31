@@ -14,17 +14,18 @@ description: User Acceptance Test for tester
 
 ### For Member
 
-#### Membership, Cpanel, EKYC
+#### Membership, Cpanel
 
 * [ ] As a Campus ID member, I understand there are 2 type of membership. One for individual and one for organization.
 * [ ] As a registered Central Member, I can signup for Campus ID membership for individual thru Cpanel
 * [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. 
   * [ ] Using Blink, my application is instant approve once auto identification completed
   * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method
+  * [ ] For both process, I can proceed to enroll Campus ID once my EKYC is approved
 * [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'P99999'\) for my individual upon successful enrollment. 
   * [ ] Approved Individual EKYC is part of the requirements.
   * [ ] Terms and conditions will be displayed and I need to click Accept to proceed
-  * [ ] I should get it instantly
+  * [ ] I should acquire the membership ID instantly
 * [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'C88888'\) for my organization profile upon successful enrollment.
   * [ ] I can submit application by providing information like \(SSM Reg No, SSM Company Name, SSM Company Address, SSM copy of documentation\) and have it process manually
 * [ ] As a Campus ID member, I can go to Cpanel homepage and see my current XP and RP there
@@ -33,7 +34,7 @@ description: User Acceptance Test for tester
   * [ ] My Campus ID membership code
   * [ ] My Campus ID associated EKYC info like full name, mykad
   * [ ] List of campus ID membership I have access to and able to switch in between them
-  * [ ] List of events I participated
+  * [ ] List of events I participated which has allocated points
   * [ ] I can claim points from the event list
   * [ ] Points claimed are immediately debit into my Campus ID membership account
   * [ ] List of transaction of points

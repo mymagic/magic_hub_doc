@@ -10,7 +10,9 @@ A user / organisation only can have 1 approve EKYC record at a time.
 
 #### Auto with BlinkID
 
-This is the default interface for user who like to verify their identity. The steps are simply:
+![](../../.gitbook/assets/screenshot-2021-03-31-at-9.06.15-am.png)
+
+This is the default interface for users who like to verify their identity. The steps are simply:
 
 1. Scan this QR Code with your smartphone camera. Keep this page open.
 2. Open QR Code URL in your smartphone browser.
@@ -24,6 +26,8 @@ The approval process for auto verification is instant, however, please note:
 * In the case where auto verification failed, a message will be shown after 30 seconds \(this value can be customized by admin\) to redirect user to the manual process
 
 #### Manual Process
+
+![](../../.gitbook/assets/screenshot-2021-03-31-at-9.19.26-am.png)
 
 1. User to upload required scanned ID documents and input detail
 2. Admin will process accordingly. Admin may raise question to user \(e.g. to upload a clearer document\) and the applicant will be notified thru email or he can check thru frontend interface at  `ekyc/frontend/manage`
