@@ -48,6 +48,7 @@ description: User Acceptance Test for tester
   * [ ] Tells who can redeem \(organization or individual or both\)
   * [ ] How many RP required to redeem this
   * [ ] Minimal qualified XP required to redeem this
+  * [ ] Perk only display within the set start and end date
 * [ ] As Campus ID member, I can redeem a perk
   * [ ] I can include a note to perk provider along with my submission
   * [ ] My RP will be deducted and transfer to the perks provider i redeem from
