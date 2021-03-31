@@ -1,3 +1,7 @@
+---
+description: User Acceptance Test for tester
+---
+
 # UAT
 
 ### Definition
@@ -44,16 +48,28 @@
   * [ ] How many RP required to redeem this
   * [ ] Minimal qualified XP required to redeem this
 * [ ] As Campus ID member, I can redeem a perk
+  * [ ] I can include a note to perk provider along with my submission
   * [ ] My RP will be deducted and transfer to the perks provider i redeem from
+  * [ ] For perk who limit to 1 per user, I should not beable to submit twice unless the previous submission is marked 'cancel' or 'rejected'.
 
 ### For Admin
 
-* [ ] As admin, I can see `Manage Campus` menu item in backend under services
+* [ ] As admin, I can see `Manage Campus` menu item in backend under `services`
 * [ ] As admin, I can view a list of campus member
 * [ ] As admin, I can allocate points to an event
   * [ ] I can choose to give to the individual or organization participants
   * [ ] For individual, I can give to those with attendance only using role code 'isAttended'
   * [ ] For organization, I can give to those selected participants by using role code 'selectedParticipant'
   * [ ] I can see a list of qualified individuals or organizations and they had made the claim or not
-  * [ ] I understand I cant simply change the points when there already a claim being made out of the entire list
+  * [ ] I understand I cant simply change the points when there already a claim being made out of the entire listAs admin, I can allocate points to an event
+* [ ] As admin, I can manage transactions
+  * [ ] I can add point to a member
+  * [ ] I can reduct point from a member
+  * [ ] I should not beable to edit allocated points. To adjust, i just need to add another new transaction.
+  * [ ] I should not beable to delete a transaction
+  * [ ] I can view the detail of a specific transaction
+* [ ] As admin, I can manage perks
+  * [ ] I can add perk
+  * [ ] I can edit perk
+  * [ ] I can deactivate a perk
 
