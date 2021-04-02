@@ -20,8 +20,8 @@ description: User Acceptance Test for tester
 * [ ] As a registered Central Member, I can signup for Campus ID membership for individual thru Cpanel
 * [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. 
   * [ ] Using Blink, my application is instant approve once auto identification completed
-  * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method
-  * [ ] For both process, I can proceed to enroll Campus ID once my EKYC is approved
+  * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method. User should beable to reach this manual method without asking human for help.
+  * [ ] For both process, I can proceed to enroll Campus ID once my EKYC is approved 
 * [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'P99999'\) for my individual upon successful enrollment. 
   * [ ] Approved Individual EKYC is part of the requirements.
   * [ ] Terms and conditions will be displayed and I need to click Accept to proceed
