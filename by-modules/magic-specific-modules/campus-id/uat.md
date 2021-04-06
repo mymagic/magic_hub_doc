@@ -38,7 +38,7 @@ description: User Acceptance Test for tester
   * [ ] I can claim points from the event list
   * [ ] Points claimed are immediately debit into my Campus ID membership account
   * [ ] List of transaction of points
-* [ ] After EKYC myself, my profile in member control panel will be lock from updating
+* [ ] After EKYC myself, my profile in Cpanel is sync and lock from updating
 
 #### Perks
 
