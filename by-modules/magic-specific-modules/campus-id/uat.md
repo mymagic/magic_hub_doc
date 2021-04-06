@@ -22,7 +22,7 @@ description: User Acceptance Test for tester
   * [ ] Using Blink, my application is instant approve once auto identification completed
   * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method. User should beable to reach this manual method without asking human for help.
   * [ ] For both process, I can proceed to enroll Campus ID once my EKYC is approved 
-* [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'P99999'\) for my individual upon successful enrollment. 
+* [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'P99999'\) for my individual profile upon successful enrollment. 
   * [ ] Approved Individual EKYC is part of the requirements.
   * [ ] Terms and conditions will be displayed and I need to click Accept to proceed
   * [ ] I should acquire the membership ID instantly
