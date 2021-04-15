@@ -8,9 +8,9 @@ We hope thru this open source initiative, MaGIC-like ecosystem developers can co
 
 {% embed url="https://mymagic.github.io/open\_hub/" %}
 
-### [https://www.youtube.com/embed/38IKTST0Cms](https://www.youtube.com/embed/38IKTST0Cms)
+### Calling all Ecosystem Developers
 
-### 
+{% embed url="https://www.youtube.com/embed/38IKTST0Cms" %}
 
 ### Technical Details
 
