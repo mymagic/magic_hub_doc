@@ -72,6 +72,7 @@
   * [Campus ID](by-modules/magic-specific-modules/campus-id/README.md)
     * [Campus ID for Perk Provider](by-modules/magic-specific-modules/campus-id/campus-id-for-perk-provider.md)
     * [Campus ID for quest provider](by-modules/magic-specific-modules/campus-id/campus-id-for-quest-provider.md)
+    * [Campus ID for Admin](by-modules/magic-specific-modules/campus-id/campus-id-for-admin.md)
     * [UAT](by-modules/magic-specific-modules/campus-id/uat.md)
 * [Open Source Modules](by-modules/open-source-modules/README.md)
   * [Resource Directory](by-modules/open-source-modules/resource-directory.md)

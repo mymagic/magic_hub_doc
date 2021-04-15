@@ -46,7 +46,7 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 #### Perform Organization EKYC \(manual process\)
 
-brief with screenshots, with link to [EKYC for Organization](../ekyc.md#ekyc-for-organisation)
+// brief with screenshots, with link to [EKYC for Organization](../ekyc.md#ekyc-for-organisation)
 
 #### Obtain organization Campus ID
 
