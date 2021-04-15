@@ -26,6 +26,10 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 ### Redeem a Perk
 
+### Earn points from Quest
+
+
+
 
 
 
