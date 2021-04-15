@@ -6,8 +6,6 @@ Challenge is a problem statement database.
 
 Anyone can create and publish a challenge. Challenge will be listed on frontend and for solution provider to submit proposal.
 
-
-
 ### Manage Challenges
 
 ### Create Challenge from Backend

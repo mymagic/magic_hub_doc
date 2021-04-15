@@ -18,7 +18,7 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 // explain different between 2 type of membership. get content from website or master deck
 
-### How to get your Campus ID
+### Activate your Campus ID
 
 #### Perform Individual EKYC using mobile phone and MyKad \(auto process\)
 
