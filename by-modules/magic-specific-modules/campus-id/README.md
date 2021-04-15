@@ -14,11 +14,23 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 ### Individual vs Organization Membership
 
-### Enroll into Campus ID Individual Membership
+### How to get your Campus ID
 
-#### EKYC using MyKad
+#### Perform Individual EKYC using mobile phone and mykad \(auto process\)
+
+#### Fall back to manual process if failed
 
 #### Agree to terms & conditions
+
+#### Obtain your Campus ID
+
+### How to get Campus ID for your startup
+
+#### Required individual Campus ID
+
+#### Perform Organization EKYC \(manual process\)
+
+#### Obtain organization Campus ID
 
 ### Manage everything at Member Control Panel
 
