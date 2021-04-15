@@ -12,7 +12,13 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 ### XP vs RP points
 
-// explain different between 2 type of points. get content from website or master deck
+#### Experience Points \(XP\)
+
+Experience Points \(XP\) is earned as you join & complete certain programs from MaGIC. Your XP will grow as you go through the startup journey with MaGIC. Higher amount of XP will allow access to more relevant things base of your experience. XP will also be used as an assessment & qualification checks.
+
+#### Redeemable Points \(RP\)
+
+Redeemable Points \(RP\) is earned as you join & complete certain programs from MaGIC. RP also can be earn by completing task offered on Perks portal. Your accumulated RP can be used to redeem perks that is offered by our perks providers. Perks can help your grow your ideas & startups.
 
 ### Individual vs Organization Membership
 
