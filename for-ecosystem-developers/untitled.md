@@ -10,9 +10,7 @@ We hope thru this open source initiative, MaGIC-like ecosystem developers can co
 
 ### Calling all Ecosystem Developers
 
-{% embed url="https://www.youtube.com/embed/38IKTST0Cms" %}
-
-
+{% embed url="https://www.youtube.com/watch?v=38IKTST0Cms&feature=emb\_imp\_woyt" %}
 
 ### Technical Details
 
