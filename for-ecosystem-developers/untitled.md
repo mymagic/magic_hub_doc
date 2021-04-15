@@ -12,6 +12,8 @@ We hope thru this open source initiative, MaGIC-like ecosystem developers can co
 
 {% embed url="https://www.youtube.com/embed/38IKTST0Cms" %}
 
+
+
 ### Technical Details
 
 This open source project is under BSD-3-Clause License. As a software project, contributors are expected to have programming skillset and willing to get hands dirty with coding. MaGIC has no obligation to provide any supports to this initiative.
