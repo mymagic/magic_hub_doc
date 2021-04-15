@@ -77,6 +77,6 @@ Everyone should buy their own ticket. Participants are not allowed to buy on beh
 ### Others References
 
 * [Master Doc for Data Standard 2020](https://docs.google.com/presentation/d/17uTi_GSYywW7Fk-iC20nJ1DuS_8z8Hef8iPku5cLEYU/edit?usp=sharing) - maintain by Afidz from Strategy team
-* 
+
 
 
