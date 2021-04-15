@@ -4,7 +4,7 @@ Eventbrite module not only sync event and participants data from Eventbrite acco
 
 ### Frontend
 
-the purpose of the frontend, 
+The purpose of the frontend, 
 
 ### Sync from Eventbrite
 
