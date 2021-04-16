@@ -8,6 +8,8 @@ description: >-
 
 ### Different type of resources
 
+The are different types of products and services provided by various organisations, the resources can be divided into different categories such as Fund, Space, Award, Program, Media, Legislation and Others. Whereas the company stage can be divided into different stages such as Discovery, Validation, Product Development, Efficiency, Growth and Mature.
+
 ### Frontend Resource Directory
 
 The resource directory frontend can be accessed through the link below.
