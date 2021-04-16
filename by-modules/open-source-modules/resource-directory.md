@@ -86,6 +86,22 @@ User can start to manage resource at the "Manage Resource" page.
 
 ![&quot;Manage Resource&quot; page](../../.gitbook/assets/2021-04-15-8-.png)
 
+There are three actions that can be performed on each data entry. The actions are "View", "Update" and "Deactivate", the functions are mapped to the icons in the same order as shown in the picture below. 
+
+![Available actions for each data entry \(Insert, Update, Deactivate\)](../../.gitbook/assets/2021-04-16-2-.png)
+
+#### Viewing Resource data entry
+
+When the view button is clicked, the user will be brought to the "View Resource" page for the particular data entry. In this page, the user will be able to see more detailed data for a particular resource entry. Lastly, user can also deactivate a particular data entry from the view page.
+
+![](../../.gitbook/assets/2021-04-16-5-.png)
+
+#### Updating Resource data entry
+
+When the update button is clicked, the user will be brought to the "Update Resource" page for the particular data entry. In this page, the user will be able to update the data for a particular resource entry.
+
+![](../../.gitbook/assets/2021-04-16-6-.png)
+
 ### 
 
 ### Link resource to an event group
@@ -108,7 +124,27 @@ To manage resources ****category from backend,  first enter the "Manage Resource
 
 User can start to manage resource categories at the "Manage Resource Categories" page.
 
-![&quot;Manage Resource Categories&quot; page](../../.gitbook/assets/2021-04-16%20%281%29.png)
+![&quot;Manage Resource Categories&quot; page](../../.gitbook/assets/2021-04-16%20%284%29.png)
+
+There are three actions that can be performed on each data entry. The actions are "View", "Update" and "Deactivate", the functions are mapped to the icons in the same order as shown in the picture below. 
+
+![Available actions for each data entry \(Insert, Update, Deactivate\)](../../.gitbook/assets/2021-04-16-2-.png)
+
+#### Viewing Resource Category data entry
+
+When the view button is clicked, the user will be brought to the "View Resource Category" page for the particular data entry. In this page, the user will be able to see more detailed data for a particular resource category entry. Lastly, user can also deactivate a particular data entry from the view page.
+
+![&quot;View Resource Categories&quot; page](../../.gitbook/assets/2021-04-16-3-%20%282%29.png)
+
+#### Updating Resource Category data entry
+
+When the update button is clicked, the user will be brought to the "Update Resource Category" page for the particular data entry. In this page, the user will be able to update the data for a particular resource category entry.
+
+![&quot;Update Resource Categories&quot; page](../../.gitbook/assets/2021-04-16-4-%20%281%29.png)
+
+
+
+
 
 ### Manage Resource Geo Focus
 
@@ -125,4 +161,20 @@ A list of entries for different regions are displayed in the page.
 User can start to manage resource geofocus at the "Manage Resource Geofocuses" page.
 
 ![&quot;Manage Resource Geofocuses&quot; page](../../.gitbook/assets/2021-04-16-1-.png)
+
+There are three actions that can be performed on each data entry. The actions are "View", "Update" and "Deactivate", the functions are mapped to the icons in the same order as shown in the picture below. 
+
+![Available actions for each data entry \(Insert, Update, Deactivate\)](https://gblobscdn.gitbook.com/assets%2F-MSzNj7-9AhUeicjQgKl%2F-MYOlvIOuIWkrYcUOEbu%2F-MYOoB4o_4rGZ9O4KdHl%2F2021-04-16%20%282%29.png?alt=media&token=fb1324a8-357e-43d8-9178-5481534d8921)
+
+#### Viewing Resource Category data entry
+
+When the view button is clicked, the user will be brought to the "View Resource Category" page for the particular data entry. In this page, the user will be able to see more detailed data for a particular resource category entry. Lastly, user can also deactivate a particular data entry from the view page.
+
+![](../../.gitbook/assets/2021-04-16-7-.png)
+
+#### Updating Resource Category data entry
+
+When the update button is clicked, the user will be brought to the "Update Resource Category" page for the particular data entry. In this page, the user will be able to update the data for a particular resource category entry.
+
+![](../../.gitbook/assets/2021-04-16-8-.png)
 
