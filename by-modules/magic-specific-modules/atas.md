@@ -28,7 +28,7 @@
 
 ### How to Create and Manage Milestone for your Application
 
-#### Create your Milestone for your Application
+#### Create Milestone for your Application
 
 ![](../../.gitbook/assets/0.jpg)
 
@@ -42,7 +42,7 @@
 
 ### How to Create and Manage Claims for your Application
 
-#### Create your Claim for your Application
+#### Create Claim for your Application
 
 ![](../../.gitbook/assets/08.jpg)
 
