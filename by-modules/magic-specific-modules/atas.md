@@ -28,5 +28,29 @@
 
 ### How to Create and Manage Milestone for your Application
 
+#### Create your Milestone for your Application
 
+![](../../.gitbook/assets/0.jpg)
+
+#### Fill up information of Milestone
+
+![](../../.gitbook/assets/06.jpg)
+
+#### Edit and Manage your Milestone
+
+![](../../.gitbook/assets/07.jpg)
+
+### How to Create and Manage Claims for your Application
+
+#### Create your Claim for your Application
+
+![](../../.gitbook/assets/08.jpg)
+
+#### Fill up information of Claim
+
+![](../../.gitbook/assets/09.jpg)
+
+#### Can check the status of Claim \(Approved or Rejected\)
+
+![](../../.gitbook/assets/10.jpg)
 
