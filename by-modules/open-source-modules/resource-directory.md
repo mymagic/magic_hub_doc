@@ -102,6 +102,12 @@ When the update button is clicked, the user will be brought to the "Update Resou
 
 ![](../../.gitbook/assets/2021-04-16-6-.png)
 
+#### Deactivating Resource data entry
+
+When the deactivate button is clicked, the user will be presented with a warning page. In this page, the user will be able to confirm whether the data is to be deactivated or not. To deactivate a particular entry, click OK to perform the action. Otherwise, select Cancel to return to previous page.
+
+![Warning page](../../.gitbook/assets/2021-04-19-2-.png)
+
 ### 
 
 ### Link resource to an event group
@@ -150,7 +156,11 @@ When the update button is clicked, the user will be brought to the "Update Resou
 
 ![&quot;Update Resource Categories&quot; page](../../.gitbook/assets/2021-04-16-4-%20%281%29.png)
 
+#### Deactivating Resource Category data entry
 
+When the deactivate button is clicked, the user will be presented with a warning page. In this page, the user will be able to confirm whether the data is to be deactivated or not. To deactivate a particular entry, click OK to perform the action. Otherwise, select Cancel to return to previous page.
+
+![Warning page](../../.gitbook/assets/2021-04-19-1-.png)
 
 
 
@@ -174,15 +184,31 @@ There are three actions that can be performed on each data entry. The actions ar
 
 ![Available actions for each data entry \(Insert, Update, Deactivate\)](https://gblobscdn.gitbook.com/assets%2F-MSzNj7-9AhUeicjQgKl%2F-MYOlvIOuIWkrYcUOEbu%2F-MYOoB4o_4rGZ9O4KdHl%2F2021-04-16%20%282%29.png?alt=media&token=fb1324a8-357e-43d8-9178-5481534d8921)
 
-#### Viewing Resource Category data entry
+#### Viewing Resource Geofocuses data entry
 
 When the view button is clicked, the user will be brought to the "View Resource Category" page for the particular data entry. In this page, the user will be able to see more detailed data for a particular resource category entry. Lastly, user can also deactivate a particular data entry from the view page.
 
 ![](../../.gitbook/assets/2021-04-16-7-.png)
 
-#### Updating Resource Category data entry
+#### Updating Resource Geofocuses data entry
 
 When the update button is clicked, the user will be brought to the "Update Resource Category" page for the particular data entry. In this page, the user will be able to update the data for a particular resource category entry.
 
 ![](../../.gitbook/assets/2021-04-16-8-.png)
+
+
+
+#### Deactivate Resource Geofocuses data entry
+
+When the deactivate button is clicked, the user will be presented with a warning page. In this page, the user will be able to confirm whether the data is to be deactivated or not. To deactivate a particular entry, click OK to perform the action. Otherwise, select Cancel to return to previous page.
+
+![Warning page](../../.gitbook/assets/2021-04-19.png)
+
+
+
+
+
+
+
+
 
