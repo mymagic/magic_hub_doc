@@ -106,9 +106,17 @@ When the update button is clicked, the user will be brought to the "Update Resou
 
 ### Link resource to an event group
 
-To link resource to an event group, first enter the event page within the backend using the link below.
+To link resource to an event group, first enter the resource page within the backend using the link below.
 
-{% embed url="https://central.mymagic.my/backend/dashboard\#event" %}
+{% embed url="https://central.mymagic.my/resource/resource/admin" %}
+
+To link resource to an event group, click on the view button for a particular event. Then scroll to the bottom of the page and click "Event". Finally, click the "Link Event Group" to start linking resource to an event group.
+
+![](../../.gitbook/assets/2021-04-16-9-.png)
+
+The button will redirect user to a page that will allow user to start linking resource to an event group.
+
+![](../../.gitbook/assets/2021-04-16-10-.png)
 
 ### 
 
