@@ -32,7 +32,7 @@ Alternatively, user can access the resource directory frontend by navigating to 
 
 #### Accessing page to manage resource from Control Panel
 
-To manage resources from control panel, first enter the control panel using the link below. You may be prompted to login before access to the page is granted.
+To manage resources from control panel, first enter the control panel using the direct link below. You may be prompted to login before access to the page is granted.
 
 {% embed url="https://central.mymagic.my/cpanel" %}
 
@@ -64,7 +64,7 @@ Once the required data is filled in, click "Create Resource" button to create a 
 
 #### Accessing the Manage Resource Page \(from backend\)
 
-To manage resources from backend,  first enter the backend page using the link below. Admin privileges is required to access the backend. You may be prompted to login before access to the page is granted. 
+To manage resources from backend,  first enter the backend page using the direct link below. Admin privileges is required to access the backend. You may be prompted to login before access to the page is granted. 
 
 Alternatively, user can access the backend from the control panel by clicking the "Backend" on the left item menu when logging in with user that have the right privileges.
 
