@@ -16,7 +16,7 @@ The are different types of products and services provided by various organisatio
 
 #### Accessing Frontend Resource Directory
 
-The resource directory frontend can be accessed through the direct link below.
+The resource directory frontend .can be accessed through the direct link below
 
 {% embed url="https://central.mymagic.my/resource/" %}
 
