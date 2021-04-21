@@ -64,12 +64,19 @@
 
 ![](../../../.gitbook/assets/backend8-edited.jpg)
 
+* Click the "Create" button to save the event allocation.
+
 ### Manage transactions
 
 * Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
 * To manage transaction navigate to `Service -> Campus -> Manage Transaction`
+* _Note : Transaction cannot be deleted. To add or remove XP & RP for Campus ID members, create a new transaction to add or remove XP & RP. Editing XP & RP for created transaction will not change the XP & RP that Campus ID members receive/deducted._
 
-/\* I should not beable to edit allocated points. To adjust, i just need to add another new transaction. I should not beable to delete a transaction I can view the detail of a specific transaction\*/
+![Backend Homepage](../../../.gitbook/assets/backend1-eee.jpg)
+
+* In the "Manage Transaction Page" you can see a table that lists all the XP & RP transaction for Campus ID members.
+
+![Manage Campus Transaction Page](../../../.gitbook/assets/backend9-edited.jpg)
 
 #### Manually add point to a member
 
