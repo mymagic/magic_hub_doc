@@ -97,9 +97,27 @@
 
 ![](../../../.gitbook/assets/backend10-edited.jpg)
 
-
+* Click the "Create" button to save the transaction and add XP & RP to the Campus ID member.
 
 #### Manually deduct point from a member
+
+* To manually deduct XP & RP to Campus ID members, click on the "Deduct Points" button on the right side of the page.
+
+![](../../../.gitbook/assets/backend9-ddd.jpg)
+
+* Fill all the required field and click the "Create" button to deduct points to a Campus ID member.
+* Field description :
+  * **Campus Member Code** - Campus ID membership Code e.g. "P1234"
+  * **XP** - The amount of experience points to remove from Campus ID member. 
+    * \(Ensure that this is the correct value, once the transaction is created, updating this value will not change the amount that participants receive\)
+  * **RP** - The amount of redeemable points to remove from Campus ID member. 
+    * \(Ensure that this is the correct value, once the transaction is created, updating this value will not change the amount that participants receive\)
+  * **Note** - Additional notes that will be displayed to the participants.
+  * **Remark -** For backend admin use only.
+
+![](../../../.gitbook/assets/backend11-edited.jpg)
+
+* Click the "Create" button to save the transaction and deduct XP & RP to the Campus ID member.
 
 ### Manage Perks
 
