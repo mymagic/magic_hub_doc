@@ -130,3 +130,11 @@
 
 ![](../../../.gitbook/assets/backend12-edited.jpg)
 
+* Click on the "Create Perk" list to offer a new perk to Campus ID members.
+
+![Manage Perk Page](../../../.gitbook/assets/backend12-eee.jpg)
+
+* Fill all the required field and click the create button at the bottom of the page to create a new perk for Campus ID members.
+
+![Create Perk Page](../../../.gitbook/assets/backend13-edited.jpg)
+
