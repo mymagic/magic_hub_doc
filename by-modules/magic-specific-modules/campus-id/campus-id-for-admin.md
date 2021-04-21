@@ -40,7 +40,7 @@
 ### Allocate points to an event
 
 * Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
-* To manage campus members navigate to `Service -> Campus -> Manage Event Allocation`
+* To manage allocate rewards to events navigate to `Service -> Campus -> Manage Event Allocation`
 
 ![Backend Homepage](../../../.gitbook/assets/backend6-edited.jpg)
 
@@ -65,6 +65,9 @@
 ![](../../../.gitbook/assets/backend8-edited.jpg)
 
 ### Manage transactions
+
+* Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
+* To manage transaction navigate to `Service -> Campus -> Manage Transaction`
 
 /\* I should not beable to edit allocated points. To adjust, i just need to add another new transaction. I should not beable to delete a transaction I can view the detail of a specific transaction\*/
 
