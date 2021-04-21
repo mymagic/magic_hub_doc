@@ -55,13 +55,13 @@ An organization membership consists of one or more individual membership. XP & R
 
 #### Agree to terms & conditions
 
-* Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
+![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.49.55-pm.png)
 
-   & click on the `Campus ID` link.
+1. Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
 
-* Read through the term & conditions and click on the `I Agree` button to proceed with the Campus ID activation.
+    & click on the `Campus ID` link.
 
-![Agree to term &amp; conditions.](../../../.gitbook/assets/img_7980.jpg)
+2. Read through the term & conditions and click on the `I Agree` button to proceed with the Campus ID activation.
 
 #### Obtain your Campus ID
 
