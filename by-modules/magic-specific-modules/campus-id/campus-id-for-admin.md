@@ -39,9 +39,30 @@
 
 ### Allocate points to an event
 
-// campus ID make use of event to allocate points to participant thru registered email
+* Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
+* To manage campus members navigate to `Service -> Campus -> Manage Event Allocation`
 
-/\* I can choose to give to the individual or organization participants For individual, I can give to those with attendance only using role code 'isAttended' For organization, I can give to those selected participants by using role code 'selectedParticipant' I can see a list of qualified individuals or organizations and they had made the claim or not I understand I cant simply change the points when there already a claim being made out of the entire listAs admin, I can allocate points to an event\*/
+![Backend Homepage](../../../.gitbook/assets/backend6-edited.jpg)
+
+#### Allocate XP & RP to event
+
+* Click on the "Create Event Allocation" link to start allocating experience \(XP\) and redeemable point \(RP\) to an event.
+
+![](../../../.gitbook/assets/backend7-edited.jpg)
+
+* In the "Create Event Allocation" fill all the required fields and click the "Create" button to allocate points to the event.
+* Field description:
+  * **Event** - A dropdown list where you can search event that has been created.
+  * **Type -** Types of Campus ID membership either Individual or Organization.
+  * **As Role** - selectedParticipant will grant the reward to the selected participant while isAttend will only grant the reward only when the individual attend the event.
+  * **Experience Points** - The amount of experience points to give to participants. 
+    * \(Ensure that this is the correct value, once the event allocation is created, updating this value will not change the amount that participants receive\)
+  * **Redeemable Points** - The amount of redeemable points to give to participants. 
+    * \(Ensure that this is the correct value, once the event allocation is created, updating this value will not change the amount that participants receive\)
+  * **Note** - Additional notes that will be displayed to the participants.
+  * **Remart** - For backend admin use only.
+
+![](../../../.gitbook/assets/backend8-edited.jpg)
 
 ### Manage transactions
 
