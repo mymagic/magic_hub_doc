@@ -82,6 +82,7 @@
   * [Challenge](by-modules/open-source-modules/challenge.md)
   * [CV \(Talentbank\)](by-modules/open-source-modules/cv-talentbank/README.md)
     * [CV for Admin](by-modules/open-source-modules/cv-talentbank/cv-for-admin.md)
+  * [Job](by-modules/open-source-modules/job.md)
   * [Collection](by-modules/open-source-modules/collection.md)
   * [Comment](by-modules/open-source-modules/comment.md)
   * [esLog](by-modules/open-source-modules/eslog.md)
