@@ -22,29 +22,55 @@ Redeemable Points \(RP\) is earned as you join & complete certain programs from 
 
 ### Individual vs Organization Membership
 
-// explain different between 2 type of membership. get content from website or master deck
+#### Individual membership
+
+An individual membership belong to a single person. XP & RP accumulated is only applicable to a single person. To get an individual membership, you will need a verified Malaysian IC Card or a password.
+
+#### Organization Membership
+
+An organization membership consist of one or more individual membership. XP & RP accumulated will be assigned to the organization. To get an organization membership, you will need a SSM \(Suruhanjaya Syarikat Malaysia\) Registration Number. 
 
 ### Activate your Campus ID
 
 #### Perform Individual EKYC using mobile phone and MyKad \(auto process\)
 
-// brief with screenshots, with link to [EKYC for User](../ekyc.md#ekyc-for-user)
+* Login into your central account \([or signup](../../../for-frontend-users/magic-account.md)\) and head to your [Cpanel](https://central.mymagic.my/cpanel/) & click the "Campus ID" link on the navigation menu.
+
+![Cpanel page.](../../../.gitbook/assets/img_7979.jpg)
+
+* You will automatically redirect to the "Auto Identify Verification" page. 
+* Scan your ID with your smartphone camera by tapping on the camera icon or upload a photo of your ID from your smartphone's gallery.
+
+![Auto eKYC page.](../../../.gitbook/assets/capture2.png)
+
+* You will see a "eKYC Successful" when your id is automatically verified.  Click here if your are on a desktop [EKYC for User](../ekyc.md#ekyc-for-user).
 
 #### Fall back to manual process if failed
 
-// with screenshots
+* If the automatic eKYC process fails, you will be redirected to the manual process for eKYC. Fill in the form with the correct information. Your application will be manually verified and will take 3-5 working days.
+
+![Manual eKYC page.](../../../.gitbook/assets/capture3.png)
 
 #### Agree to terms & conditions
 
-// with screenshots
+* Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
+
+   & click on the "Campus ID" link.
+
+* Read through the term & condition and click on the "I Agree" button to proceed with the Campus ID activation.
+
+![Agree to term &amp; conditions.](../../../.gitbook/assets/img_7980.jpg)
 
 #### Obtain your Campus ID
 
-// Obtain ID like ‘P12345’
+* After agreeing to the term & conditions, you will obtain your Campus ID membership code e.g. ‘P12345’.
+
+![](../../../.gitbook/assets/img_7981.jpg)
 
 #### For user with multiple CENTRAL Accounts
 
-// can login to each of these accounts and complete EKYC process using the same MyKad, Campus ID will auto link base on IC number
+* Your Campus ID membership is tied to your IC/passport number. If you register multiple Campus ID membership, all of the account will be linked together under the same IC/passport number.
+* To add a CENTRAL account to your Campus ID, simply login into the account & complete the eKYC process using the same IC/passport document. Multiple account with the same IC/passport document will be linked together.
 
 ### How to get Campus ID for your startup
 
@@ -64,11 +90,19 @@ Redeemable Points \(RP\) is earned as you join & complete certain programs from 
 
 ### Claim points from participated events and programs
 
-// with screenshots
+* To claim points login into your Campus ID account & navigate to your Campus ID dashboard. In the "Claim points from programs & events" section, you will see all the event that you joined & are eligible for points redemption.
+
+![](../../../.gitbook/assets/capture4.jpg)
+
+
 
 ### Redeem a Perk
 
-// with screenshots
+* Login into your Campus ID account & navigate to the "[Perks" ](https://central.mymagic.my/campus/perks)page. In the "Perks" page you can see all the available perks that are offered.
+
+![](../../../.gitbook/assets/capture5.jpg)
+
+* Click the redeem button on any of the perks to redeem. Note that you can only redeem perks if you have equal or more experience \(XP\) & redeemable points \(RP\) required by each perks.
 
 ### Earn points from Quest
 
