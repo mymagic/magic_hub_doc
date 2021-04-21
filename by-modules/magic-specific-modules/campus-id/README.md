@@ -10,6 +10,8 @@ description: >-
 
 Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus ID Member then can collect points by participating in MaGIC selected events and programs, or by helping startups completing `QUEST`. Then, they can spend the point to redeem perk that helps their startup grow. By leveling up thru the journey, they gain badges of honors which used by the program owner for assessment.
 
+![Overview of Campus ID](../../../.gitbook/assets/screenshot-2021-04-21-at-10.02.50-pm.png)
+
 ### XP vs RP points
 
 #### Experience Points \(XP\)
@@ -24,11 +26,11 @@ Redeemable Points \(RP\) is earned as you join & complete certain programs from 
 
 #### Individual membership
 
-An individual membership belong to a single person. XP & RP accumulated is only applicable to a single person. To get an individual membership, you will need a verified Malaysian IC Card or a password.
+An individual membership belongs to a single person. XP & RP accumulated is only applicable to a single person. To get an individual membership, you will need a verified Malaysian IC Card or a password.
 
 #### Organization Membership
 
-An organization membership consist of one or more individual membership. XP & RP accumulated will be assigned to the organization. To get an organization membership, you will need a SSM \(Suruhanjaya Syarikat Malaysia\) Registration Number. 
+An organization membership consists of one or more individual membership. XP & RP accumulated will be assigned to the organization. To get an organization membership, you will need a SSM \(Suruhanjaya Syarikat Malaysia\) Registration Number. 
 
 ### Activate your Campus ID
 
@@ -57,7 +59,7 @@ An organization membership consist of one or more individual membership. XP & RP
 
    & click on the "Campus ID" link.
 
-* Read through the term & condition and click on the "I Agree" button to proceed with the Campus ID activation.
+* Read through the term & conditions and click on the "I Agree" button to proceed with the Campus ID activation.
 
 ![Agree to term &amp; conditions.](../../../.gitbook/assets/img_7980.jpg)
 
@@ -74,6 +76,10 @@ An organization membership consist of one or more individual membership. XP & RP
 
 ### How to get Campus ID for your startup
 
+{% hint style="info" %}
+This feature is currently under development. Please come back later.
+{% endhint %}
+
 #### Required individual Campus ID
 
 #### Perform Organization EKYC \(manual process\)
@@ -86,25 +92,49 @@ An organization membership consist of one or more individual membership. XP & RP
 
 ### Manage everything at Member Control Panel
 
-// with screenshots
+After obtaining your Campus Member ID, you can manage it under Member Control Panel. Login into your Central account and navigate to Campus ID page.
+
+Click on the `Switch` button if you have multiple Campus ID accounts tied to your Central account \(e.g. one for yourself and one for your startup\).
+
+![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.06.12-pm.png)
 
 ### Claim points from participated events and programs
 
-* To claim points login into your Campus ID account & navigate to your Campus ID dashboard. In the "Claim points from programs & events" section, you will see all the event that you joined & are eligible for points redemption.
+In the "Claim points from programs & events" section, you will see all the events that you joined & are eligible for points redemption. 
 
-![](../../../.gitbook/assets/capture4.jpg)
+{% hint style="info" %}
+Don't worry if you can't find the activity, event, or program you joined in the past here. It's either: 
 
+1\) our operation team has not allocated points to it yet; Please be patient, we are working on this batch by batch.
 
+2\) or, simply means the program is not covered by Campus ID. Check [here](https://www.mymagic.my/campus) under FAQ for the covered programs list. 
+
+For your information, we are able to associate your past participantion using the email address you used to register. If you have multiple Central accounts created using different email, please  EKYC each of them using the same MyKad identity and enroll all to Campus ID.
+
+Feel free to contact our operation team for support if you believe it is a mistake.
+{% endhint %}
+
+![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.16.00-pm.png)
+
+1. Click `arrow` to expend for more detail about an activity record
+2. Click `CLAIM` button to claim points from this activity
+3. A notification popup on top right corner of screen upon successful claim
+4. Your XP & RP balance will automatically refresh
+5. This claim will show as new transaction will show as new transaction in the `Latest Transactions` section.
 
 ### Redeem a Perk
 
-* Login into your Campus ID account & navigate to the "[Perks" ](https://central.mymagic.my/campus/perks)page. In the "Perks" page you can see all the available perks that are offered.
+* Navigate to the [Perks ](https://central.mymagic.my/campus/perks)page under Campus ID service. You can see all the available perks that are offered here.
 
 ![](../../../.gitbook/assets/capture5.jpg)
 
-* Click the redeem button on any of the perks to redeem. Note that you can only redeem perks if you have equal or more experience \(XP\) & redeemable points \(RP\) required by each perks.
+* Click the redeem button on any of the perks to redeem. Note that you can only redeem perks if you meet the minimum experience \(XP\) requirement & has sufficient redeemable points \(RP\) required by each perk.
 
 ### Earn points from Quest
+
+{% hint style="info" %}
+This feature is currently under development. Please come back later.
+{% endhint %}
 
 // with screenshots
 
