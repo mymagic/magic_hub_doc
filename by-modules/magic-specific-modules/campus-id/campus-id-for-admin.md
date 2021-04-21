@@ -2,6 +2,41 @@
 
 ### Manage Campus Members
 
+* Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
+* To manage campus members navigate to `Service -> Campus -> Manage Campus Members`
+
+![Backend Homepage](../../../.gitbook/assets/backend1.jpg)
+
+* In the "Manage Campus Membership" page, you can see a table that lists accounts that has successfully been registered for Campus ID.
+* Column Description : 
+  * **Code** - Displays the Campus ID membership ID number.
+  * **Identifier -** For individual membership, the value should be the person's IC number while organization should be the organization's SSM registration number.
+  * **Title -** The name of the registered person / Name of the organization.
+  * **Perks Provider** - Green circle shows the member are one of the perks providers for Campus ID.
+  * **Quest Providers** - Green circle shows the member are one of the quest providers for Campus ID
+  * **Status** - Shows the current status of the member.
+
+![Manage Campus Membership Page](../../../.gitbook/assets/backend2-edited.jpg)
+
+#### View Membership Details
+
+* To view get more detailed information about each Campus ID member, click on the magnifying glass icon in the right most column.
+
+![Detailed information of Campus ID member.](../../../.gitbook/assets/backend3-edited.jpg)
+
+#### Update Membership
+
+* To update each Campus ID member, click on the pen & paper icon in the right most column.
+* In the "Update Campus Membership" page, a greyed out field is not editable because the field is automatically populated during the eKYC process. A non-greyed out field can be edited
+* The users field will show a list of all the emails that are tied to the same person.
+* Click the save button at the bottom of the page to save the changes that has been made.
+
+![Update Campus Membership Page](../../../.gitbook/assets/backedn4-edited.jpg)
+
+#### Deactivate Campus ID Membership
+
+* To deactivate a Campus ID member, click on the red trashcan icon in the right most column. Deactivated will be moved to the recycle bin and can be reactivated.
+
 ### Allocate points to an event
 
 // campus ID make use of event to allocate points to participant thru registered email
