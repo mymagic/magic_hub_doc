@@ -70,6 +70,8 @@
   * [News](by-modules/magic-specific-modules/news.md)
   * [EKYC](by-modules/magic-specific-modules/ekyc.md)
   * [Campus ID](by-modules/magic-specific-modules/campus-id/README.md)
+    * [How to redeem Perk](by-modules/magic-specific-modules/campus-id/how-to-redeem-perk.md)
+    * [How to earn points from Quest](by-modules/magic-specific-modules/campus-id/how-to-earn-points-from-quest.md)
     * [Campus ID for Perk Provider](by-modules/magic-specific-modules/campus-id/campus-id-for-perk-provider.md)
     * [Campus ID for quest provider](by-modules/magic-specific-modules/campus-id/campus-id-for-quest-provider.md)
     * [Campus ID for Admin](by-modules/magic-specific-modules/campus-id/campus-id-for-admin.md)

@@ -45,7 +45,7 @@ An organization membership consists of one or more individual membership. XP & R
 
 ![Auto eKYC page.](../../../.gitbook/assets/capture2.png)
 
-* You will see a "eKYC Successful" when your id is automatically verified.  Click here if your are on a desktop [EKYC for User](../ekyc.md#ekyc-for-user).
+* You will see an  `eKYC Successful` message upon successful verification.  Click here if you are on a desktop [EKYC for User](../ekyc.md#ekyc-for-user).
 
 #### Fall back to manual process if failed
 
@@ -57,9 +57,9 @@ An organization membership consists of one or more individual membership. XP & R
 
 * Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
 
-   & click on the "Campus ID" link.
+   & click on the `Campus ID` link.
 
-* Read through the term & conditions and click on the "I Agree" button to proceed with the Campus ID activation.
+* Read through the term & conditions and click on the `I Agree` button to proceed with the Campus ID activation.
 
 ![Agree to term &amp; conditions.](../../../.gitbook/assets/img_7980.jpg)
 
@@ -71,8 +71,8 @@ An organization membership consists of one or more individual membership. XP & R
 
 #### For user with multiple CENTRAL Accounts
 
-* Your Campus ID membership is tied to your IC/passport number. If you register multiple Campus ID membership, all of the account will be linked together under the same IC/passport number.
-* To add a CENTRAL account to your Campus ID, simply login into the account & complete the eKYC process using the same IC/passport document. Multiple account with the same IC/passport document will be linked together.
+* Your Campus ID membership is tied to your IC/passport number. If you register multiple Campus ID membership, all of the accounts will be linked together under the same IC/passport number.
+* To add a CENTRAL account to your Campus ID, simply login into the account & complete the eKYC process using the same IC/passport document. 
 
 ### How to get Campus ID for your startup
 
@@ -130,13 +130,7 @@ Feel free to contact our operation team for support if you believe it is a mista
 
 * Click the redeem button on any of the perks to redeem. Note that you can only redeem perks if you meet the minimum experience \(XP\) requirement & has sufficient redeemable points \(RP\) required by each perk.
 
-### Earn points from Quest
-
-{% hint style="info" %}
-This feature is currently under development. Please come back later.
-{% endhint %}
-
-// with screenshots
+### 
 
 
 

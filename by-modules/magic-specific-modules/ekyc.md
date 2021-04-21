@@ -3,7 +3,7 @@
 EKYC is a module that allows Central user to verify their real identity to a National Identification Code or Passport. It too allows organisation to be verified thru government documents \(SSM for example\).
 
 {% hint style="info" %}
-A user / organisation only can have 1 approve EKYC record at a time. 
+An user / organisation have only 1 approve EKYC record at a time. 
 {% endhint %}
 
 ### EKYC for User
@@ -19,6 +19,8 @@ This is the default interface for users who like to verify their identity. The s
 3. Scan your identification card or passport. Hold still for a few seconds until it captured.
 4. Upon successful verification, this page will show a success message. If unsuccessful, this page will be redirected to the manual verification page.
 
+![](../../.gitbook/assets/capture2.png)
+
 The approval process for auto verification is instant, however, please note:
 
 * BlinkID is not perfect and best working on smartphones' high-resolution camera
@@ -27,16 +29,18 @@ The approval process for auto verification is instant, however, please note:
 
 #### Manual Process
 
-![](../../.gitbook/assets/screenshot-2021-03-31-at-9.19.26-am.png)
+![](../../.gitbook/assets/capture3.png)
 
-1. User to upload required scanned ID documents and input detail
-2. Admin will process accordingly. Admin may raise question to user \(e.g. to upload a clearer document\) and the applicant will be notified thru email or he can check thru frontend interface at  `ekyc/frontend/manage`
+1. User to upload required scanned ID documents and input detail as per instruction
+2. Admin will process accordingly. Admin may raise additional questions to user \(e.g. to upload a clearer document\) and the applicant will be notified thru email or he can check thru frontend interface at  `ekyc/frontend/manage`
 
 ### EKYC for Organisation
 
 #### Auto with SSM
 
+{% hint style="info" %}
 This is a planned feature which is not implemented yet.
+{% endhint %}
 
 #### Manual Process
 
