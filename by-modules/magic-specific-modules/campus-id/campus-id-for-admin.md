@@ -121,3 +121,12 @@
 
 ### Manage Perks
 
+* Login into your magic account and navigate to [backend](https://central.mymagic.my/backend/).
+* To manage perks navigate to `Service -> Campus -> Manage Perk`
+
+![Backend Homepage](../../../.gitbook/assets/backend1-ooo.jpg)
+
+* In the "Manage Perk" page, you can see a table that list all the perks that is offered to Campus ID members.
+
+![](../../../.gitbook/assets/backend12-edited.jpg)
+
