@@ -80,6 +80,25 @@
 
 #### Manually add point to a member
 
+* To manually add XP & RP to Campus ID members, click on the "Add Points" button on the right side of the page.
+
+![&quot;Add Points&quot; Button](../../../.gitbook/assets/backend9-eee.jpg)
+
+* Fill all the required field and click the "Create" button to save add points to a Campus ID member.
+* Field description :
+  * **Campus Member Code** - Campus ID membership Code e.g. "P1234"
+  * **XP** - The amount of experience points to give to Campus ID member. 
+    * \(Ensure that this is the correct value, once the transaction is created, updating this value will not change the amount that participants receive\)
+  * **RP** - The amount of redeemable points to give to Campus ID member. 
+    * \(Ensure that this is the correct value, once the transaction is created, updating this value will not change the amount that participants receive\)
+  * **Promotion Code** - If promotion code is se, transaction will be recorded as 'TakenPromotion' activity.
+  * **Note** - Additional notes that will be displayed to the participants.
+  * **Remark -** For backend admin use only.
+
+![](../../../.gitbook/assets/backend10-edited.jpg)
+
+
+
 #### Manually deduct point from a member
 
 ### Manage Perks
