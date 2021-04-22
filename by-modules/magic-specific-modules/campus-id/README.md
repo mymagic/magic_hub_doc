@@ -43,7 +43,9 @@ An organization membership consists of one or more individual membership. XP & R
 * You will automatically redirect to the "Auto Identify Verification" page. 
 * Scan your ID with your smartphone camera by tapping on the camera icon or upload a photo of your ID from your smartphone's gallery.
 
-![Auto eKYC page.](../../../.gitbook/assets/capture2.png)
+![Auto eKYC page](../../../.gitbook/assets/capture2.png)
+
+![Scan your identification document](../../../.gitbook/assets/download.jpeg)
 
 * You will see an  `eKYC Successful` message upon successful verification.  Click here if you are on a desktop [EKYC for User](../ekyc.md#ekyc-for-user).
 
