@@ -124,14 +124,6 @@ Feel free to contact our operation team for support if you believe it is a mista
 4. Your XP & RP balance will automatically refresh
 5. This claim will show as new transaction will show as new transaction in the `Latest Transactions` section.
 
-### Redeem a Perk
-
-* Navigate to the [Perks ](https://central.mymagic.my/campus/perks)page under Campus ID service. You can see all the available perks that are offered here.
-
-![](../../../.gitbook/assets/capture5.jpg)
-
-* Click the redeem button on any of the perks to redeem. Note that you can only redeem perks if you meet the minimum experience \(XP\) requirement & has sufficient redeemable points \(RP\) required by each perk.
-
 ### 
 
 
