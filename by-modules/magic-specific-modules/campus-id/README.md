@@ -47,7 +47,7 @@ An organization membership consists of one or more individual membership. XP & R
 
 ![Scan your identification document](../../../.gitbook/assets/download.jpeg)
 
-* You will see an  `eKYC Successful` message upon successful verification.  Click here if you are on a desktop [EKYC for User](../ekyc.md#ekyc-for-user).
+* You will see an  `eKYC Successful` message upon successful verification.  Click here if you are on a desktop [EKYC for User](../ekyc/#ekyc-for-user).
 
 #### Fall back to manual process if failed
 
@@ -86,7 +86,7 @@ This feature is currently under development. Please come back later.
 
 #### Perform Organization EKYC \(manual process\)
 
-// brief with screenshots, with link to [EKYC for Organization](../ekyc.md#ekyc-for-organisation)
+// brief with screenshots, with link to [EKYC for Organization](../ekyc/#ekyc-for-organisation)
 
 #### Obtain organization Campus ID
 
