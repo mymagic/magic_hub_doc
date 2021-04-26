@@ -138,3 +138,5 @@
 
 ![Create Perk Page](../../../.gitbook/assets/backend13-edited.jpg)
 
+Only Campus Member of organization type \(start with prefix 'c'\) and can marked as `is_perk_provider` can be assigned. Admin also needs to associate this perk to the correct organization behind this campus membership.
+
