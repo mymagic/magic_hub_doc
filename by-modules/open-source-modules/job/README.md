@@ -1,16 +1,94 @@
+---
+description: The following page will explains the Job section in details.
+---
+
 # Job
 
 ### Frontend Job Vacancies Directory
 
-// screenshot of job listing from [https://central.mymagic.my/job](https://central.mymagic.my/job), explain the different between magic job and job posted by community
+#### Accessing the Job Vacancies Frontend Page
 
-// screenshot of one of the job detail page, explain how an applicant who interested in the job can apply to it
+The job section in the frontend can be accessed through the direct link below
 
-### Post a vacancy from member Control Panel
+{% embed url="https://central.mymagic.my/job" %}
 
-// screenshots of how an organization can post a job vacancy to it from cpanel
+Alternatively, user can enter the job page by clicking Central &gt; Jobs on the top menu.
 
-// screenshot of the form
+![](../../../.gitbook/assets/2021-04-27-11-%20%281%29.png)
 
-// how the approval process looks like
+The job section is divided into MaGIC jobs and community jobs. The MaGIC jobs, as the name implies, lists all the current available positions in MaGIC. On the other hand, jobs from other startups are listed in the community section. Job vacancies posted by startups will be displayed in the community job section.
+
+![MaGIC Job](../../../.gitbook/assets/2021-04-27%20%281%29.png)
+
+
+
+![Jobs from other startup\(s\)](../../../.gitbook/assets/2021-04-27-9-%20%281%29.png)
+
+User can click on a job title to learn more about a job offer.
+
+![Job detail page](../../../.gitbook/assets/2021-04-27-13-.png)
+
+Various information such as job requirements, responsibilities, work location...etc are listed in the job detail page. To apply for a job, user can click on the "Apply for this Job" button located near the bottom of the page. User can then choose to either apply via website or email.
+
+### Posting job vacancy from Frontpage and member Control Panel
+
+To post a job vacancy, there must be at least one organisation created under your own MaGIC account.
+
+#### Adding Job Vancancy from Frontpage
+
+There are two ways to access the job posting page. The first way is to click the "Post a Job" button located near the bottom of the frontpage.    
+
+![Accessing from frontend](../../../.gitbook/assets/2021-04-27-18-%20%281%29.png)
+
+User will be redirected to a page where the user can choose an existing organisation or create a new one. This example will demonstrate creating a job entry with an existing organisation. 
+
+![](../../../.gitbook/assets/2021-04-27-19-.png)
+
+After selecting an organisation, user will be able to start adding a new job vacancy by filling up the details in the "Add New Job Vacancy" page.
+
+![Form to add new Job Vacancy](../../../.gitbook/assets/2021-04-27-20-.png)
+
+Once the user has finished adding the job vacancy info, the job listing can then be created by clicking the "Create" button near the bottom of the page.
+
+#### Adding Job Vancancy from Control Panel
+
+Alternatively, user can access the job posting page from the control panel by clicking either "My Organisations" or "Company" on the top right.
+
+![Accessing from control panel](../../../.gitbook/assets/2021-04-27-23-.png)
+
+User is then redirected to a page where a list of organisations are displayed. User can click on an organisation to enter the detail page.
+
+![List of Organisations](../../../.gitbook/assets/2021-04-27-24-.png)
+
+In this following page, the details of the organisation are shown. To continue with adding job vacancy, user can click on "Job Vacancies on the left menu.
+
+![Detail Page](../../../.gitbook/assets/2021-04-27-26-.png)
+
+In this next page, existing job vacancies posted by the users are shown. User can click on "Add" button to start adding job vacancies.
+
+![Form to add new Job Vacancy](../../../.gitbook/assets/2021-04-27-20-%20%281%29.png)
+
+Once the user has finished adding the job vacancy info. The job listing can then be created by clicking the "Create" button near the bottom of the page. User will be shown with a success message.
+
+![](../../../.gitbook/assets/2021-04-27-27-.png)
+
+After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. A small tag beside the title indicates the current status of the application.
+
+![](../../../.gitbook/assets/2021-04-27-28-.png)
+
+### 
+
+### Adding Job Vacancies from Backend
+
+To add job vacancies from backend, first enter the job section in backend using the direct link below
+
+{% embed url="https://central.mymagic.my/job/vacancy/admin" %}
+
+Once arrived at the "Job Vacancy" section, click on the "Create Vacancy" on the top right to start adding new job vacancy in the "Create Vacancy" page.
+
+![](../../../.gitbook/assets/2021-04-27-31-.png)
+
+Once all the details are added, user can click the "Create" button to create a new job vacancy.
+
+![](../../../.gitbook/assets/2021-04-27-32-%20%281%29.png)
 
