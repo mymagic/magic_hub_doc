@@ -14,7 +14,11 @@ Alternatively, the job section can be accessed from the backend by clicking Serv
 
 ![](../../../.gitbook/assets/2021-04-28.png)
 
-Once arrived at the "Job Vacancy" section, click on the "Create Vacancy" on the top right to start adding new job vacancy in the "Create Vacancy" page.
+Once arrived at the "Manage Vacancy" section, user can click on the "Create Vacancy" on the top right to start adding new job vacancy in the "Create Vacancy" page.
+
+![Manage Vacancy page](../../../.gitbook/assets/2021-04-28-6-.png)
+
+User will be redirected to "Create Vacancy" page where details for a job vacancy can be added.
 
 ![Create Vacancy page](../../../.gitbook/assets/2021-04-27-31-.png)
 
