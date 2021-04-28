@@ -72,7 +72,9 @@ Once the user has finished adding the job vacancy info. The job listing can then
 
 ![](../../../.gitbook/assets/2021-04-27-27-.png)
 
-After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. A small tag beside the title indicates the current status of the application.
+After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. 
+
+A small tag beside the title indicates the current status of the application. When a job vancancy is first submitted, the status of the application will be labelled as "Submitted".
 
 ![](../../../.gitbook/assets/2021-04-27-28-.png)
 
