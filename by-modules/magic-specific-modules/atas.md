@@ -20,19 +20,19 @@ Once select company, User can through the "Apply" button to apply their applicat
 
 ![Frontend of Manage Companies](../../.gitbook/assets/01.jpg)
 
-Fill up all the information in GAP 05 Application Form, save draft and submit.
+Fill up all the information in GAP Application Form, save draft and submit.
 
-![GAP 05 Application Form](../../.gitbook/assets/02.jpg)
+![GAP Application Form](../../.gitbook/assets/02.jpg)
 
-Once shortlisted user’s application status is change to Accepted, is automatically in pre-arrival stage. A ****"Create" Button will generate and user can process to PreArrial.
+Once shortlisted user’s application status is change to Accepted, is automatically in pre-arrival stage. A ****"Create" Button will generate and user can process to PreArrival.
 
 ![&quot;Create&quot; button for PreArrial](../../.gitbook/assets/03.jpg)
 
-Fill up all the information in GAP 05 PreArrival Form, save draft and submit.
+Fill up all the information in GAP PreArrival Form, save draft and submit.
 
-![GAP 05 PreArrival Form](../../.gitbook/assets/04.jpg)
+![GAP PreArrival Form](../../.gitbook/assets/04.jpg)
 
-Once GAP 05 PreArrival Form Accepted and Convert to InProgram will able to using Milestone and Claim function
+Once GAP PreArrival Form Accepted and Convert to InProgram will able to using Milestone and Claim function
 
 ![Frontend of InProgram](../../.gitbook/assets/05.jpg)
 
