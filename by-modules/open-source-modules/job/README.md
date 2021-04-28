@@ -74,23 +74,9 @@ Once the user has finished adding the job vacancy info. The job listing can then
 
 After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. 
 
-A small tag beside the title indicates the current status of the application. When a job vancancy is first submitted, the status of the application will be labelled as "Submitted".
+The status of the submission is indicated by a small tag beside "View Job Vacancy". When the job vacancy is first submitted, the submission status will be labelled with "Submitted".
 
-![](../../../.gitbook/assets/2021-04-27-28-.png)
+![Example Job Vacancy submission](../../../.gitbook/assets/2021-04-28-5-.png)
 
 ### 
-
-### Adding Job Vacancies from Backend
-
-To add job vacancies from backend, first enter the job section in backend using the direct link below
-
-{% embed url="https://central.mymagic.my/job/vacancy/admin" %}
-
-Once arrived at the "Job Vacancy" section, click on the "Create Vacancy" on the top right to start adding new job vacancy in the "Create Vacancy" page.
-
-![](../../../.gitbook/assets/2021-04-27-31-.png)
-
-Once all the details are added, user can click the "Create" button to create a new job vacancy.
-
-![](../../../.gitbook/assets/2021-04-27-32-%20%281%29.png)
 
