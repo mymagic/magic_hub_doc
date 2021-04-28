@@ -8,31 +8,31 @@ description: The following page will explains the Job section in details.
 
 #### Accessing the Job Vacancies Frontend Page
 
-The job section in the frontend can be accessed through the direct link below
+The job section in the frontend can be accessed through the direct link below.
 
-{% embed url="https://central.mymagic.my/job" %}
+{% embed url="https://central.mymagic.my/job/" %}
 
 Alternatively, user can enter the job page by clicking Central &gt; Jobs on the top menu.
 
 ![](../../../.gitbook/assets/2021-04-27-11-%20%281%29.png)
 
-The job section is divided into MaGIC jobs and community jobs. The MaGIC jobs, as the name implies, lists all the current available positions in MaGIC. On the other hand, jobs from other startups are listed in the community section. Job vacancies posted by startups will be displayed in the community job section.
+The job section is divided into MaGIC jobs and jobs from other startups. The MaGIC jobs, as the name implies, lists all the current available positions in MaGIC. On the other hand, jobs from other startups are listed in the community section. Job vacancies posted by startups will be displayed in the lower section.
 
-![MaGIC Job](../../../.gitbook/assets/2021-04-27%20%281%29.png)
+The job section list up to 5 jobs per page for each particular section. To see more jobs from any section, click the arrow or page number to navigate to the other page.
 
-
-
-![Jobs from other startup\(s\)](../../../.gitbook/assets/2021-04-27-9-%20%281%29.png)
+![top: Jobs from MaGIC, bottom: Jobs from startup\(s\)](../../../.gitbook/assets/2021-04-28-1-.png)
 
 User can click on a job title to learn more about a job offer.
 
 ![Job detail page](../../../.gitbook/assets/2021-04-27-13-.png)
 
-Various information such as job requirements, responsibilities, work location...etc are listed in the job detail page. To apply for a job, user can click on the "Apply for this Job" button located near the bottom of the page. User can then choose to either apply via website or email.
+User will be redirected to the detail page which houses various information such as job requirements, responsibilities, work location...etc. To apply for a job, user can click on the "Apply for this Job" button located near the bottom of the page. User can then choose to either apply via website or email.
+
+![Click &quot;Apply for this Job&quot; to start the job application process](../../../.gitbook/assets/2021-04-28-3-.png)
 
 ### Posting job vacancy from Frontpage and member Control Panel
 
-To post a job vacancy, there must be at least one organisation created under your own MaGIC account.
+To post a job vacancy, there must be at least one organisation created under your own MaGIC account. If there is no organisation under the account, a new one should be made in order to start posting job vacancy.
 
 #### Adding Job Vancancy from Frontpage
 
@@ -42,21 +42,21 @@ There are two ways to access the job posting page. The first way is to click the
 
 User will be redirected to a page where the user can choose an existing organisation or create a new one. This example will demonstrate creating a job entry with an existing organisation. 
 
-![](../../../.gitbook/assets/2021-04-27-19-.png)
+![Select existing orgnisation or create a new organisation](../../../.gitbook/assets/2021-04-27-19-.png)
 
 After selecting an organisation, user will be able to start adding a new job vacancy by filling up the details in the "Add New Job Vacancy" page.
 
 ![Form to add new Job Vacancy](../../../.gitbook/assets/2021-04-27-20-.png)
 
-Once the user has finished adding the job vacancy info, the job listing can then be created by clicking the "Create" button near the bottom of the page.
+Once the user has finished filling up the job vacancy info, the job listing can then be created by clicking the "Create" button near the bottom of the page.
 
 #### Adding Job Vancancy from Control Panel
 
-Alternatively, user can access the job posting page from the control panel by clicking either "My Organisations" or "Company" on the top right.
+Alternatively, user can access the job posting page from the control panel by clicking either "My Organisations" on the left menu or "Company" on the top right.
 
 ![Accessing from control panel](../../../.gitbook/assets/2021-04-27-23-.png)
 
-User is then redirected to a page where a list of organisations are displayed. User can click on an organisation to enter the detail page.
+User is then redirected to a page where a list of organisations are displayed. User can click on an organisation title to enter the detail page.
 
 ![List of Organisations](../../../.gitbook/assets/2021-04-27-24-.png)
 
