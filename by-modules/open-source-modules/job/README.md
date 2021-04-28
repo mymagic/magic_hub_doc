@@ -32,11 +32,11 @@ User will be redirected to the detail page which houses various information such
 
 ### Posting job vacancy from Frontpage and member Control Panel
 
-To post a job vacancy, there must be at least one organisation created under your own MaGIC account. If there is no organisation under the account, a new one should be made in order to start posting job vacancy.
+To post a job vacancy, there must be at least one organisation created under your own MaGIC account. If there is no organisation under the account, a new one should be made in order to start posting job vacancy. Refer [HERE](../../../for-frontend-users/manage-my-organizations/).
 
 #### Adding Job Vancancy from Frontpage
 
-There are two ways to access the job posting page. The first way is to click the "Post a Job" button located near the bottom of the frontpage.    
+There are two ways to access the job posting page. The first way is to click the `Post a Job` button located near the bottom of the frontpage.    
 
 ![Accessing from frontend](../../../.gitbook/assets/2021-04-27-18-%20%281%29.png)
 
