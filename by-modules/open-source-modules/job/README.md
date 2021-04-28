@@ -74,9 +74,21 @@ Once the user has finished adding the job vacancy info. The job listing can then
 
 After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. 
 
-The status of the submission is indicated by a small tag beside "View Job Vacancy". When the job vacancy is first submitted, the submission status will be labelled with "Submitted".
+The status of the submission is indicated by a small tag beside "View Job Vacancy". When the job vacancy is first submitted, the submission status will be labelled with "Submitted". The other status for job vacancy are "Processing", "Rejected" and "Approved".
 
-![Example Job Vacancy submission](../../../.gitbook/assets/2021-04-28-5-.png)
+![Example Job Vacancy submission \(Submitted\)](../../../.gitbook/assets/2021-04-28-5-.png)
+
+When the job vacancy is set to "Processing", the applicant can rework the job vacancy before submitting it again to be approved by admin.
+
+![\(Processing\)](../../../.gitbook/assets/2021-04-28-16-.png)
+
+When the job vacancy is set to "Reject", the job vacancy is not accepted by MaGIC. However, the admin has the power to reset the status of the job vacancy submission to "Processing", this will allow the applicant to rework the job vacancy submission.
+
+![\(Rejected\)](../../../.gitbook/assets/2021-04-28-12-%20%281%29.png)
+
+When the job vacancy is set to "Approved", the job vacancy submission has passed the approval process and will be displayed on the Central's job section.
+
+![\(Approved\)](../../../.gitbook/assets/2021-04-28-18-%20%281%29.png)
 
 ### 
 

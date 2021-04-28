@@ -44,7 +44,7 @@ After clicking the "Processing" button, the admin can inform the applicant on an
 
 ![Message to the applicant. \(Processing\)](../../../.gitbook/assets/2021-04-28-24-.png)
 
-![Processing Job Vacancy](../../../.gitbook/assets/2021-04-28-16-.png)
+![Processing Job Vacancy](../../../.gitbook/assets/2021-04-28-16-%20%281%29.png)
 
 #### Reject
 
