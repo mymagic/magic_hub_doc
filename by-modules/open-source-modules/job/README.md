@@ -74,6 +74,8 @@ Once the user has finished adding the job vacancy info. The job listing can then
 
 After sending a submission, user can check the status of the submission by returning to the "Job Vacancies" page. 
 
+#### Submission Status
+
 The status of the submission is indicated by a small tag beside "View Job Vacancy". When the job vacancy is first submitted, the submission status will be labelled with "Submitted". The other status for job vacancy are "Processing", "Rejected" and "Approved".
 
 ![Example Job Vacancy submission \(Submitted\)](../../../.gitbook/assets/2021-04-28-5-.png)
