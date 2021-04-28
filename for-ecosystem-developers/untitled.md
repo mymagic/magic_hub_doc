@@ -22,7 +22,7 @@ This open source project is under BSD-3-Clause License. As a software project, c
 * HTTPS  & SSL required
 * Hosted on the cloud \(AWS\)
 * Plug-and-play modular architecture 
-* Not all modules are open source \(exclude MaGIG specific modules\)
+* Not all modules are open source \(exclude MaGIC specific modules\)
 * Data too is excluded \(Open Source != Open Data\)
 
 OpenHub has its own [documentation for developer](https://github.com/mymagic/open_hub/wiki) hosted on Github.
