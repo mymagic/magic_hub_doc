@@ -4,9 +4,9 @@ Perk can be created by any Organization type of Campus ID Member in Member Contr
 
 ### Create Perk
 
-### Manage Redeem Requests
+#### Secret Message
 
-### Secret Message
+### Manage Redeem Requests
 
 ### Redemption Request Workflow
 
