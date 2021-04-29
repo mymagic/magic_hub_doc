@@ -1,5 +1,9 @@
 # Campus ID for Perk Provider
 
+{% hint style="info" %}
+This feature is currently under development. Please come back later.
+{% endhint %}
+
 Perk can be created by any Organization type of Campus ID Member in Member Control Panel. Admin approval is required to publish for other Campus ID Member to redeem.
 
 ### Create Perk
@@ -99,15 +103,10 @@ Perk can be created by any Organization type of Campus ID Member in Member Contr
         </ul>
       </td>
     </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
-    </tr>
   </tbody>
 </table>
 
-{% hint style="info" %}
-This feature is currently under development. Please come back later.
-{% endhint %}
+### Dispute
+
+Disputes may happen between Perk Provider and Redeemer. MaGIC Campus ID operation team will help solve the dispute. 
 
