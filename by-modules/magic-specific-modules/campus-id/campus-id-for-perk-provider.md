@@ -55,7 +55,8 @@ Perk can be created by any Organization type of Campus ID Member in Member Contr
           <li>To reject the redemption request</li>
           <li>RP is returned to the Redeemer account from ESCROW</li>
           <li>Rejected request can be revert to <code>Processing</code> status. RP will
-            be deducted from the Redeemer account again and store temporarily at ESCROW.</li>
+            be deducted from the Redeemer account again and store temporarily at ESCROW
+            (required redeemer to have sufficient RP balance).</li>
         </ul>
       </td>
     </tr>
