@@ -23,7 +23,7 @@
       <td style="text-align:left">Redeemer</td>
       <td style="text-align:left">
         <ul>
-          <li>RP is minus from the Redeemer account and store temporarily at ESCROW.</li>
+          <li>RP is deducted from the Redeemer account and store temporarily at ESCROW.</li>
           <li>Redemption request is displayed on the Provider interface to process.</li>
         </ul>
       </td>
@@ -48,9 +48,8 @@
         <ul>
           <li>To reject the redemption request</li>
           <li>RP is returned to the Redeemer account from ESCROW</li>
-          <li>Rejected request can be revived by revert it to <code>Processing</code> status.
-            RP will be minus from the Redeemer account again and store temporarily
-            at ESCROW.</li>
+          <li>Rejected request can be revert to <code>Processing</code> status. RP will
+            be deducted from the Redeemer account again and store temporarily at ESCROW.</li>
         </ul>
       </td>
     </tr>
@@ -76,7 +75,7 @@
       <td style="text-align:left">
         <ul>
           <li>This marks the end of workflow on the Provider side.</li>
-          <li>RP will be transferred to the Provider account.</li>
+          <li>RP will be transferred and added to the Provider account.</li>
           <li>For physical products or services, it means the parcel had been sent to
             courier services. Delivery tracking code can be inserted in the Note to
             Redeemer.</li>
