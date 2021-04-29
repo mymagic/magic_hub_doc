@@ -80,7 +80,7 @@
             courier services. Delivery tracking code can be inserted in the Note to
             Redeemer.</li>
           <li>For digital products or services, instruction to acquire had been sent
-            in the <code>approved</code> stage thru secret message.</li>
+            in the <code>Approved</code> stage thru secret message.</li>
           <li>This action is not revertable.</li>
         </ul>
       </td>
@@ -89,7 +89,13 @@
       <td style="text-align:left"><b>Completed</b>
       </td>
       <td style="text-align:left">Redeemer</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Triggered by redeemer after <code>Delivered</code> status is marked by Provider
+            to mark the completion of the entire redemption workflow.</li>
+          <li>This is optional as most Redeemers may ignore it.</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
