@@ -1,5 +1,7 @@
 # Campus ID for Perk Provider
 
+Perk can be created by any Organization type of Campus ID Member in Member Control Panel. Admin approval is required to publish for other Campus ID Member to redeem.
+
 ### Create Perk
 
 ### Manage Redeem Requests
