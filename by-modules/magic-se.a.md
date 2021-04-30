@@ -1,2 +1,2 @@
-# MaGIC SE.A
+# SEA
 

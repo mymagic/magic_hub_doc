@@ -6,7 +6,7 @@ MaGIC Activate used `Challenge` module as backend and its management interface c
 
 `Backend` -&gt; `Service` -&gt; `Challenge` -&gt; `Manage`
 
-![Manage Challenges](../../../.gitbook/assets/screenshot-2021-03-02-at-12.44.36-am.png)
+![Manage Challenges](../../.gitbook/assets/screenshot-2021-03-02-at-12.44.36-am.png)
 
 ### Workflow for Challenge \(Problem Statement\)
 
@@ -37,11 +37,11 @@ An application can be edited under `draft` mode. Once submit in `submitted` stat
 
 You can manage all submission of a particular challenge by viewing into a challenge.
 
-![View Challenge](../../../.gitbook/assets/screenshot-2021-03-02-at-12.40.40-am.png)
+![View Challenge](../../.gitbook/assets/screenshot-2021-03-02-at-12.40.40-am.png)
 
 Click link under `Applicaiton` form and you will be brought to the F7 form page in backend.
 
-![View F7 Form](../../../.gitbook/assets/screenshot-2021-03-02-at-12.42.28-am.png)
+![View F7 Form](../../.gitbook/assets/screenshot-2021-03-02-at-12.42.28-am.png)
 
 All submissions \(`draft` and `submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
 

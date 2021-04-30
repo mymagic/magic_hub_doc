@@ -12,7 +12,7 @@ Using F7 has advantages like applicant can reuse their company profile in submis
 
 ![An example of F7 form](../../.gitbook/assets/screenshot-2021-02-22-at-10.02.02-am.png)
 
-{% page-ref page="../../by-modules/open-source-modules/f7-form/" %}
+{% page-ref page="../../by-modules/f7-form/" %}
 
 Accelerators such as Global Accelerator Program \(**GAP**\) will be using the ATAS module. Please read `Running an accelerator`page for details.
 

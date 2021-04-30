@@ -10,7 +10,7 @@ description: >-
 
 Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus ID Member then can collect points by participating in MaGIC selected events and programs, or by helping startups completing `QUEST`. Then, they can spend the point to redeem perk that helps their startup grow. By leveling up thru the journey, they gain badges of honors which used by the program owner for assessment.
 
-![Overview of Campus ID](../../../.gitbook/assets/screenshot-2021-04-21-at-10.02.50-pm.png)
+![Overview of Campus ID](../../.gitbook/assets/screenshot-2021-04-21-at-10.02.50-pm.png)
 
 ### XP vs RP points
 
@@ -36,16 +36,16 @@ An organization membership consists of one or more individual membership. XP & R
 
 #### Perform Individual EKYC using mobile phone and MyKad \(auto process\)
 
-* Login into your central account \([or signup](../../../for-frontend-users/magic-account.md)\) and head to your [Cpanel](https://central.mymagic.my/cpanel/) & click the "Campus ID" link on the navigation menu.
+* Login into your central account \([or signup](../../for-frontend-users/magic-account.md)\) and head to your [Cpanel](https://central.mymagic.my/cpanel/) & click the "Campus ID" link on the navigation menu.
 
-![Cpanel page.](../../../.gitbook/assets/img_7979.jpg)
+![Cpanel page.](../../.gitbook/assets/img_7979.jpg)
 
 * You will automatically redirect to the "Auto Identify Verification" page. 
 * Scan your ID with your smartphone camera by tapping on the camera icon or upload a photo of your ID from your smartphone's gallery.
 
-![Auto eKYC page](../../../.gitbook/assets/capture2.png)
+![Auto eKYC page](../../.gitbook/assets/capture2.png)
 
-![Scan your identification document](../../../.gitbook/assets/download.jpeg)
+![Scan your identification document](../../.gitbook/assets/download.jpeg)
 
 * You will see an  `eKYC Successful` message upon successful verification.  Click here if you are on a desktop [EKYC for User](../ekyc/#ekyc-for-user).
 
@@ -53,11 +53,11 @@ An organization membership consists of one or more individual membership. XP & R
 
 * If the automatic eKYC process fails, you will be redirected to the manual process for eKYC. Fill in the form with the correct information. Your application will be manually verified and will take 3-5 working days.
 
-![Manual eKYC page.](../../../.gitbook/assets/capture3.png)
+![Manual eKYC page.](../../.gitbook/assets/capture3.png)
 
 #### Agree to terms & conditions
 
-![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.49.55-pm.png)
+![](../../.gitbook/assets/screenshot-2021-04-21-at-10.49.55-pm.png)
 
 1. Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
 
@@ -69,7 +69,7 @@ An organization membership consists of one or more individual membership. XP & R
 
 * After agreeing to the term & conditions, you will obtain your Campus ID membership code e.g. ‘P12345’.
 
-![](../../../.gitbook/assets/img_7981.jpg)
+![](../../.gitbook/assets/img_7981.jpg)
 
 #### For user with multiple CENTRAL Accounts
 
@@ -98,7 +98,7 @@ After obtaining your Campus Member ID, you can manage it under Member Control Pa
 
 Click on the `Switch` button if you have multiple Campus ID accounts tied to your Central account \(e.g. one for yourself and one for your startup\).
 
-![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.06.12-pm.png)
+![](../../.gitbook/assets/screenshot-2021-04-21-at-10.06.12-pm.png)
 
 ### Claim points from participated events and programs
 
@@ -116,7 +116,7 @@ For your information, we are able to associate your past participantion using th
 Feel free to contact our operation team for support if you believe it is a mistake.
 {% endhint %}
 
-![](../../../.gitbook/assets/screenshot-2021-04-21-at-10.16.00-pm.png)
+![](../../.gitbook/assets/screenshot-2021-04-21-at-10.16.00-pm.png)
 
 1. Click `arrow` to expend for more detail about an activity record
 2. Click `CLAIM` button to claim points from this activity

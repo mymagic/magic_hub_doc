@@ -6,15 +6,15 @@ In the past, big corporate is the focus and only source of problem statement sup
 
 You need a Central user account to proceed. After login, you may post it either thru the MaGIC Activate main page or Member Control Panel.
 
-![Method 1: Click \`Post a Challenge\` button](../../../.gitbook/assets/screenshot-2021-03-01-at-7.00.36-pm.png)
+![Method 1: Click \`Post a Challenge\` button](../../.gitbook/assets/screenshot-2021-03-01-at-7.00.36-pm.png)
 
-![Method 2: Click \`Challenge\` from Member Control Panel](../../../.gitbook/assets/screenshot-2021-03-01-at-6.49.16-pm.png)
+![Method 2: Click \`Challenge\` from Member Control Panel](../../.gitbook/assets/screenshot-2021-03-01-at-6.49.16-pm.png)
 
 ### Method 1
 
 #### Select existing or create new Organisation
 
-![Use organisation selector](../../../.gitbook/assets/screenshot-2021-03-01-at-7.05.12-pm.png)
+![Use organisation selector](../../.gitbook/assets/screenshot-2021-03-01-at-7.05.12-pm.png)
 
 * Select an existing organisation of yours from the left
 * Or, insert a name for your new organisation
@@ -31,13 +31,13 @@ Upon completion, proceed to \`**Submit a challenge \(Problem Statement\)**'
 You will need an organisation profile to host a challenge. Create new or join existing one to proceed.
 {% endhint %}
 
-![Select \`My Organizations\` in Member Control Panel](../../../.gitbook/assets/screenshot-2021-03-01-at-6.48.08-pm.png)
+![Select \`My Organizations\` in Member Control Panel](../../.gitbook/assets/screenshot-2021-03-01-at-6.48.08-pm.png)
 
-![Select an organization of yours where this challenge belongs to](../../../.gitbook/assets/screenshot-2021-03-01-at-6.49.00-pm.png)
+![Select an organization of yours where this challenge belongs to](../../.gitbook/assets/screenshot-2021-03-01-at-6.49.00-pm.png)
 
-![Click \`Challenge\` on the left menu](../../../.gitbook/assets/screenshot-2021-03-01-at-6.49.16-pm.png)
+![Click \`Challenge\` on the left menu](../../.gitbook/assets/screenshot-2021-03-01-at-6.49.16-pm.png)
 
-![Challenge Management page for selected organization](../../../.gitbook/assets/screenshot-2021-03-01-at-6.49.36-pm.png)
+![Challenge Management page for selected organization](../../.gitbook/assets/screenshot-2021-03-01-at-6.49.36-pm.png)
 
 Upon completion, proceed to \`**Submit a challenge \(Problem Statement\)**'
 
@@ -45,7 +45,7 @@ Upon completion, proceed to \`**Submit a challenge \(Problem Statement\)**'
 
 Click `Add` button and you will have to fill up a form to post:
 
-![](../../../.gitbook/assets/screenshot-2021-03-01-at-6.56.22-pm.png)
+![](../../.gitbook/assets/screenshot-2021-03-01-at-6.56.22-pm.png)
 
 * Each posted challenge has an open and close date. Recommended timeframe between these two dates is not more than 6 months.
 * Although optional, do provide a cover and a header image to make your challenge stand out from the rest. Plain color background use by default.
@@ -53,7 +53,7 @@ Click `Add` button and you will have to fill up a form to post:
 
 ### Submit a Challenge
 
-![In Update Challenge screen](../../../.gitbook/assets/screenshot-2021-03-01-at-7.12.45-pm.png)
+![In Update Challenge screen](../../.gitbook/assets/screenshot-2021-03-01-at-7.12.45-pm.png)
 
 Click `Submit` button and you will not be able to revert to editing mode. An notification email will be sent to your user account.
 
@@ -61,9 +61,9 @@ Click `Submit` button and you will not be able to revert to editing mode. An not
 
 Once submitted, you can preveiw your challenge at Member Control Panel while waiting for admin approval for listing.
 
-![](../../../.gitbook/assets/screenshot-2021-03-01-at-7.20.01-pm.png)
+![](../../.gitbook/assets/screenshot-2021-03-01-at-7.20.01-pm.png)
 
-![](../../../.gitbook/assets/screenshot-2021-03-01-at-7.20.10-pm.png)
+![](../../.gitbook/assets/screenshot-2021-03-01-at-7.20.10-pm.png)
 
 ### Getting Approval & Featured
 
