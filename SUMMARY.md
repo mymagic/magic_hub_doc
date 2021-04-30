@@ -14,6 +14,8 @@
   * [Manage Organisation's Products](for-frontend-users/manage-my-organizations/manage-organisations-products.md)
   * [Manage Organisation's Resources](for-frontend-users/manage-my-organizations/manage-organisations-resources.md)
 * [Manage My Profile](for-frontend-users/manage-my-profile.md)
+* [Manage My Forms](for-frontend-users/manage-my-forms.md)
+* [Manage My Submissions](for-frontend-users/manage-my-submissions.md)
 
 ## For Program Owner
 
