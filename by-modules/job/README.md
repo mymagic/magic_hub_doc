@@ -1,5 +1,7 @@
 ---
-description: The following page will explains the Job section in details.
+description: >-
+  The following page will explains the Job section in details. Open Source
+  module.
 ---
 
 # Job

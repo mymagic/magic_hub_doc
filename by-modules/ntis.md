@@ -1,5 +1,5 @@
 ---
-description: National Technology & Innovation Sandbox
+description: National Technology & Innovation Sandbox. MaGIC owned module.
 ---
 
 # NTIS

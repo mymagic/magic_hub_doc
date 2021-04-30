@@ -1,3 +1,7 @@
+---
+description: MaGIC owned module.
+---
+
 # Community
 
 Community is a legacy service that we are in the mid to phase out and replace with latest [Network service](network.md). Rest assure, both services pointing to the same data source. 

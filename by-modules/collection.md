@@ -1,3 +1,7 @@
+---
+description: Open source module.
+---
+
 # Collection
 
 ### Create a Collection

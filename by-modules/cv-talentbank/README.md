@@ -1,3 +1,7 @@
+---
+description: Open source module.
+---
+
 # CV \(Talentbank\)
 
 ### Frontend Talent Directory

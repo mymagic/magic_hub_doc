@@ -1,3 +1,7 @@
+---
+description: Open source module.
+---
+
 # EKYC
 
 EKYC is a module that allows Central user to verify their real identity to a National Identification Code or Passport. It too allows organisation to be verified thru government documents \(SSM for example\).

@@ -1,3 +1,7 @@
+---
+description: MaGIC owned module.
+---
+
 # Network
 
 Network is a module that to replace community. Inspired by [StartupSg](https://www.startupsg.gov.sg/) and [StartupBlink](https://startupblink.com/), it provides map  driven filter to browse and search alumni.

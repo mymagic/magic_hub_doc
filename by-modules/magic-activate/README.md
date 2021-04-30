@@ -1,3 +1,7 @@
+---
+description: MaGIC owned module
+---
+
 # Activate
 
 Activate is an open innovation challenge program that brings problem statement owner \(e.g.: Corporate, government, SME\) and solution provider \(e.g: startup, social enterprise\) together.

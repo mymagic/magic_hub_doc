@@ -1,6 +1,10 @@
+---
+description: Open source module.
+---
+
 # Challenge
 
-Challenge is a problem statement database.
+Challenge is a problem statement database. It also acts as the backend for module 'Activate' which is a MaGIC specific program.
 
 ### Open Challenge
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Campus ID, aka MaGIC Startup Campus is an end-to-end Booster Pack for Startup
-  Creation. Please visit: https://www.mymagic.my/campus.
+  Creation. Please visit: https://www.mymagic.my/campus. MaGIC owned module.
 ---
 
 # Campus ID

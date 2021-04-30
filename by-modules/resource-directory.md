@@ -1,7 +1,5 @@
 ---
-description: >-
-  Resource directory is a comprehensive collection of products and services from
-  various public and private organisations.
+description: Open source module.
 ---
 
 # Resource Directory

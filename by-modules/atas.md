@@ -1,5 +1,5 @@
 ---
-description: Accelerator Tracking & Application System
+description: Accelerator Tracking & Application System. MaGIC owned module.
 ---
 
 # ATAS
