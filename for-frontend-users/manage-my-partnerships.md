@@ -7,7 +7,7 @@ description: >-
 
 # Manage My Partnerships
 
-You will be redirected to this [**Dashboard**](https://central.mymagic.my/cpanel) page after you have successfully logged in our [**Central**](https://central.mymagic.my). You will see the Menu `My Partnerships` only if your email has been assigned to any Form.
+You will be redirected to this [**Dashboard**](https://central.mymagic.my/cpanel) page after you have successfully logged-in to our [**Central**](https://central.mymagic.my). You will see the Menu `My Partnerships` only if your email has been assigned to any Form.
 
 ![Access My Partnerships from Cpanel](../.gitbook/assets/screenshot-2021-04-30-at-9.57.20-am.png)
 
