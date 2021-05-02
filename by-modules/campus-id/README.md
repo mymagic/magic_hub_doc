@@ -84,7 +84,42 @@ This feature is currently under development. Please come back later.
 
 #### Required individual Campus ID
 
+* Follow [this ](./#activate-your-campus-id)guide to acquire an individual Campus ID.
+
 #### Perform Organization EKYC \(manual process\)
+
+![](../../.gitbook/assets/cpanel_ekyc_company.png)
+
+1. Login & Navigate to your cPanel and click on the `Campus ID` link in the navigation bar.
+2. Click on the `SWITCH` dropdown button.
+3. Click on `Enroll my company`to start the organization eKYC process.
+
+![](../../.gitbook/assets/ekyc_company_name%20%281%29.png)
+
+1. Enter you organization name in the field.
+2. Click on the `Create` button to start creating your organization.
+3. If you have previously registered a company, those companies will be listed in the existing li.
+
+{% hint style="info" %}
+Keep in mind that your organization name should be unique. 
+{% endhint %}
+
+![](../../.gitbook/assets/ekyc_company_name2.png)
+
+1. You can now click on you company to complete the eKYC process.
+
+![](../../.gitbook/assets/ekyc_company_details.png)
+
+1. Enter all the required field **accurately**. 
+2. Once all the required details is entered, click the `Submit` button.
+
+{% hint style="info" %}
+Make sure to re-check you organization details before clicking the `Submit` button
+{% endhint %}
+
+![](../../.gitbook/assets/ekyc_company_success2.png)
+
+1. You will now see a success message. Your organization details will be verified manually by our admin in 3 working days.
 
 // brief with screenshots, with link to [EKYC for Organization](../ekyc/#ekyc-for-organisation)
 
