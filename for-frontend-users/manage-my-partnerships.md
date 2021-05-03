@@ -9,7 +9,7 @@ description: >-
 
 You will be redirected to this [**Dashboard**](https://central.mymagic.my/cpanel) page after you have successfully logged-in to our [**Central**](https://central.mymagic.my). You will see the Menu `My Partnerships` only if your email has been assigned to any Form.
 
-![Access My Partnerships from Cpanel](../.gitbook/assets/screenshot-2021-04-30-at-9.57.20-am.png)
+![Accessing My Partnerships from Cpanel](../.gitbook/assets/screenshot-2021-04-30-at-9.57.20-am.png)
 
 You will see the above screen once you have clicked on `My Partnerships` menu. Your forms will be listed and sorted  by latest `Date Open` by default. You might get the basic information from the list such as when it was opened/closed to the user and you can get to know the number of submissions and in draft mode.
 
