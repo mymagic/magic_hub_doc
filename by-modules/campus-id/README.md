@@ -121,17 +121,27 @@ Make sure to re-check you organization details before clicking the `Submit` butt
 
 1. You will now see a success message. Your organization details will be verified manually by our admin in 3 working days.
 
-// brief with screenshots, with link to [EKYC for Organization](../ekyc/#ekyc-for-organisation)
+{% hint style="info" %}
+visit [EKYC for Organization](../ekyc/#ekyc-for-organisation) for auto eKYC for organization.
+{% endhint %}
 
 #### Obtain organization Campus ID
 
 ![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%281%29.png)
 
+1. Once you company eKYC has been approved, login & click the the `Campus ID` link in the navigation bar.
+2. Click on the `SWITCH` button to toggle the dropdown menu.
+3. Click on the `ENROLL NOW` link with the name of the registered company.
+
 ![](../../.gitbook/assets/ekyc_company_terms.png)
+
+1. Read through the Terms & Conditions carefully and click on the `I Agree` button to get you organization Campus ID
 
 ![](../../.gitbook/assets/ekyc_company_id.png)
 
-// Obtain ID like ‘C12345’
+* You will now receive a message containing the your organization's Campus ID. 
+
+
 
 ### Manage everything at Member Control Panel
 
