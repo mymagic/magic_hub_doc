@@ -127,6 +127,8 @@ visit [EKYC for Organization](../ekyc/#ekyc-for-organisation) for auto eKYC for 
 
 #### Obtain organization Campus ID
 
+![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%282%29.png)
+
 ![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%281%29.png)
 
 1. Once you company eKYC has been approved, login & click the the `Campus ID` link in the navigation bar.
