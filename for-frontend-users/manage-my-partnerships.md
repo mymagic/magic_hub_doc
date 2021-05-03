@@ -13,9 +13,19 @@ You will be redirected to this [**Dashboard**](https://central.mymagic.my/cpanel
 
 You will see the above screen once you have clicked on `My Partnerships` menu. Your forms will be listed and sorted  by latest `Date Open` by default. You might get the basic information from the list such as when it was opened/closed to the user and you can get to know the number of submissions and in draft mode.
 
-You can filter the list by `ID` and `Title` if you want to. To reset the filter, you can click on ![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png) `Reset Filter` button. Once you have decided which Form, you can click on the![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png) `View`  button
+You can filter the list by `ID` and `Title` if you want to. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Form`, you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png)to view the Submissions List for that `Form`.
 
-![List of Submissions for the Form](../.gitbook/assets/screenshot_2021-04-30-view-form.png)
+![List of Submissions for the Form \#TO CHANGE with new Screenshot](../.gitbook/assets/screenshot_2021-04-30-view-form.png)
 
-You will see the above screen if you go to that particular form. Here, you can filtering the list by `ID`,  `Username`, `Details`, `Stage` and `Status`. To reset the filter, you can click on ![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png) `Reset Filter` button. Once you have decided which `Submission` you want to view, you can click on the![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png) `View`  button
+You will see the above screen if you go to that particular form. Here, you can filtering the list by `ID`,  `Username`, `Details`, `Stage` and `Status`. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Submission` you want to view, you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png) to view the details.
+
+![View the Submission details.](../.gitbook/assets/screenshot-2021-05-03-at-11.47.12-am%20%281%29.png)
+
+The submission can be exported into 2 formats which are `CSV` and `PDF` by clicking on `Export` button ![](../.gitbook/assets/screenshot-2021-05-03-at-11.49.20-am.png) .
+
+![](../.gitbook/assets/screenshot-2021-05-03-at-11.49.09-am.png)
+
+To go back to the Submissions List, you can click on the `Form Code`, the screen will redirect to the previous view.
+
+![Click on the Form Code to go back to the Submissions List](../.gitbook/assets/screenshot-2021-05-03-at-11.47.12-am.png)
 
