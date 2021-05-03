@@ -14,7 +14,7 @@ You might want to filter by `ID` to find specific submission. To reset the filte
 
 ![View the Submission details](../.gitbook/assets/screenshot_2021-05-03-view-form-2-.png)
 
-You also can click `Update` button ![](../.gitbook/assets/screenshot-2021-05-03-at-2.06.29-pm.png) if applicable \(`Status` is in Draft and not later than `Date Close`\) and complete the form before proceeding for the Submission.
+You also can click `Update` button ![](../.gitbook/assets/screenshot-2021-05-03-at-2.06.29-pm.png) if it meet these criteria \(`Status` is in `Draft` and not later than `Date Close`\) . Complete the form by fill in all required fields before click Submit button to change the `Status` to `Submitted`to allow your application been reviewed by the Programme Owner.
 
-![Update the Form](../.gitbook/assets/screenshot_2021-05-03-ntis-activity-report.png)
+![Accessing the Draft Application](../.gitbook/assets/screenshot_2021-05-03-ntis-activity-report.png)
 
