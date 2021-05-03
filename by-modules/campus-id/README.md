@@ -125,6 +125,12 @@ Make sure to re-check you organization details before clicking the `Submit` butt
 
 #### Obtain organization Campus ID
 
+![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%281%29.png)
+
+![](../../.gitbook/assets/ekyc_company_terms.png)
+
+![](../../.gitbook/assets/ekyc_company_id.png)
+
 // Obtain ID like ‘C12345’
 
 ### Manage everything at Member Control Panel
