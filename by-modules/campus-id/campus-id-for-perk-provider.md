@@ -29,11 +29,31 @@ Our community consists of both aspiring and existing entrepreneur are constantly
 4. When everything is good to be listed, admin will change the status to `Approved`. This perk will be automatically set to `published` and listed on perks portal. Perks provider is free to make changes to the details after posted. 
 5. Don't be upset if it get `Rejected`. Admin may think it is not suitable for our community but you can always submit a new entry. 
 
-#### What is Secret Message
+#### What is a Secret Message
 
-Optional but if filled, this message will be send to the redeemer automatically upon your approval to his request. You can always edit it in the approval process.
+Optional but if filled, this message will be sent to the redeemer upon your approval of his request. Don't worry, it only serves as a template and you can always change it in the approval process.
 
 ### Manage Redeem Requests
+
+Once your perk is published, you will soon be receiving redeem requests from our startups and entrepreneurs.
+
+{% hint style="info" %}
+Only you as the perk provider can manage the redeem requests. Our admins only have view access from backend.
+{% endhint %}
+
+![Under section \`Others Redeemed from you\`. Click \`Manage\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.38.58-pm.png)
+
+![Click \`Process\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.41.10-pm.png)
+
+![Insert a note \(optional\) and click \`Confirm PROCESS\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.43.18-pm.png)
+
+![Click \`Approve\` button to accept this redeem request](../../.gitbook/assets/screenshot-2021-05-04-at-9.44.17-pm.png)
+
+![Approval popup with secret message show up as template](../../.gitbook/assets/screenshot-2021-05-04-at-9.45.37-pm.png)
+
+![After confirm APPROVE. Click \`Delivered\` button.](../../.gitbook/assets/screenshot-2021-05-04-at-9.47.42-pm.png)
+
+![Upon \`Confirm DELIVER\`, RP will be transacted to your account](../../.gitbook/assets/screenshot-2021-05-04-at-9.49.15-pm.png)
 
 ### Redemption Request Workflow
 
