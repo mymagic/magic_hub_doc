@@ -21,6 +21,8 @@ Our community consists of both aspiring and existing entrepreneur are constantly
 
 ![Fill up the form](../../.gitbook/assets/screenshot-2021-05-04-at-9.09.39-pm.png)
 
+![You can preview a perk](../../.gitbook/assets/screenshot-2021-05-04-at-9.51.59-pm.png)
+
 #### Approval Process
 
 1. Click `Create` button to save draft. Status of this perk is Draft
@@ -42,6 +44,8 @@ Only you as the perk provider can manage the redeem requests. Our admins only ha
 {% endhint %}
 
 ![Under section \`Others Redeemed from you\`. Click \`Manage\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.38.58-pm.png)
+
+![or, from the \`Redemption Request\` tab in perk view page](../../.gitbook/assets/screenshot-2021-05-04-at-9.53.15-pm.png)
 
 ![Click \`Process\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.41.10-pm.png)
 
