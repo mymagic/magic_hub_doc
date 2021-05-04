@@ -110,11 +110,11 @@ Keep in mind that your organization name should be unique.
 
 ![](../../.gitbook/assets/ekyc_company_details.png)
 
-1. Enter all the required field **accurately**. 
-2. Once all the required details is entered, click the `Submit` button.
+1. Enter all the required fields **accurately**. 
+2. Once all the required details are entered, click the `Submit` button.
 
 {% hint style="info" %}
-Make sure to re-check you organization details before clicking the `Submit` button
+Make sure to re-check your organization details before clicking the `Submit` button
 {% endhint %}
 
 ![](../../.gitbook/assets/ekyc_company_success2.png)
@@ -141,7 +141,7 @@ visit [EKYC for Organization](../ekyc/#ekyc-for-organisation) for auto eKYC for 
 
 ![](../../.gitbook/assets/ekyc_company_id.png)
 
-* You will now receive a message containing the your organization's Campus ID. 
+* You will now receive a message containing your organization's Campus ID. 
 
 
 
@@ -164,7 +164,7 @@ Don't worry if you can't find the activity, event, or program you joined in the 
 
 2\) or, simply means the program is not covered by Campus ID. Check [here](https://www.mymagic.my/campus) under FAQ for the covered programs list. 
 
-For your information, we are able to associate your past participantion using the email address you used to register. If you have multiple Central accounts created using different email, please  EKYC each of them using the same MyKad identity and enroll all to Campus ID.
+For your information, we are able to associate your past participation using the email address you used to register. If you have multiple Central accounts created using a different email, please  EKYC each of them using the same MyKad identity and enroll all to Campus ID.
 
 Feel free to contact our operation team for support if you believe it is a mistake.
 {% endhint %}

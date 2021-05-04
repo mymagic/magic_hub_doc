@@ -6,9 +6,32 @@ This feature is currently under development. Please come back later.
 
 Perk can be created by any Organization type of Campus ID Member in Member Control Panel. Admin approval is required to publish for other Campus ID Member to redeem.
 
+### Recommended type of perks
+
+Our community consists of both aspiring and existing entrepreneur are constantly looking for perks that can help their startup grow. Web/Cloud hosting voucher, stock photo credit, SaaS system voucher, discount code for digital marketing services, legal templates, co-working space hotdesk and etc are just a few great examples out of many.
+
 ### Create Perk
 
-#### Secret Message
+![](../../.gitbook/assets/screenshot-2021-05-04-at-8.59.47-pm.png)
+
+1. Make sure you selected an organization type of Campus Member ID account. Not all 0-
+2. Click `Manage Perk` button.
+
+![Click \`Add\` button](../../.gitbook/assets/screenshot-2021-05-04-at-9.08.01-pm.png)
+
+![Fill up the form](../../.gitbook/assets/screenshot-2021-05-04-at-9.09.39-pm.png)
+
+#### Approval Process
+
+1. Click `Create` button to save draft. Status of this perk is Draft
+2. Click `Submit` button to change the status to `Submitted` for admin approval. It takes between 1 to 3 working days for admin to process.
+3. Admin may mark the status to `Processing` when amendment to the submitted details is required. Perks provider will receive email notification to re-edit and re-submit this entry.
+4. When everything is good to be listed, admin will change the status to `Approved`. This perk will be automatically set to `published` and listed on perks portal. Perks provider is free to make changes to the details after posted. 
+5. Don't be upset if it get `Rejected`. Admin may think it is not suitable for our community but you can always submit a new entry. 
+
+#### What is Secret Message
+
+Optional but if filled, this message will be send to the redeemer automatically upon your approval to his request. You can always edit it in the approval process.
 
 ### Manage Redeem Requests
 
