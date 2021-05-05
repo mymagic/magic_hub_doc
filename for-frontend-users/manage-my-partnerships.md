@@ -15,9 +15,9 @@ You will see the above screen once you have clicked on `My Partnerships` menu. Y
 
 You can filter the list by `ID` and `Title` if you want to. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Form`, you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png)to view the Submissions List for that `Form`.
 
-![List of Submissions for the Form \#TO CHANGE with new Screenshot](../.gitbook/assets/screenshot_2021-04-30-view-form.png)
+![List of Submissions for that particular form](../.gitbook/assets/screenshot_2021-05-05-view-form-3-.png)
 
-You will see the above screen if you go to that particular form. Here, you can filtering the list by `ID`,  `Username`, `Details`, `Stage` and `Status`. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Submission` you want to view, you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png) to view the details.
+You will see the above screen if you go to that particular form. Here, you can filtering the list by `ID`,  `Username`, `Details`, `Stage` and `Status`. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Submission` you want to view, you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png) to view the details. To go back to the list of your Form, click on `Back` button ![](../.gitbook/assets/screenshot-2021-05-05-at-3.26.14-pm.png) 
 
 ![View the Submission details.](../.gitbook/assets/screenshot-2021-05-03-at-11.47.12-am%20%281%29.png)
 
