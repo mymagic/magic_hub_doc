@@ -12,7 +12,9 @@ You will see the above screen once you have clicked on `My Submissions` menu. Yo
 
 You might want to filter by `ID` to find specific submission. To reset the filter, you can click on  `Reset Filter` button![](../.gitbook/assets/screenshot-2021-04-30-at-11.45.09-am.png). Once you have decided which `Submission` you want to view,  you can click on the `View`  button![](../.gitbook/assets/screenshot-2021-04-30-at-11.10.55-am.png). 
 
-![View the Submission details](../.gitbook/assets/screenshot_2021-05-03-view-form-2-.png)
+![View Submission Details](../.gitbook/assets/screenshot_2021-05-05-view-form.png)
+
+You can see the details of your submission in `View Submission` page. To go back to the list of your Submission, click on `Back` button ![](../.gitbook/assets/screenshot-2021-05-05-at-3.26.14-pm.png) 
 
 You also can click `Update` button ![](../.gitbook/assets/screenshot-2021-05-03-at-2.06.29-pm.png) if it meet these criteria \(`Status` is in `Draft` and not later than `Date Close`\) . Complete the form by fill in all required fields before click Submit button to change the `Status` to `Submitted`to allow your application been reviewed by the Programme Owner.
 
