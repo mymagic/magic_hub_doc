@@ -27,5 +27,5 @@ The submission can be exported into 2 formats which are `CSV` and `PDF` by click
 
 To go back to the Submissions List, you can click on the `Form Code`, the screen will redirect to the previous view.
 
-![Click on the Form Code to go back to the Submissions List](../.gitbook/assets/screenshot-2021-05-03-at-11.47.12-am.png)
+![Click on the Form Code to go back to the Submissions List for that Form](../.gitbook/assets/screenshot-2021-05-03-at-11.47.12-am.png)
 
