@@ -74,6 +74,7 @@
 * [CV \(Talentbank\)](by-modules/cv-talentbank/README.md)
   * [CV for Admin](by-modules/cv-talentbank/cv-for-admin.md)
 * [EKYC](by-modules/ekyc/README.md)
+  * [EKYC for Companies](by-modules/ekyc/ekyc-for-companies.md)
   * [UAT](by-modules/ekyc/uat.md)
 * [Envoy](by-modules/envoy.md)
 * [esLog](by-modules/eslog.md)
