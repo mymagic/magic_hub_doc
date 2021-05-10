@@ -75,6 +75,7 @@
   * [CV for Admin](by-modules/cv-talentbank/cv-for-admin.md)
 * [EKYC](by-modules/ekyc/README.md)
   * [EKYC for Companies](by-modules/ekyc/ekyc-for-companies.md)
+  * [EKYC for Admin](by-modules/ekyc/ekyc-for-admin.md)
   * [UAT](by-modules/ekyc/uat.md)
 * [Envoy](by-modules/envoy.md)
 * [esLog](by-modules/eslog.md)
