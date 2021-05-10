@@ -38,8 +38,6 @@ The approval process for auto verification is instant, however, please note:
 1. User to upload required scanned ID documents and input detail as per instruction
 2. Admin will process accordingly. Admin may raise additional questions to user \(e.g. to upload a clearer document\) and the applicant will be notified thru email or he can check thru frontend interface at  `ekyc/frontend/manage`
 
-### EKYC for Organisation
-
 #### 
 
 #### 
