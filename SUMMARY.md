@@ -66,6 +66,7 @@
   * [Campus ID for Perk Provider](by-modules/campus-id/campus-id-for-perk-provider.md)
   * [Campus ID for quest provider](by-modules/campus-id/campus-id-for-quest-provider.md)
   * [Campus ID for Admin](by-modules/campus-id/campus-id-for-admin.md)
+  * [UAT Quest](by-modules/campus-id/uat-quest.md)
   * [UAT](by-modules/campus-id/uat.md)
 * [Challenge](by-modules/challenge.md)
 * [Collection](by-modules/collection.md)
