@@ -8,7 +8,7 @@ Solution Provider interact with MaGIC Activate service from the `frontend` as we
 
 ![Challenge directory on frontend](../../.gitbook/assets/screenshot-2021-03-01-at-6.25.44-pm.png)
 
-Featured challenges are listed on the front page while all including non-featured are listed on the `Challenges` page, sorted by latest challenge on top \(base on closing date\).
+Featured challenges are listed on the front page while all including non-featured are listed on the `Challenges` page, sorted by latest challenges on top \(based on closing date\).
 
 ### Propose a Solution
 
@@ -16,7 +16,7 @@ Featured challenges are listed on the front page while all including non-feature
 
 Solution provider \(Startups, Social Innovator\) may click into a specific challenge to learn more on its detail like expected deliverable, selection criteria, prizes and timeline. 
 
-After decision made, he may proceed to propose solution to this challenge by clicking `Participate` button on the right.
+After a decision is made, he may proceed to propose solution to this challenge by clicking `Participate` button on the right.
 
 A form will show up.
 

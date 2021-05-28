@@ -10,7 +10,7 @@ It has been empowering [MaGIC](https://mymagic.my) since 2016 connecting ecosyst
 This documentation is still at infancy stage of development. Tech team are working hard to complete it!
 {% endhint %}
 
-### With CENTRAL you can:
+### With CENTRAL You Can:
 
 * **Remove Information Silo** with CENTRAL acting as a Single Source Of Truth \(SSOT\) for data
 

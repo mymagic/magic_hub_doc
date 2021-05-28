@@ -18,13 +18,13 @@ CENTRAL is integrated with **Eventbrite** system and all events are automaticall
 
 ### Eventbrite Admins
 
-MaGIC Tech team is the master account manager. We do not add admin to Eventbrite system one ad-hoc request as all admins have to gone thru training in order to create event adhere to our guideline and data standard so the data can auto sync back to Central correctly.
+MaGIC Tech team is the master account manager. We do not add admin to Eventbrite system one ad-hoc request as all admins have to go through training in order to create an event that adheres to our guidelines and data standards so that the data can auto sync back to Central correctly.
 
 {% hint style="warning" %}
-It's various Team Lead responsibility to train their team members on using Eventbrite system. Team Leads also must keep the admin list updated, removing old MaGician and add in new one.
+It's various Team Leader's responsibility to train their team members on using Eventbrite system. Team Leaders also must keep the admin list updated, removing old MaGICians and add in new ones.
 {% endhint %}
 
-Here are list of MaGICians with access to MaGIC Eventbrite account. 
+Here is a list of MaGICians with access to MaGIC Eventbrite account. 
 
 **Individuals:**
 

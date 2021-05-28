@@ -2,12 +2,12 @@
 
 ### **F7 Form**
 
-Programs with a selection stage like Bootcamps, University Startup Challenge \(**USC**\), MaGIC Ecosystem Builder Programs \(**MEBP**\), ACE MyStartupHub \(**MSH**\) & Global Market-Fit Program \(**GMP**\) and etc make use of **F7 Form** for the entire process.
+Programs with a selection of stages like Bootcamps, University Startup Challenge \(**USC**\), MaGIC Ecosystem Builder Programs \(**MEBP**\), ACE MyStartupHub \(**MSH**\) & Global Market-Fit Program \(**GMP**\) and etc, can make use of **F7 Form** for the entire process.
 
 {% hint style="info" %}
 F7 is a Google form like CENTRAL module. Developers can create new form quickly in JSON language at a turnaround time of about 3 working days. 
 
-Using F7 has advantages like applicant can reuse their company profile in submission. Entire workflow from application stage to KPI reporting stage can be automated and to comply with SOP.
+Using F7 has advantages such as, applicants can reuse their company profile in submission. Entire workflow from application stage to KPI reporting stage can be automated and to comply with SOP.
 {% endhint %}
 
 ![An example of F7 form](../../.gitbook/assets/screenshot-2021-02-22-at-10.02.02-am.png)

@@ -9,10 +9,10 @@
 
 * [MaGIC Account](for-frontend-users/magic-account.md)
 * [Member Control Panel](for-frontend-users/untitled.md)
-* [Manage My Organisations](for-frontend-users/manage-my-organizations/README.md)
+* [Manage My Organizations](for-frontend-users/manage-my-organizations/README.md)
   * [Manage Team Members](for-frontend-users/manage-my-organizations/manage-team-members.md)
-  * [Manage Organisation's Products](for-frontend-users/manage-my-organizations/manage-organisations-products.md)
-  * [Manage Organisation's Resources](for-frontend-users/manage-my-organizations/manage-organisations-resources.md)
+  * [Manage Organization's Products](for-frontend-users/manage-my-organizations/manage-organisations-products.md)
+  * [Manage Organization's Resources](for-frontend-users/manage-my-organizations/manage-organisations-resources.md)
 * [Manage My Profile](for-frontend-users/manage-my-profile.md)
 * [Manage My Partnerships](for-frontend-users/manage-my-partnerships.md)
 * [Manage My Submissions](for-frontend-users/manage-my-submissions.md)

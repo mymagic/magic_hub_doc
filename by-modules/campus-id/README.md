@@ -8,7 +8,7 @@ description: >-
 
 ### Overview
 
-Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus ID Member then can collect points by participating in MaGIC selected events and programs, or by helping startups completing `QUEST`. Then, they can spend the point to redeem perk that helps their startup grow. By leveling up thru the journey, they gain badges of honors which used by the program owner for assessment.
+Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus ID Member then can collect points by participating in MaGIC selected events and programs, or by helping startups completing `QUEST`. Then, they can spend the points to redeem perks that can help their startup grow. By leveling up thru the journey, they gain badges of honors which is used by the program owner for assessment.
 
 ![Overview of Campus ID](../../.gitbook/assets/screenshot-2021-04-21-at-10.02.50-pm.png)
 
@@ -16,11 +16,11 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 #### Experience Points \(XP\)
 
-Experience Points \(XP\) is earned as you join & complete certain programs from MaGIC. Your XP will grow as you go through the startup journey with MaGIC. Higher amount of XP will allow access to more relevant things base of your experience. XP will also be used as an assessment & qualification checks.
+Experience Points \(XP\) is earned as you join & complete certain programs from MaGIC. Your XP will grow as you go through the startup journey with MaGIC. Higher amounts of XP will allow access to more relevant things based on your experience. XP will also be used as an assessment & qualification checks.
 
 #### Redeemable Points \(RP\)
 
-Redeemable Points \(RP\) is earned as you join & complete certain programs from MaGIC. RP also can be earn by completing task offered on Perks portal. Your accumulated RP can be used to redeem perks that is offered by our perks providers. Perks can help your grow your ideas & startups.
+Redeemable Points \(RP\) is earned as you join & complete certain programs from MaGIC. RP also can be earned by completing tasks offered on Perks portal. Your accumulated RP can be used to redeem perks that is offered by our perks providers. Perks can help you grow your ideas & startups.
 
 ### Individual vs Organization Membership
 
@@ -40,7 +40,7 @@ An organization membership consists of one or more individual membership. XP & R
 
 ![Cpanel page.](../../.gitbook/assets/img_7979.jpg)
 
-* You will automatically redirect to the "Auto Identify Verification" page. 
+* You will automatically be redirected to the "Auto Identify Verification" page. 
 * Scan your ID with your smartphone camera by tapping on the camera icon or upload a photo of your ID from your smartphone's gallery.
 
 ![Auto eKYC page](../../.gitbook/assets/capture2.png)

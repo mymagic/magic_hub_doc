@@ -6,7 +6,7 @@ description: Open source module.
 
 ### Different type of resources
 
-The are different types of products and services provided by various organisations, the resources can be divided into different categories such as Fund, Space, Award, Program, Media, Legislation and Others. Whereas the company stage can be divided into different stages such as Discovery, Validation, Product Development, Efficiency, Growth and Mature.
+The are different types of products and services provided by various organizations, the resources can be divided into different categories such as Fund, Space, Award, Program, Media, Legislation and Others. Whereas the company stage can be divided into different stages such as Discovery, Validation, Product Development, Efficiency, Growth and Mature.
 
 ### 
 
@@ -34,13 +34,13 @@ To manage resources from control panel, first enter the control panel using the 
 
 {% embed url="https://central.mymagic.my/cpanel" %}
 
-Once the page redirects to the control panel, click the "My Organisation" on the left item menu to enter the organisation page.
+Once the page redirects to the control panel, click the "My Organization" on the left item menu to enter the organization page.
 
 ![Access &quot;My Organisation&quot; from control panel](../.gitbook/assets/2021-04-15-10-%20%281%29.png)
 
 #### Steps to manage resource data
 
-If an organisation hasn't been made yet, it can be created by clicking "Create Company". Once the required data is filled in, click "Create Organisation" button to create a new entry for your organisation.
+If an organization hasn't been made yet, it can be created by clicking "Create Company". Once the required data is filled in, click "Create Organization" button to create a new entry for your organization.
 
 ![Page to create new company entry](../.gitbook/assets/2021-04-15-9-.png)
 
@@ -64,7 +64,7 @@ Once the required data is filled in, click "Create Resource" button to create a 
 
 To manage resources from backend,  first enter the backend page using the direct link below. Admin privileges is required to access the backend. You may be prompted to login before access to the page is granted. 
 
-Alternatively, user can access the backend from the control panel by clicking the "Backend" on the left item menu when logging in with user that have the right privileges.
+Alternatively, users can access the backend from the control panel by clicking the "Backend" on the left item menu when logging in with user that have the right privileges.
 
 {% embed url="https://central.mymagic.my/backend/dashboard\#welcome" %}
 
@@ -84,7 +84,7 @@ User can start to manage resource at the "Manage Resource" page.
 
 ![&quot;Manage Resource&quot; page](../.gitbook/assets/2021-04-15-8-.png)
 
-There are three actions that can be performed on each data entry. The actions are "View", "Update" and "Deactivate", the functions are mapped to the icons in the same order as shown in the picture below. 
+There are three actions that can be performed on each data entry. The actions are "View", "Update" and "Deactivate", these functions are mapped to the icons in the same order as shown in the picture below. 
 
 ![Available actions for each data entry \(Insert, Update, Deactivate\)](../.gitbook/assets/2021-04-16-2-.png)
 
@@ -102,7 +102,7 @@ When the update button is clicked, the user will be brought to the "Update Resou
 
 #### Deactivating Resource data entry
 
-When the deactivate button is clicked, the user will be presented with a warning page. In this page, the user will be able to confirm whether the data is to be deactivated or not. To deactivate a particular entry, click OK to perform the action. Otherwise, select Cancel to return to previous page.
+When the deactivate button is clicked, the user will be presented with a warning page. In this page, the user will be able to confirm whether the data is to be deactivated or not. To deactivate a particular entry, click OK to perform the action. Otherwise, select Cancel to return to the previous page.
 
 ![Warning page](../.gitbook/assets/2021-04-19-2-.png)
 

@@ -4,7 +4,7 @@ description: Events run by our trainer can be track too!
 
 # Train the trainer
 
-Programs like **MBEP** can make use of CENTRAL to track the performance of the trainer we trained thru the use of **Eventbrite**.
+Programs like **MBEP** can make use of CENTRAL to track the performance of the trainer we trained through the use of **Eventbrite**.
 
 Eg. FounderClub from Sarawak is a trainer MaGIC trained. We like to know not only how many training sessions they provided in Miri but also who are these participants.
 

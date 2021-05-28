@@ -105,7 +105,7 @@
 
 ![](../../.gitbook/assets/backend9-ddd.jpg)
 
-* Fill all the required field and click the "Create" button to deduct points to a Campus ID member.
+* Fill all the required field and click the "Create" button to deduct points from a Campus ID member.
 * Field description :
   * **Campus Member Code** - Campus ID membership Code e.g. "P1234"
   * **XP** - The amount of experience points to remove from Campus ID member. 
@@ -138,5 +138,5 @@
 
 ![Create Perk Page](../../.gitbook/assets/backend13-edited.jpg)
 
-Only Campus Member of organization type \(start with prefix 'c'\) and can marked as `is_perk_provider` can be assigned. Admin also needs to associate this perk to the correct organization behind this campus membership.
+Only Campus Member of organization type \(start with prefix 'c'\) and can be marked as `is_perk_provider` can be assigned. Admin also needs to associate this perk to the correct organization behind this campus membership.
 

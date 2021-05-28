@@ -4,7 +4,7 @@
 This feature is currently under development. Please come back later.
 {% endhint %}
 
-Perk can be created by any Organization type of Campus ID Member in Member Control Panel. Admin approval is required to publish for other Campus ID Member to redeem.
+Perks can be created by any Organization type of Campus ID Member in Member Control Panel. Admin approval is required to publish for other Campus ID Member to redeem.
 
 ### Recommended type of perks
 
@@ -29,7 +29,7 @@ Our community consists of both aspiring and existing entrepreneur are constantly
 2. Click `Submit` button to change the status to `Submitted` for admin approval. It takes between 1 to 3 working days for admin to process.
 3. Admin may mark the status to `Processing` when amendment to the submitted details is required. Perks provider will receive email notification to re-edit and re-submit this entry.
 4. When everything is good to be listed, admin will change the status to `Approved`. This perk will be automatically set to `published` and listed on perks portal. Perks provider is free to make changes to the details after posted. 
-5. Don't be upset if it get `Rejected`. Admin may think it is not suitable for our community but you can always submit a new entry. 
+5. Don't be upset if it gets `Rejected`. Admin may think it is not suitable for our community but you can always submit a new entry. 
 
 #### What is a Secret Message
 
@@ -156,5 +156,5 @@ Only you as the perk provider can manage the redeem requests. Our admins only ha
 
 ### Dispute
 
-Disputes may happen between Perk Provider and Redeemer. MaGIC Campus ID operation team will help solve the dispute. 
+Disputes may happen between Perk Provider and Redeemer. MaGIC Campus ID operation team will help to solve the dispute. 
 

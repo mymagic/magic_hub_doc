@@ -16,7 +16,7 @@ You might want to filter by `ID` to find specific submission. To reset the filte
 
 You can see the details of your submission in `View Submission` page. To go back to the list of your Submission, click on `Back` button ![](../.gitbook/assets/screenshot-2021-05-05-at-3.26.14-pm.png) 
 
-You also can click `Update` button ![](../.gitbook/assets/screenshot-2021-05-03-at-2.06.29-pm.png) if it meet these criteria \(`Status` is in `Draft` and not later than `Date Close`\) . Complete the form by fill in all required fields before click Submit button to change the `Status` to `Submitted`to allow your application been reviewed by the Programme Owner.
+You also can click the `Update` button ![](../.gitbook/assets/screenshot-2021-05-03-at-2.06.29-pm.png) if it meets these criteria \(`Status` is in `Draft` and not later than `Date Close`\) . Complete the form by filling in all the required fields before clicking the Submit button to change the `Status` to `Submitted`to allow your application to be reviewed by the Programme Owner.
 
 ![Accessing the Draft Application](../.gitbook/assets/screenshot_2021-05-03-ntis-activity-report.png)
 

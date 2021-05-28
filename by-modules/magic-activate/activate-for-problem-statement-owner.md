@@ -16,10 +16,10 @@ You need a Central user account to proceed. After login, you may post it either 
 
 ![Use organisation selector](../../.gitbook/assets/screenshot-2021-03-01-at-7.05.12-pm.png)
 
-* Select an existing organisation of yours from the left
-* Or, insert a name for your new organisation
-* You may proceed to create the organisation profile if new
-* If the organisation profile exist, you may request for the permission from its owner to join.
+* Select an existing organization of yours from the left
+* Or, insert a name for your new organization
+* You may proceed to create the organization profile if new
+* If the organization profile exist, you may request for the permission from its owner to join.
 
 Upon completion, proceed to \`**Submit a challenge \(Problem Statement\)**'
 
@@ -68,7 +68,7 @@ Once submitted, you can preveiw your challenge at Member Control Panel while wai
 ### Getting Approval & Featured
 
 {% hint style="success" %}
-MaGIC Alumni with Campus ID will be able to acquired auto approval upon submission without any human intervention.
+MaGIC Alumni with Campus ID will be able to acquire auto approval upon submission without any human intervention.
 {% endhint %}
 
 It's solely MaGIC Program Owner or Admin decision to approve, approve with featured or reject a challenge post. 

@@ -4,7 +4,7 @@ description: Open source module.
 
 # Eventbrite
 
-Eventbrite module not only sync event and participants data from Eventbrite accounts, but also provide frontend interface for CENTRAL member to register a published event.
+Eventbrite module not only sync events and participant's data from Eventbrite accounts, but also provides a frontend interface for CENTRAL member to register a published event.
 
 ### Frontend
 

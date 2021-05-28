@@ -16,44 +16,44 @@ description: User Acceptance Test for tester
 
 #### Membership, Cpanel
 
-* [ ] As a Campus ID member, I understand there are 2 type of membership. One for individual and one for organization.
-* [ ] As a registered Central Member, I can signup for Campus ID membership for individual thru Cpanel
-* [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently login to, thru Cpanel. 
-  * [ ] Using Blink, my application is instant approve once auto identification completed
-  * [ ] If Blink failed to auto identify my Identity, the EKYC module is smart enough to fall back to manual method. User should beable to reach this manual method without asking human for help.
+* [ ] As a Campus ID member, I understand there are 2 types of membership. One for individual and one for organization.
+* [ ] As a registered Central Member, I can signup for Campus ID membership as an individual through Cpanel
+* [ ] As a registered Central Member, I can auto EKYC my identity using MyKad for the account I am currently logged in to, through Cpanel. 
+  * [ ] Using Blink, my application is instantly approved once auto identification is completed
+  * [ ] If Blink fails to auto identify my Identity, the EKYC module is smart enough to fall back to manual method. User should be able to reach this manual method without asking other people for help.
   * [ ] For both process, I can proceed to enroll Campus ID once my EKYC is approved 
 * [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'P99999'\) for my individual profile upon successful enrollment. 
   * [ ] Approved Individual EKYC is part of the requirements.
   * [ ] Terms and conditions will be displayed and I need to click Accept to proceed
   * [ ] I should acquire the membership ID instantly
 * [ ] As a registered Central Member, I can enroll to Campus ID and acquire a Campus ID Membership code \(e.g. 'C88888'\) for my organization profile upon successful enrollment.
-  * [ ] I can submit application by providing information like \(SSM Reg No, SSM Company Name, SSM Company Address, SSM copy of documentation\) and have it process manually
+  * [ ] I can submit an application by providing information like \(SSM Reg No, SSM Company Name, SSM Company Address, SSM copy of documentation\) and have it processed manually
 * [ ] As a Campus ID member, I can go to Cpanel homepage and see my current XP and RP there
-* [ ] As a Campus ID member, I also can get to Campus ID Member page thru Cpanel
+* [ ] As a Campus ID member, I also can get to Campus ID Member page through Cpanel
   * [ ] My latest XP and RP
   * [ ] My Campus ID membership code
-  * [ ] My Campus ID associated EKYC info like full name, mykad
+  * [ ] My Campus ID associated EKYC info like full name, MyKad
   * [ ] List of campus ID membership I have access to and able to switch in between them
   * [ ] List of events I participated which has allocated points
   * [ ] I can claim points from the event list
-  * [ ] Points claimed are immediately debit into my Campus ID membership account
+  * [ ] Points claimed are immediately debited into my Campus ID membership account
   * [ ] List of transaction of points
-* [ ] After EKYC myself, my profile in Cpanel is sync and lock from updating
+* [ ] After EKYC myself, my profile in Cpanel is sync and locked from updating
 
 #### Perks
 
 * [ ] As visitors, I can browse the perks home page
-* [ ] As visitors, I can click into each of the perk listed here for more detail
+* [ ] As visitors, I can click into each of the perk listed here for more details
   * [ ] Shows title
   * [ ] From who?
-  * [ ] Tells who can redeem \(organization or individual or both\)
+  * [ ] Tells who can redeem it \(organization or individual or both\)
   * [ ] How many RP required to redeem this
   * [ ] Minimal qualified XP required to redeem this
-  * [ ] Perk only display within the set start and end date
+  * [ ] Perk is only displayed within the set start and end date
 * [ ] As Campus ID member, I can redeem a perk
   * [ ] I can include a note to perk provider along with my submission
-  * [ ] My RP will be deducted and transfer to the perks provider i redeem from
-  * [ ] For perk who limit to 1 per user, I should not beable to submit twice unless the previous submission is marked 'cancel' or 'rejected'.
+  * [ ] My RP will be deducted and transferred to the perks provider i redeemed from
+  * [ ] For perks that are limited to 1 usage per user, I should not be able to submit it twice unless the previous submission is marked 'cancel' or 'rejected'.
 
 ### For Admin
 
@@ -66,10 +66,10 @@ description: User Acceptance Test for tester
   * [ ] I can see a list of qualified individuals or organizations and they had made the claim or not
   * [ ] I understand I cant simply change the points when there already a claim being made out of the entire listAs admin, I can allocate points to an event
 * [ ] As admin, I can manage transactions
-  * [ ] I can add point to a member
-  * [ ] I can reduct point from a member
-  * [ ] I should not beable to edit allocated points. To adjust, i just need to add another new transaction.
-  * [ ] I should not beable to delete a transaction
+  * [ ] I can add points to a member
+  * [ ] I can reduct points from a member
+  * [ ] I should not be able to edit allocated points. To adjust, i just need to add another new transaction.
+  * [ ] I should not be able to delete a transaction
   * [ ] I can view the detail of a specific transaction
 * [ ] As admin, I can manage perks
   * [ ] I can add perk

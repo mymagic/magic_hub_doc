@@ -1,17 +1,17 @@
 # Number of Startups
 
-We will never have a definite number. One needs to understand startup is not a company and not everyone of them register with SSM. 
+We will never have a definite number. One needs to understand that a startup is not a company and not all of them register with SSM. 
 
-Same when the same question throw to agency like TEKUN on how many micro SME are there in Malaysia. People may start selling burger this month but stop in next month. They can only give number base on their funding application while running program to encourage these micro SME to register.
+It's the same case as to when the same question is thrown to an agency such as TEKUN on how many micro SMEs are there in Malaysia. A good example is that, people may start selling burgers this month but stops in the next month. They can only give numbers based on their funding application while running programs to encourage these micro SME to register.
 
 Hence, to better answer this question, all magician can work together to educate and encourage startups we encounter to form a proper company and proceed to register with SSM.
 
-For time being, standard answer is about 3k in Malaysia, our alumni is about 1.5 to 2k. Strategy team is the custodian of this number.
+For the time being,  the standard answer is that we have about 3k startups in Malaysia, our alumni themselves numbers between 1.5 to 2k. Strategy team is the custodian of this number.
 
 ### MaGIC Public Impact Dashboard
 
 {% hint style="info" %}
-Public Impact Dashboard providing ilve data from Central and accessible by public from URL: [https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ\_Qp/page/A3L1?s=mISRUN\_djwg](https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ_Qp/page/A3L1?s=mISRUN_djwg)
+Public Impact Dashboard providing live data from Central that accessible by the public from URL: [https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ\_Qp/page/A3L1?s=mISRUN\_djwg](https://datastudio.google.com/u/0/reporting/1DBCItFl7PMujGtfPJjuo336LMhYdQ_Qp/page/A3L1?s=mISRUN_djwg)
 {% endhint %}
 
 ![2,656 \(join multiple programs\) and 1,555 \(unique startup\)](../.gitbook/assets/screenshot-2021-02-22-at-11.22.42-am.png)

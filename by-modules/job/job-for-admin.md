@@ -18,7 +18,7 @@ Once arrived at the "Manage Vacancy" section, user can click on the "Create Vaca
 
 ![Manage Vacancy page](../../.gitbook/assets/2021-04-28-6-.png)
 
-User will be redirected to "Create Vacancy" page where details for a job vacancy can be added.
+User will be redirected to a "Create Vacancy" page where details for a job vacancy can be added.
 
 ![Create Vacancy page](../../.gitbook/assets/2021-04-27-31-.png)
 
@@ -28,7 +28,7 @@ Once all the details are added, user can click the "Create" button near the bott
 
 ### Approval Workflow
 
-When a startup submits a job vacancy entry, the admin role is to verify the the job submission from the startup. There are several options the admin can label the submission with, which includes "Processing", "Approve" and "Reject".
+When a startup submits a job vacancy entry, the admin's role is to verify the the job submission from the startup. There are several options the admin can label the submission with, which includes "Processing", "Approve" and "Reject".
 
 ![Actions available to admin](../../.gitbook/assets/2021-04-28-9-.png)
 
@@ -38,7 +38,7 @@ The following flowchart demonstrates the basic flow of the approval process.
 
 #### Processing
 
-The "Processing" step is used to notify the applicants to fix any problems with the submission. Once the problem is rectified by the applicant, the applicant can submit the job vacancy again for approval. The submission label will be reverted to "Submitted" from "Processing".
+The "Processing" option is used to notify the applicants to fix any problems with the submission. Once the problem is rectified by the applicant, the applicant can submit the job vacancy again for approval. The submission label will be reverted to "Submitted" from "Processing".
 
 After clicking the "Processing" button, the admin can inform the applicant on any problems that requires fixing with a message. 
 
@@ -48,7 +48,7 @@ After clicking the "Processing" button, the admin can inform the applicant on an
 
 #### Reject
 
-The "Rejected" step is used to reject a submission. Similar to the "Processing" stage, the admin can write a message to the applicant along with the rejection.
+The "Rejected" option is used to reject a submission. Similar to the "Processing" stage, the admin can write a message to the applicant along with the rejection.
 
 ![Message to the applicant. \(Reject\)](../../.gitbook/assets/2021-04-28-11-.png)
 
@@ -62,7 +62,7 @@ The admin can also set the "Rejected" submission back to "Processing" status. Th
 
 #### Approve
 
-The "Approve" step is used to approve a submission. Once the submission is approved, the job vacancy entry will shows up on the Central's "Job" section.
+The "Approve" option is used to approve a submission. Once the submission is approved, the job vacancy entry will shows up on the Central's "Job" section.
 
 ![Approval Message](../../.gitbook/assets/2021-04-28-17-.png)
 

@@ -6,9 +6,9 @@ MaGIC Central is connected with MaGIC Account \([https://account.mymagic.my](htt
 
 ![MaGIC Account login page](../.gitbook/assets/screenshot-2021-02-23-at-11.31.09-am.png)
 
-As new user, you may choose for **one-click social media instant login** \(recommended, no sign-up required\); or sign-up and login thru traditional method.
+As new user, you may choose either **one-click social media instant login** \(recommended, no sign-up required\); or sign-up and login through traditional method.
 
-Accounts are tied to unique email address and required verification to access the system.
+Accounts are tied to a unique email address and requires verification to access the system.
 
 ### Social Media Instant Login
 
@@ -18,11 +18,11 @@ MaGIC Account support 3 social medias: Facebook, Google & Linkedin.
 
 #### Google Login
 
-If you have multiple accounts login on google, the following prompt appear for you to select. 
+If you have multiple accounts login on google, the following prompt will appear for you to select which account you wish to use. 
 
 ![Choose an account prompt](../.gitbook/assets/screenshot-2021-02-23-at-11.38.19-am.png)
 
-Next, Google will ask for your permission to allow MaGIC Account to retrieve required information from your Google Account. Approve to proceed.
+Next, Google will ask for your permission to allow MaGIC Account to retrieve several required information from your Google Account. Approve to proceed.
 
 #### Facebook Login
 
@@ -61,9 +61,9 @@ Upon successful login, you may be redirected to:
 
 ### Logout
 
-Logout from the system is as easy as clicking your avatar on the header bar and select "**Logout**".
+Logging out from the system is as easy as clicking your avatar on the header bar and select "**Logout**".
 
-Please note for better security, the system will automatically log you out once its detected idle session. 
+Please note for better security, the system will automatically log you out once it detects an idle session. 
 
 ### Forgot Password
 
@@ -79,7 +79,7 @@ Repeat step 1 if you did not receive this email within an hour to have the syste
 
 ![Email Instruction on Reset Password](../.gitbook/assets/screenshot-2021-02-23-at-11.59.35-am.png)
 
-3. The link will brought you to this **Reset Password** page. Insert the same email address but new password to proceed.
+3. The link will direct you to this **Reset Password** page. Insert the same email address but new password to proceed.
 
 Upon successful reset, you will be redirected to "Central Member Control Panel".
 
