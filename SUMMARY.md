@@ -93,6 +93,7 @@
 * [Resource Directory](by-modules/resource-directory.md)
 * [S3 Scoring](by-modules/s3-scoring.md)
 * [SEA](by-modules/magic-se.a.md)
+* [SIX](by-modules/six.md)
 
 ## Other Topics <a id="other-topic"></a>
 
