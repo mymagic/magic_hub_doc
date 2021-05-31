@@ -8,7 +8,9 @@ description: >-
 
 ### Overview
 
-A curated platform by MaGIC to bring together a community of impact driven Malaysian organisations, investors and corporates together to encourage purpose driven collaborations \(non-financial & financial\) and resource exchange \(writings & insights\).    
+A curated platform by MaGIC to bring together a community of impact-driven Malaysian organizations, investors, and corporates together to encourage purpose-driven collaborations \(non-financial & financial\) and resource exchange \(writings & insights\).  
+
+  
 
 
 ### 
