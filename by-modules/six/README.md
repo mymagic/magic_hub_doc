@@ -31,6 +31,10 @@ Get in touch directly with the IDO of the project you are interested in to lend 
 
 
 
+### View listed projects
+
+![](../../.gitbook/assets/screenshot-2021-05-31-at-12.15.32-pm.png)
+
 ### 
 
 ### 

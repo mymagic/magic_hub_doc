@@ -95,6 +95,7 @@
 * [SEA](by-modules/magic-se.a.md)
 * [SIX](by-modules/six/README.md)
   * [How to get listed](by-modules/six/how-to-get-listed.md)
+  * [UAT](by-modules/six/uat.md)
 
 ## Other Topics <a id="other-topic"></a>
 
