@@ -94,8 +94,9 @@
 * [S3 Scoring](by-modules/s3-scoring.md)
 * [SEA](by-modules/magic-se.a.md)
 * [SIX](by-modules/six/README.md)
-  * [How to get listed](by-modules/six/how-to-get-listed.md)
   * [UAT](by-modules/six/uat.md)
+  * [How to get listed](by-modules/six/how-to-get-listed.md)
+  * [UAT](by-modules/six/uat-1.md)
 
 ## Other Topics <a id="other-topic"></a>
 
