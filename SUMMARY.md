@@ -94,11 +94,10 @@
 * [S3 Scoring](by-modules/s3-scoring.md)
 * [SEA](by-modules/magic-se.a.md)
 * [SIX](by-modules/six/README.md)
-  * [UAT](by-modules/six/uat.md)
   * [SIX for The Impact Driven Organization](by-modules/six/six-for-the-impact-driven-organization.md)
   * [Six for Corporate](by-modules/six/six-for-corporate.md)
   * [SIX for Program owner](by-modules/six/six-for-program-owner.md)
-  * [UAT](by-modules/six/uat-1.md)
+  * [UAT](by-modules/six/uat.md)
 
 ## Other Topics <a id="other-topic"></a>
 

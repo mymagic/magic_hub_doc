@@ -1,8 +1,6 @@
----
-description: User Acceptance Test for Tester
----
-
 # UAT
+
+
 
 ### Definition
 
