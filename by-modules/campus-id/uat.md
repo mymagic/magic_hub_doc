@@ -59,7 +59,7 @@ description: User Acceptance Test for tester
 * [ ] As a CampusID member, I can take a quest
 
   * [ ] I am redirected to a new page with confirmation window
-  * [ ] The confirmation window tells me the number of RP earned
+  * [ ] The confirmation window tells me the number of RP I will earn from this quest
   * [ ] The confirmation window tells me my current RP count
   * [ ] I can click either "OK" or "Cancel" to exit the dialog
   * [ ] The transaction is recorded correctly in the CPanel \(RP and XP earned\)
