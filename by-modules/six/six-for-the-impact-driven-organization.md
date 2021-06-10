@@ -1,7 +1,5 @@
 # SIX for The Impact Driven Organization
 
-
-
 ### Steps to get listed
 
 1. **Create a Project Page**
@@ -15,4 +13,93 @@
 3. **Wait** 
 
    Stand by to receive emails from funders and experts getting in touch to help you. 
+
+### Create a project page
+
+You need a Central user account to proceed. After login, you may post it either thru the MaGIC SIX main page or Member Control Panel.
+
+![Method 1: Click \`Get Listed\` button](../../.gitbook/assets/screenshot-2021-06-09-at-2.56.18-pm.png)
+
+![Method 2: Click \`SIX Projects\` from Member Control Panel](../../.gitbook/assets/screenshot-2021-06-09-at-3.09.17-pm.png)
+
+### Method 1
+
+#### Select existing or create new Organisation
+
+![Use organisation selector](../../.gitbook/assets/screenshot-2021-06-10-at-11.14.18-am.png)
+
+* Select an existing organization of yours from the left
+* Or, insert a name for your new organization
+* You may proceed to create the organization profile if new
+* If the organization profile exist, you may request for the permission from its owner to join.
+
+Upon completion, proceed to select the desired organization and process to next page 
+
+![member control panel for SIX](../../.gitbook/assets/screenshot-2021-06-10-at-11.12.24-am.png)
+
+### Method 2
+
+#### Select existing or create new Organisation
+
+{% hint style="info" %}
+You will need an organisation profile to host a challenge. Create new or join existing one to proceed.
+{% endhint %}
+
+![Select \`My Organizations\` in Member Control Panel](../../.gitbook/assets/screenshot-2021-06-10-at-11.20.01-am.png)
+
+![Select an organization of desired where the project will be created under](../../.gitbook/assets/screenshot-2021-06-10-at-11.19.32-am.png)
+
+* Select an existing organization of yours from the list
+* You may proceed to create the organization profile if new
+* If the organization profile exist, you may request for the permission from its owner to join by proceed with the join existing option.
+
+![After selecting the organization, back to the member control panel](../../.gitbook/assets/screenshot-2021-06-10-at-11.39.14-am.png)
+
+![SIX Project member control panel](../../.gitbook/assets/screenshot-2021-06-10-at-11.42.36-am.png)
+
+Click `Add` button and you will directed to a form
+
+### Create a project
+
+Click `Add` button and you will have to fill up a form to post:
+
+![Add new project form](../../.gitbook/assets/screenshot-2021-06-10-at-11.46.39-am.png)
+
+![Upon completion, click the &apos;create&apos; button](../../.gitbook/assets/screenshot-2021-06-10-at-11.46.50-am.png)
+
+* Each posted challenge has an open and close date. Recommended timeframe between these two dates is not more than 6 months.
+* Although optional, do provide a cover and a header image to make your challenge stand out from the rest. Plain color background use by default.
+* Create `Create` button to save it as draft.
+
+### Submit a Project
+
+![](../../.gitbook/assets/screenshot-2021-06-10-at-2.27.03-pm.png)
+
+After the project has created from the previous page, fill in all the details on the bottom such as the image and assistance required
+
+Click `Submit` button and your application will be sent for approval by admin. An notification email will be sent to your user account.
+
+### Preview Project
+
+Once submitted, you can preview your Project at Member Control Panel while waiting for admin approval for listing.
+
+![The project while be badged as submitted while waiting to be approved](../../.gitbook/assets/screenshot-2021-06-10-at-2.32.37-pm.png)
+
+![Catalog&apos;s section](../../.gitbook/assets/screenshot-2021-06-10-at-2.33.35-pm.png)
+
+![Other&apos;s section](../../.gitbook/assets/screenshot-2021-06-10-at-2.33.50-pm.png)
+
+### Getting Approval & Featured
+
+It's solely MaGIC Program Owner or Admin decision to approve, process or reject a project.
+
+### Receiving application from Solution Provider
+
+{% hint style="info" %}
+Function to allow Problem Statement Owner DIY manage submission from Solution Provider is under development. 
+{% endhint %}
+
+For the time being, Program owner or admin will help the Problem Statement owner to manage the submissions manually.
+
+
 
