@@ -54,7 +54,7 @@ Able to view your quest taken status
 
 ## **Process Flow For Frontend User**
 
-**Campus member is able to view quest list, view quest details and take a quest**
+Campus member is able to view quest list, view quest details and take a quest
 
   ****
 
