@@ -96,10 +96,10 @@ It's solely MaGIC Program Owner or Admin decision to approve, process or reject 
 ### Receiving application from Solution Provider
 
 {% hint style="info" %}
-Function to allow Problem Statement Owner DIY manage submission from Solution Provider is under development. 
+Function will be confirmed
 {% endhint %}
 
-For the time being, Program owner or admin will help the Problem Statement owner to manage the submissions manually.
+IDO will receive a filled application form by the corporate filled at SIX project website. 
 
 
 

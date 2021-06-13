@@ -18,15 +18,13 @@ MaGIC's Social innovation Exchange used `SIX` module as backend and its manageme
 
 As an admin, you can perform the following workflow action onto a challenge submission by problem statement owner.
 
-1. `new` - In draft mode, applicant not yet submit. Submission is editable by application in this stage.
-2. `pending` - Submitted, pending for admin to process. Submission is **NOT Editable** by application in this stage.
-3. `processing` - Processing by admin. Admin can post message to applicant for amendment. Submission is editable by application in this stage. After amended, applicant can resubmit and have their status reset back to stage 2. 
-4. `approved`  
+1. `new` - In draft mode, the applicant not yet submitted. Submission is editable by the application at this stage. 
+2. `processing` - Processing by admin. Admin can post messages to the applicant for amendment. Submission is editable by the application at this stage. After amended, applicants can resubmit and have their status reset back to stage 2. 
+3. `approved`  
    1. Application approved by admin.
-   2. Auto create participation form \(F7\) to take in solution provider submission for this challenge.
-   3. Challenge is accessible in frontend.
-5. `completed`- To mark this challenge as completed. Participation form is disabled.
-6. `reject`- To mark this challenge as permanently rejected by Admin. 
+   2. Auto-create participation form \(F7\) to take in solution provider submission for this challenge.
+   3. The project is accessible in the frontend \(SIX website\).
+4. `reject`- To mark this challenge as permanently rejected by Admin. 
 
 ### Workflow for Solution Provider
 
@@ -43,11 +41,9 @@ An application can be edited under `draft` mode. Once submit in `submitted` stat
 
 You can manage all submission of a particular challenge by viewing the challenge.
 
-![View Challenge](../../.gitbook/assets/screenshot-2021-03-02-at-12.40.40-am.png)
+#### &lt;&lt;&lt;need to put screencapture view&gt;&gt;&gt;
 
 Click link under `Applicaiton` form and you will be brought to the F7 form page in backend.
-
-![View F7 Form](../../.gitbook/assets/screenshot-2021-03-02-at-12.42.28-am.png)
 
 All submissions \(`draft` and `submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
 
