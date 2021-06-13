@@ -16,15 +16,15 @@ MaGIC's Social innovation Exchange used `SIX` module as backend and its manageme
 
 ### Workflow for Challenge \(Problem Statement\)
 
-As an admin, you can perform the following workflow action onto a challenge submission by problem statement owner.
+As an admin, you can perform the following workflow action onto a project submission by problem statement owner.
 
 1. `new` - In draft mode, the applicant not yet submitted. Submission is editable by the application at this stage. 
 2. `processing` - Processing by admin. Admin can post messages to the applicant for amendment. Submission is editable by the application at this stage. After amended, applicants can resubmit and have their status reset back to stage 2. 
 3. `approved`  
    1. Application approved by admin.
-   2. Auto-create participation form \(F7\) to take in solution provider submission for this challenge.
+   2. Auto-create participation form \(F7\) to take in solution provider submission for this project.
    3. The project is accessible in the frontend \(SIX website\).
-4. `reject`- To mark this challenge as permanently rejected by Admin. 
+4. `reject`- To mark this project as permanently rejected by Admin. 
 
 ### Workflow for Solution Provider
 
@@ -35,7 +35,7 @@ The entire workflow is handled by F7 Stage:
 3. `approved` - Proposed solution is approved by problem statement owner
 4. `rejected` - Rejected by problem statement owner
 
-An application can be edited under `draft` mode. Once submit in `submitted` status, application is not editable. However, before closing date, applicant can revert a submitted application back to `draft` for re-editing. 
+An application can be edited under `draft` mode. Once submit in `submitted` status, application is not editable. However, before the closing date, an applicant can revert a submitted application back to`draft`for re-editing. 
 
 ### F7 Form Solution Provider Submission
 

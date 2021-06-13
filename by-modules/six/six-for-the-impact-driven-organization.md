@@ -31,9 +31,9 @@ You need a Central user account to proceed. After login, you may post it either 
 * Select an existing organization of yours from the left
 * Or, insert a name for your new organization
 * You may proceed to create the organization profile if new
-* If the organization profile exist, you may request for the permission from its owner to join.
+* If the organization profile exists, you may request permission from its owner to join.
 
-Upon completion, proceed to select the desired organization and process to next page 
+Upon completion, proceed to select the desired organization and process to the next page 
 
 ![member control panel for SIX](../../.gitbook/assets/screenshot-2021-06-10-at-11.12.24-am.png)
 
@@ -42,7 +42,7 @@ Upon completion, proceed to select the desired organization and process to next 
 #### Select existing or create new Organisation
 
 {% hint style="info" %}
-You will need an organisation profile to host a challenge. Create new or join existing one to proceed.
+You will need an organization profile to host a challenge. Create a new or join an existing one to proceed.
 {% endhint %}
 
 ![Select \`My Organizations\` in Member Control Panel](../../.gitbook/assets/screenshot-2021-06-10-at-11.20.01-am.png)
