@@ -98,6 +98,8 @@
   * [Six for Corporate](by-modules/six/six-for-corporate.md)
   * [SIX for Program owner](by-modules/six/six-for-program-owner.md)
   * [UAT](by-modules/six/uat.md)
+* [Futurelab](by-modules/futurelab/README.md)
+  * [UAT](by-modules/futurelab/uat.md)
 
 ## Other Topics <a id="other-topic"></a>
 
