@@ -39,11 +39,17 @@ An application can be edited under `draft` mode. Once submit in `submitted` stat
 
 ### F7 Form Solution Provider Submission
 
-You can manage all submission of a particular challenge by viewing the challenge.
-
-#### &lt;&lt;&lt;need to put screencapture view&gt;&gt;&gt;
+You can manage all submission of a particular challenge by viewing the challenge. 
 
 Click link under `Applicaiton` form and you will be brought to the F7 form page in backend.
 
-All submissions \(`draft` and `submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
+![The project detail page with the list of corporated who fill the form list](../../.gitbook/assets/screenshot-2021-07-05-at-9.51.48-pm.png)
+
+
+
+All submissions \(`submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
+
+In each submission detail, would be the form copy and details of the form submission.
+
+![The details of the form by corporate](../../.gitbook/assets/screenshot-2021-07-05-at-9.52.15-pm.png)
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Corporate is organisation like team, startup and social enterprise who can
+  provide assistance to a project (in term of financial or non-financial).
+---
+
 # Six for Corporate
 
 ### Browse Projects
@@ -15,6 +21,8 @@ A form will show up directing from the 'Contribute to SIX' button
 ![](../../.gitbook/assets/screenshot-2021-07-05-at-9.44.20-pm.png)
 
 Fill up and click the 'submit' button.
+
+![The pop-up indicates, the form has been submitted and went through](../../.gitbook/assets/screenshot-2021-07-05-at-9.49.25-pm.png)
 
 ### After Submit
 
