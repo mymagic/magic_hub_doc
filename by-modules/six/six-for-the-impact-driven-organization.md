@@ -63,19 +63,24 @@ Click `Add` button and you will directed to a form
 
 Click `Add` button and you will have to fill up a form to post:
 
-![Add new project form](../../.gitbook/assets/screenshot-2021-06-10-at-11.46.39-am.png)
+![Create new project form](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.49-am.png)
 
-![Upon completion, click the &apos;create&apos; button](../../.gitbook/assets/screenshot-2021-06-10-at-11.46.50-am.png)
+Once the information is entered, click on the initiate button to next page.
 
-* Each posted challenge has an open and close date. Recommended timeframe between these two dates is not more than 6 months.
-* Although optional, do provide a cover and a header image to make your challenge stand out from the rest. Plain color background use by default.
-* Create `Create` button to save it as draft.
+![Update information page](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.16-am.png)
+
+![lowe part of update information page](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.26-am%20%281%29.png)
+
+* Each project has an open and close date. Recommended timeframe between these two dates is not more than 6 months.
+* Provide a cover and a header image to make your project stand out from the rest. Plain color background use by default.
 
 ### Submit a Project
 
-![](../../.gitbook/assets/screenshot-2021-06-10-at-2.27.03-pm.png)
+![](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.26-am.png)
 
-After the project has created from the previous page, fill in all the details on the bottom such as the image and assistance required
+
+
+Click on `Save draft & preview` button to save it as draft and preview the project page. This button will only appear on first submittion.
 
 Click `Submit` button and your application will be sent for approval by admin. An notification email will be sent to your user account.
 
@@ -83,7 +88,7 @@ Click `Submit` button and your application will be sent for approval by admin. A
 
 Once submitted, you can preview your Project at Member Control Panel while waiting for admin approval for listing.
 
-![The project while be badged as submitted while waiting to be approved](../../.gitbook/assets/screenshot-2021-06-10-at-2.32.37-pm.png)
+![preview the application as on how it will be displayed on website](../../.gitbook/assets/screenshot-2021-07-06-at-9.42.44-am.png)
 
 ![Catalog&apos;s section](../../.gitbook/assets/screenshot-2021-06-10-at-2.33.35-pm.png)
 
