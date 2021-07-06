@@ -1,4 +1,4 @@
-# SIX for The Impact Driven Organization
+# SIX for The Impact Driven Organisation
 
 ### Steps to get listed
 
