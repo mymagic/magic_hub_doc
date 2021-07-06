@@ -30,8 +30,8 @@ As an admin, you can perform the following workflow action onto a project submis
 
 The entire workflow is handled by F7 Stage:
 
-1. `Submitted` - Submitted new application
-2. `approved` - Proposed solution is approved by program owner
+1. `Submitted` - Submitted new application\(project\)
+2. `approved` - Proposed project is approved by program owner
 3. `rejected` - Rejected by program owner
 
 An application can be edited upon approval on `approved`  status which need to be resubmitted and re-approve by program owner. Once submit in `submitted` status, application is not editable.
