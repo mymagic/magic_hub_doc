@@ -30,12 +30,11 @@ As an admin, you can perform the following workflow action onto a project submis
 
 The entire workflow is handled by F7 Stage:
 
-1. `application` - Submitted new application
-2. `pending` - Pending for problem statement owner
-3. `approved` - Proposed solution is approved by problem statement owner
-4. `rejected` - Rejected by problem statement owner
+1. `Submitted` - Submitted new application
+2. `approved` - Proposed solution is approved by program owner
+3. `rejected` - Rejected by program owner
 
-An application can be edited under `draft` mode. Once submit in `submitted` status, application is not editable. However, before the closing date, an applicant can revert a submitted application back to`draft`for re-editing. 
+An application can be edited upon approval on `approved`  status which need to be resubmitted and re-approve by program owner. Once submit in `submitted` status, application is not editable.
 
 ### F7 Form Solution Provider Submission
 
