@@ -46,7 +46,7 @@ Click link under `Applicaiton` form and you will be brought to the F7 form page 
 
 
 
-All submissions \(`submitted`\) can be found here. Click into each of them, to view and to update its workflow stage.
+All submissions \( `submitted`  \) can be found here. Click into each of them, to view and to update its workflow stage.
 
 In each submission detail, would be the form copy and details of the form submission.
 
