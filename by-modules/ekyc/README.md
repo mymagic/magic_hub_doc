@@ -23,7 +23,7 @@ This is the default interface for users who like to verify their identity. The s
 3. Scan your identification card or passport. Hold still for a few seconds until it's captured.
 4. Upon successful verification, this page will show a success message. If unsuccessful, this page will be redirected to the manual verification page.
 
-![](../../.gitbook/assets/capture2.png)
+![](../../.gitbook/assets/whatsapp-image-2021-07-21-at-2.52.01-pm.jpeg)
 
 The approval process for auto verification is instant, however, please note:
 
