@@ -17,7 +17,7 @@ Company type consist of Company Limited by Guarantee \(CLBG\), Private Limited C
 Business type consist of Sole Proprietorship and Partnership
 {% endhint %}
 
-We will received raw data \(JSON format\) & readable document \(PDF format\) as the result for each successful request.
+Once we have requested the profile, we will received raw data \(JSON format\) & readable document \(PDF format\) as the result for each successful request.
 
 {% hint style="info" %}
 Request for particular company/business profile will check the setting that we have set \(e.g: 7 days\). If it is within the range, it will find the latest successful request profile in our database. Otherwise the request will go through the SSM API to get fresh data and update our database.
