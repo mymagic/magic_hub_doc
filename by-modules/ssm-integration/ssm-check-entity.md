@@ -18,7 +18,7 @@ Once you have land to the page you should see the `Check Entity` menu on the rig
 
 ![Manage Entity page](../../.gitbook/assets/screenshot-2021-09-01-at-5.04.37-pm.png)
 
-Alternatively, you could find the `SSM` tab, when you view details for particular `Organization` 
+Alternatively, you could find the `SSM` tab, when you view details for particular `Organization` at the bottom of the page
 
 ![](../../.gitbook/assets/screenshot-2021-09-01-at-5.08.56-pm.png)
 
