@@ -1,5 +1,5 @@
 ---
-description: Page where user can request/purchase the data for the organization.
+description: Page where user can request/purchase the data for the company/business.
 ---
 
 # Check Entity
