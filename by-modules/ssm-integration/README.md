@@ -35,5 +35,5 @@ To view the entity, just click on the icon ![](../../.gitbook/assets/screenshot-
 
 ![Entity details](../../.gitbook/assets/screenshot-2021-09-01-at-2.50.24-pm.png)
 
-To check or request new data from SSM, simply click on the `Check Entity` menu. You will be redirected to that page.
+To check or request new data from SSM, please refer to this [page](ssm-check-entity.md)
 
