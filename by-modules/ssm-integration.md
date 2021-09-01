@@ -1,5 +1,7 @@
 ---
-description: Open Source Module for the Integration with SSM for Company & Business type
+description: >-
+  Open Source Module for the Integration with SSM for Company & Business type
+  (excluding the Limited Liability Partnership)
 ---
 
 # SSM Integration
