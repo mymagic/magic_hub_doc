@@ -4,7 +4,18 @@ description: Open Source Module for the Integration with SSM for Company & Busin
 
 # SSM Integration
 
-SSM Integration is a module that allows Central to request the Company or Business profile direct from the SSM database through their appointed Service Provider. For now, this integration only cater for Company \(Company Limited by Guarantee, Private Limited Company, Public Limited Company, Foreign Company\) and Business \(Sole Proprietorship, Partnership\)
+SSM Integration is a module that allows Central to request the Company or Business profile direct from the SSM database through their appointed Service Provider. For now, this integration only cater for:
+
+* Company
+* Business
+
+{% hint style="info" %}
+Company type consist of Company Limited by Guarantee \(CLBG\), Private Limited Company \(Sdn Bhd\), Public Limited Company \(Berhad\), and Foreign Company
+{% endhint %}
+
+{% hint style="info" %}
+Business type consist of Sole Proprietorship and Partnership
+{% endhint %}
 
 We will received raw data \(JSON format\) & readable document \(PDF format\) as the result for each successful request.
 
