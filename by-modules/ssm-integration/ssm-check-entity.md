@@ -4,11 +4,11 @@ description: Page where user can request/purchase the data for the organization.
 
 # Check Entity
 
+## How to get here
+
 {% hint style="info" %}
 Not all user will allow to do this action
 {% endhint %}
-
-## How to get here
 
 You can access this page by navigate the main menu to `Services` &gt; `SSM Integration` &gt; `Manage Entity` . 
 
