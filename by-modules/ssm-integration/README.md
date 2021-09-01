@@ -1,5 +1,5 @@
 ---
-description: Open Source Module for the Integration with SSM for type Company & Business
+description: Open Source Module for the Integration with SSM for Company & Business type
 ---
 
 # SSM Integration
