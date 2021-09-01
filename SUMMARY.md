@@ -100,8 +100,7 @@
   * [UAT](by-modules/six/uat.md)
 * [Futurelab](by-modules/futurelab/README.md)
   * [UAT](by-modules/futurelab/uat.md)
-* [SSM Integration](by-modules/ssm-integration/README.md)
-  * [Entity](by-modules/ssm-integration/ssm-entity.md)
+* [SSM Integration](by-modules/ssm-integration.md)
 
 ## Other Topics <a id="other-topic"></a>
 
