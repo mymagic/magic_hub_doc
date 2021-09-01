@@ -35,11 +35,5 @@ To view the entity, just click on the icon ![](../../.gitbook/assets/screenshot-
 
 ![Entity details](../../.gitbook/assets/screenshot-2021-09-01-at-2.50.24-pm.png)
 
-## Check Entity
-
-To check or request new data from SSM, simply click on the `Check Entity` menu. You will be redirected to this page.
-
-![Check Entity screen](../../.gitbook/assets/screenshot-2021-09-01-at-3.36.25-pm.png)
-
-What you need is just a company/business registration number to be put in `Entity Number` field. The `Title` is an optional field. If the request is success, it will automatically update the `Title` based on the result received.
+To check or request new data from SSM, simply click on the `Check Entity` menu. You will be redirected to that page.
 
