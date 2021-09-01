@@ -6,7 +6,7 @@ description: >-
 
 # SSM Integration
 
-SSM Integration is a module that allows Central to request the Company or Business profile direct from the SSM database through their appointed Service Provider. For now, this integration only cater for:
+SSM Integration is a module that allows Central to purchase the Company or Business profile direct from the SSM database through their appointed Service Provider. For now, this integration only cater for:
 
 * Company
 * Business
