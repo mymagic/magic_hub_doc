@@ -31,6 +31,6 @@ What you need is just a company/business registration number to be put in `Entit
 Basically this function will purchase the company/business profile through the API. Each success request will cost us about RM15.30 \(including service tax\).
 
 {% hint style="warning" %}
-If you caught for misuse this service, you will be facing some punishment.
+If you caught for misuse this service, you will be remove from access this action
 {% endhint %}
 
