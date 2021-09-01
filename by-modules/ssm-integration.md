@@ -18,7 +18,15 @@ There will be a list of entities \(organizations\) that have been used to check 
 
 ![List of Entity](../.gitbook/assets/screenshot-2021-09-01-at-2.28.17-pm.png)
 
-To view the entity, just click on the icon ![](../.gitbook/assets/screenshot-2021-09-01-at-2.53.33-pm.png). To know when the last date for that particular entity was requested, you can check the `Modified Date` . To download the certificate, just click on the file uploaded in `Registration File` field.
+To view the entity, just click on the icon ![](../.gitbook/assets/screenshot-2021-09-01-at-2.53.33-pm.png). To know when the last date for that particular entity was requested, you can check the `Modified Date` . To download the certificate, just click on the link uploaded file in `Registration File` field.
 
 ![Entity details](../.gitbook/assets/screenshot-2021-09-01-at-2.50.24-pm.png)
+
+## Check Entity
+
+To check or request new data from SSM, simply click on the `Check Entity` menu. You will be redirected to this page.
+
+![Check Entity screen](../.gitbook/assets/screenshot-2021-09-01-at-3.36.25-pm.png)
+
+What you need is just a company/business registration number to be put in `Entity Number` field. The `Title` is an optional field. If the request is success, it will automatically update the `Title` based on the result received.
 
