@@ -88,11 +88,11 @@ Click `Submit` button and your application will be sent for approval by admin. A
 
 Once submitted, you can preview your Project at Member Control Panel while waiting for admin approval for listing.
 
-![preview the application as on how it will be displayed on website](../../.gitbook/assets/screenshot-2021-07-06-at-9.42.44-am.png)
+![preview the application as on how it will be displayed on website](../../.gitbook/assets/screenshot-2021-09-20-at-2.56.42-pm.png)
 
-![Catalog&apos;s section](../../.gitbook/assets/screenshot-2021-06-10-at-2.33.35-pm.png)
+![Catalog&apos;s section](../../.gitbook/assets/screenshot-2021-09-20-at-2.58.24-pm.png)
 
-![Other&apos;s section](../../.gitbook/assets/screenshot-2021-06-10-at-2.33.50-pm.png)
+![Other&apos;s section](../../.gitbook/assets/screenshot-2021-09-20-at-2.58.16-pm.png)
 
 ### Getting Approval & Featured
 
@@ -100,11 +100,15 @@ It's solely MaGIC Program Owner or Admin decision to approve, process or reject 
 
 ### Receiving application from Solution Provider
 
-{% hint style="info" %}
-Function will be confirmed
-{% endhint %}
+![Enquiries Submission](../../.gitbook/assets/screenshot-2021-09-20-at-3.00.34-pm.png)
 
-IDO will receive a filled application form by the corporate filled at SIX project website. 
+IDO will receive a filled application form by the corporate filled at SIX project website on the CPanel \(enquiries submission tab\). 
+
+They can click the `View Icon` in green to view more details of the form. 
+
+![View submission page](../../.gitbook/assets/screenshot-2021-09-20-at-3.02.11-pm.png)
+
+They can view the copy of the form filled by the corporate with all the details.
 
 
 
