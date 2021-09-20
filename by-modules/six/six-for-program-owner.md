@@ -10,7 +10,7 @@ description: >-
 
 MaGIC's Social innovation Exchange used `SIX` module as backend and its management interface can be accessible thru:
 
-`Backend` -&gt; `Service` -&gt; `SIX` -&gt; `Manage`
+`Backend` -&gt; `Service` -&gt; `Social Impact Exchange` -&gt; `Manage Project`
 
 ![Manage SIX](../../.gitbook/assets/screenshot-2021-06-10-at-2.43.42-pm.png)
 
