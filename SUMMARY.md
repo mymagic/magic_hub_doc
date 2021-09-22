@@ -28,6 +28,7 @@
   * [Running a mentorship program](for-program-owner/end-to-end-automation/running-a-mentorship-program.md)
   * [Train the trainer](for-program-owner/end-to-end-automation/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
+* [Central App for Google](for-program-owner/central-app-for-google.md)
 
 ## For Ecosystem Developers
 
