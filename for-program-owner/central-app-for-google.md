@@ -1,4 +1,4 @@
-# Central App for Google
+# Central App \(Google Add-on\)
 
 Central App is an Google add-on developed by the MaGIC Tech team for the use of MaGICian, allow alumni search in Gmail and attach startup info into email content when drafting.
 
