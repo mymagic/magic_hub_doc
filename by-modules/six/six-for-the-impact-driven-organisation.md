@@ -69,6 +69,11 @@ Once the information is entered, click on the initiate button to next page.
 
 ![Update information page](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.16-am.png)
 
+* All project information should be entered here.
+* Supporting documents such as impact report can be included in the 'Additional Details'  tab. Documents can be share by pasting the links such as google drive link to be reviewed by admin.
+
+
+
 ![lowe part of update information page](../../.gitbook/assets/screenshot-2021-07-06-at-9.32.26-am%20%281%29.png)
 
 * Each project has an open and close date. Recommended timeframe between these two dates is not more than 6 months.
