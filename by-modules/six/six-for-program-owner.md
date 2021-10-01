@@ -31,10 +31,12 @@ As an admin, you can perform the following workflow action onto a project submis
 The entire workflow is handled by F7 Stage:
 
 1. `Submitted` - Submitted new application\(project\)
-2. `approved` - Proposed project is approved by program owner
-3. `rejected` - Rejected by program owner
 
-An application can be edited upon approval on `approved`  status which need to be resubmitted and re-approve by program owner. Once submit in `submitted` status, application is not editable.
+The application can only be sent out once, Only one application to each project is allowed.
+
+The copy of the form will be received by the project owner in their CPanel page.
+
+The application form will only be available during the duration of date open \(start date of the project\) until default duration of 2 years. 
 
 ### F7 Form Solution Provider Submission
 
