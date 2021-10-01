@@ -8,25 +8,25 @@ description: >-
 
 ### Browse Projects
 
-![SIX directory on frontent](../../.gitbook/assets/screenshot-2021-07-05-at-9.39.38-pm.png)
+![SIX Project Directory](../../.gitbook/assets/screenshot-2021-10-01-at-3.58.42-pm.png)
 
-Featured projects are listed on the on the `Project` page
+Featured projects are listed on the on the `Project` page, Projects listed on this page will be available to view by public and interested corporate who are interested to contribute to the project of their choice. Projects are available to be browse and the details can be view by choosing the project title. 
 
 ### Contribute to Project
 
 ![On the particular project page, click the &apos;Contribute to SIX&apos; button](../../.gitbook/assets/screenshot-2021-07-05-at-9.37.13-pm.png)
 
-A form will show up directing from the 'Contribute to SIX' button
+A form will show up directing from the 'Contribute to SIX' button,  Interested corporate can fille up the form to get know or contact with the project owner
 
 ![](../../.gitbook/assets/screenshot-2021-07-05-at-9.44.20-pm.png)
 
-Fill up and click the 'submit' button.
+Once the form is opened, fill up and click the 'submit' button. 
 
-![The pop-up indicates, the form has been submitted and went through](../../.gitbook/assets/screenshot-2021-07-05-at-9.49.25-pm.png)
+![Confirmation message](../../.gitbook/assets/screenshot-2021-07-05-at-9.49.25-pm.png)
 
-### After Submit
+The pop-up indicates, the form has been submitted and went through, the project owner will be notify and they will contact you directly.
 
-The application status is now `Submitted`
+The corporate can continue browsing for other projects if interested and wait for their reply through email or given contact contact information
 
-Applicant's submission will be managed by program owner or admin.
+### 
 
