@@ -42,6 +42,6 @@ Member termination can come from User himself or Admin. Once confirmed, it will:
 2. Call `/api/terminateAccount`to instruct MaGIC Account to delete
 3. Create a request record with code `removeUserAccount` with `pending` status
 4. Create a request record to generate user data download
-5. Notify the user his account is terminated
-6. Unsubscribe user from mailchimp
+5. Unsubscribe user from mailchimp
+6. Notify the user his account has been successfully terminated
 
