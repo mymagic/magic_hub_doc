@@ -36,7 +36,7 @@ Admin can soft delete a member from the backend. This is the same to clicking `B
 Unlike \`delete a member\`, this action is not reversible
 {% endhint %}
 
-Member termination can come from User himself or Admin. Once confirmed, it will:
+Member termination can come from user himself \(operate thru Control Panel\) or Admin. Once confirmed, it will:
 
 1. Soft delete the member user account on Central
 2. Call `/api/terminateAccount`to instruct MaGIC Account to delete
