@@ -21,5 +21,13 @@ Make sure you log in to the correct one.
 
 ### Admin Access Control Limit
 
+There are few type of admin roles in the system. These roles can be created dynamically and map to a specific access from backend. 
+
+| Role | Description |
+| :--- | :--- |
+| Super Admin | Has access to everything in the backend |
+| Admin | Limited access in the backend |
+| Sensitive Data Admin | Able to access sensitive data like individual IC, Address, etc. |
+
 
 

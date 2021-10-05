@@ -4,10 +4,6 @@
 
 ### Profile in Settings
 
-{% hint style="info" %}
-
-{% endhint %}
-
 ![Update Profile](../.gitbook/assets/screenshot-2021-07-29-at-2.32.24-pm%20%281%29.png)
 
 {% hint style="info" %}
