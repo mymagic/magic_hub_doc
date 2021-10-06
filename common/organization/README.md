@@ -9,7 +9,7 @@ description: >-
 
 ### Manage Organizations
 
-
+Administrator can view both active and deactivated organizations here. Click into each individual record to view the details.
 
 ### Search & View Organization
 
@@ -21,9 +21,13 @@ Organization title is unique throughout the system, which means once taken, it i
 
 ### Update Organization
 
+{% hint style="info" %}
+Some of the detail can be updated by owner of the organization from frontend or member control panel.
+{% endhint %}
+
 ### Delete Organization
 
-### Merge Duplicated Organization
+### Merge Duplicate Organization
 
 ### Profile Completeness Score
 
