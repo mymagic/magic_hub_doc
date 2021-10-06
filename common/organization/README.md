@@ -1,10 +1,23 @@
+---
+description: >-
+  Organizations are company or team likes startups, social enterprise,
+  corporate, government agency, or even a temporary team out of weekend
+  hackathon.
+---
+
 # Organization
 
 ### Manage Organizations
 
+
+
 ### Search & View Organization
 
 ### Create Organization
+
+{% hint style="info" %}
+Organization title is unique throughout the system, which means once taken, it is no longer available for others.
+{% endhint %}
 
 ### Update Organization
 
