@@ -6,13 +6,15 @@ description: Accelerator Tracking & Application System. MaGIC owned module.
 
 ### The stage of ATAS Application
 
-![The different between each stage](../.gitbook/assets/01%20%281%29.jpg)
+![The different between each stage](<../.gitbook/assets/01 (1).jpg>)
 
 ### Apply your Application
 
 First, need to select your company and can be accessed through the direct link below:
 
-{% page-ref page="atas.md" %}
+{% content-ref url="atas.md" %}
+[atas.md](atas.md)
+{% endcontent-ref %}
 
 #### Perform Apply for your application
 
@@ -24,9 +26,9 @@ Fill up all the information in GAP Application Form, save draft and submit.
 
 ![GAP Application Form](../.gitbook/assets/02.jpg)
 
-Once shortlisted user’s application status is change to Accepted, is automatically in pre-arrival stage. A ****"Create" Button will generate and user can process to PreArrival.
+Once shortlisted user’s application status is change to Accepted, is automatically in pre-arrival stage. A** **"Create" Button will generate and user can process to PreArrival.
 
-![&quot;Create&quot; button for PreArrial](../.gitbook/assets/03.jpg)
+!["Create" button for PreArrial](../.gitbook/assets/03.jpg)
 
 Fill up all the information in GAP PreArrival Form, save draft and submit.
 
@@ -58,7 +60,7 @@ User can Edit and View Milestone in milestone page. User can edit Preset Code, T
 
 ![](../.gitbook/assets/07.jpg)
 
-### 
+###
 
 ### How to Create and Manage Claims for your Application
 
@@ -78,7 +80,6 @@ Fill up information of Client, save draft and submit.
 
 #### How to check the status of claim
 
-User Can check and view the status of Claim \(Approved or Rejected\) in the claim page.
+User Can check and view the status of Claim (Approved or Rejected) in the claim page.
 
 ![](../.gitbook/assets/10.jpg)
-

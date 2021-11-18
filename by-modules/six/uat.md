@@ -4,17 +4,18 @@
 
 ### Definition
 
-| Term | Definition |
-| :--- | :--- |
-| SIX | Social Impact Exchange |
-| IDO | Impact Driven Organisation |
+| Term | Definition                 |
+| ---- | -------------------------- |
+| SIX  | Social Impact Exchange     |
+| IDO  | Impact Driven Organisation |
 
 ### For User
 
 #### Project Page
 
 * [ ] Manage button will direct me to create organization page in the case that I have yet to create my organization and have it approved.
-* [ ] Manage button will direct me to a page where I can select any of my existing organization or create a new one in the case that I have created an organization under Central 
+* [ ] Manage button will direct me to a page where I can select any of my existing organization or create a new one in the case that I have created an organization under Central\
+
 
 #### Organization selection page
 
@@ -33,4 +34,3 @@
 
 
 * [ ] **Admin**
-

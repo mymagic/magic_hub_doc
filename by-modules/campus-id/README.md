@@ -14,13 +14,13 @@ Everyone with a MaGIC CENTRAL account can sign up to Campus ID for FREE. Campus 
 
 ### XP vs RP points
 
-#### Experience Points \(XP\)
+#### Experience Points (XP)
 
-Experience Points \(XP\) is earned as you join & complete certain programs from MaGIC. Your XP will grow as you go through the startup journey with MaGIC. Higher amounts of XP will allow access to more relevant things based on your experience. XP will also be used as an assessment & qualification checks.
+Experience Points (XP) is earned as you join & complete certain programs from MaGIC. Your XP will grow as you go through the startup journey with MaGIC. Higher amounts of XP will allow access to more relevant things based on your experience. XP will also be used as an assessment & qualification checks.
 
-#### Redeemable Points \(RP\)
+#### Redeemable Points (RP)
 
-Redeemable Points \(RP\) is earned as you join & complete certain programs from MaGIC. RP also can be earned by completing tasks offered on Perks portal. Your accumulated RP can be used to redeem perks that is offered by our perks providers. Perks can help you grow your ideas & startups.
+Redeemable Points (RP) is earned as you join & complete certain programs from MaGIC. RP also can be earned by completing tasks offered on Perks portal. Your accumulated RP can be used to redeem perks that is offered by our perks providers. Perks can help you grow your ideas & startups.
 
 ### Individual vs Organization Membership
 
@@ -30,17 +30,17 @@ An individual membership belongs to a single person. XP & RP accumulated is only
 
 #### Organization Membership
 
-An organization membership consists of one or more individual membership. XP & RP accumulated will be assigned to the organization. To get an organization membership, you will need a SSM \(Suruhanjaya Syarikat Malaysia\) Registration Number. 
+An organization membership consists of one or more individual membership. XP & RP accumulated will be assigned to the organization. To get an organization membership, you will need a SSM (Suruhanjaya Syarikat Malaysia) Registration Number.&#x20;
 
 ### Activate your Campus ID
 
-#### Perform Individual EKYC using mobile phone and MyKad \(auto process\)
+#### Perform Individual EKYC using mobile phone and MyKad (auto process)
 
-* Login into your central account \([or signup](../../for-frontend-users/magic-account.md)\) and head to your [Cpanel](https://central.mymagic.my/cpanel/) & click the "Campus ID" link on the navigation menu.
+* Login into your central account ([or signup](../../for-frontend-users/magic-account.md)) and head to your [Cpanel](https://central.mymagic.my/cpanel/) & click the "Campus ID" link on the navigation menu.
 
-![Cpanel page.](../../.gitbook/assets/img_7979.jpg)
+![Cpanel page.](../../.gitbook/assets/img\_7979.jpg)
 
-* You will automatically be redirected to the "Auto Identify Verification" page. 
+* You will automatically be redirected to the "Auto Identify Verification" page.&#x20;
 * Scan your ID with your smartphone camera by tapping on the camera icon or upload a photo of your ID from your smartphone's gallery.
 
 ![Auto eKYC page](../../.gitbook/assets/capture2.png)
@@ -59,22 +59,21 @@ An organization membership consists of one or more individual membership. XP & R
 
 ![](../../.gitbook/assets/screenshot-2021-04-21-at-10.49.55-pm.png)
 
-1. Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/) 
+1.  Once your eKYC has been approved either automatically or manually, navigate to your [Cpanel](https://central.mymagic.my/cpanel/)&#x20;
 
-    & click on the `Campus ID` link.
-
+    &#x20;& click on the `Campus ID` link.
 2. Read through the term & conditions and click on the `I Agree` button to proceed with the Campus ID activation.
 
 #### Obtain your Campus ID
 
 * After agreeing to the term & conditions, you will obtain your Campus ID membership code e.g. ‘P12345’.
 
-![](../../.gitbook/assets/img_7981.jpg)
+![](../../.gitbook/assets/img\_7981.jpg)
 
 #### For user with multiple CENTRAL Accounts
 
 * Your Campus ID membership is tied to your IC/passport number. If you register multiple Campus ID membership, all of the accounts will be linked together under the same IC/passport number.
-* To add a CENTRAL account to your Campus ID, simply login into the account & complete the eKYC process using the same IC/passport document. 
+* To add a CENTRAL account to your Campus ID, simply login into the account & complete the eKYC process using the same IC/passport document.&#x20;
 
 ### How to get Campus ID for your startup
 
@@ -86,38 +85,38 @@ This feature is currently under development. Please come back later.
 
 * Follow [this ](./#activate-your-campus-id)guide to acquire an individual Campus ID.
 
-#### Perform Organization EKYC \(manual process\)
+#### Perform Organization EKYC (manual process)
 
-![](../../.gitbook/assets/cpanel_ekyc_company.png)
+![](../../.gitbook/assets/cpanel\_ekyc\_company.png)
 
 1. Login & Navigate to your cPanel and click on the `Campus ID` link in the navigation bar.
-2. Click on the `SWITCH` dropdown button.
+2. Click on the `SWITCH `dropdown button.
 3. Click on `Enroll my company`to start the organization eKYC process.
 
-![](../../.gitbook/assets/ekyc_company_name%20%281%29.png)
+![](<../../.gitbook/assets/ekyc\_company\_name (1).png>)
 
 1. Enter you organization name in the field.
-2. Click on the `Create` button to start creating your organization.
+2. Click on the `Create `button to start creating your organization.
 3. If you have previously registered a company, those companies will be listed in the existing li.
 
 {% hint style="info" %}
-Keep in mind that your organization name should be unique. 
+Keep in mind that your organization name should be unique.&#x20;
 {% endhint %}
 
-![](../../.gitbook/assets/ekyc_company_name2.png)
+![](../../.gitbook/assets/ekyc\_company\_name2.png)
 
 1. You can now click on you company to complete the eKYC process.
 
-![](../../.gitbook/assets/ekyc_company_details.png)
+![](../../.gitbook/assets/ekyc\_company\_details.png)
 
-1. Enter all the required fields **accurately**. 
-2. Once all the required details are entered, click the `Submit` button.
+1. Enter all the required fields **accurately**.&#x20;
+2. Once all the required details are entered, click the `Submit `button.
 
 {% hint style="info" %}
-Make sure to re-check your organization details before clicking the `Submit` button
+Make sure to re-check your organization details before clicking the `Submit `button
 {% endhint %}
 
-![](../../.gitbook/assets/ekyc_company_success2.png)
+![](../../.gitbook/assets/ekyc\_company\_success2.png)
 
 1. You will now see a success message. Your organization details will be verified manually by our admin in 3 working days.
 
@@ -127,21 +126,21 @@ visit [EKYC for Organization](../ekyc/#ekyc-for-organisation) for auto eKYC for 
 
 #### Obtain organization Campus ID
 
-![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%282%29.png)
+![](<../../.gitbook/assets/cpanel\_ekyc\_company\_enroll (2).png>)
 
-![](../../.gitbook/assets/cpanel_ekyc_company_enroll%20%281%29.png)
+![](<../../.gitbook/assets/cpanel\_ekyc\_company\_enroll (1).png>)
 
 1. Once you company eKYC has been approved, login & click the the `Campus ID` link in the navigation bar.
 2. Click on the `SWITCH` button to toggle the dropdown menu.
 3. Click on the `ENROLL NOW` link with the name of the registered company.
 
-![](../../.gitbook/assets/ekyc_company_terms.png)
+![](../../.gitbook/assets/ekyc\_company\_terms.png)
 
 1. Read through the Terms & Conditions carefully and click on the `I Agree` button to get you organization Campus ID
 
-![](../../.gitbook/assets/ekyc_company_id.png)
+![](../../.gitbook/assets/ekyc\_company\_id.png)
 
-* You will now receive a message containing your organization's Campus ID. 
+* You will now receive a message containing your organization's Campus ID.&#x20;
 
 
 
@@ -149,20 +148,20 @@ visit [EKYC for Organization](../ekyc/#ekyc-for-organisation) for auto eKYC for 
 
 After obtaining your Campus Member ID, you can manage it under Member Control Panel. Login into your Central account and navigate to Campus ID page.
 
-Click on the `Switch` button if you have multiple Campus ID accounts tied to your Central account \(e.g. one for yourself and one for your startup\).
+Click on the `Switch` button if you have multiple Campus ID accounts tied to your Central account (e.g. one for yourself and one for your startup).
 
 ![](../../.gitbook/assets/screenshot-2021-04-21-at-10.06.12-pm.png)
 
 ### Claim points from participated events and programs
 
-In the "Claim points from programs & events" section, you will see all the events that you joined & are eligible for points redemption. 
+In the "Claim points from programs & events" section, you will see all the events that you joined & are eligible for points redemption.&#x20;
 
 {% hint style="info" %}
-Don't worry if you can't find the activity, event, or program you joined in the past here. It's either: 
+Don't worry if you can't find the activity, event, or program you joined in the past here. It's either:&#x20;
 
 1\) our operation team has not allocated points to it yet; Please be patient, we are working on this batch by batch.
 
-2\) or, simply means the program is not covered by Campus ID. Check [here](https://www.mymagic.my/campus) under FAQ for the covered programs list. 
+2\) or, simply means the program is not covered by Campus ID. Check [here](https://www.mymagic.my/campus) under FAQ for the covered programs list.&#x20;
 
 For your information, we are able to associate your past participation using the email address you used to register. If you have multiple Central accounts created using a different email, please  EKYC each of them using the same MyKad identity and enroll all to Campus ID.
 
@@ -177,9 +176,7 @@ Feel free to contact our operation team for support if you believe it is a mista
 4. Your XP & RP balance will automatically refresh
 5. This claim will show as new transaction will show as new transaction in the `Latest Transactions` section.
 
-### 
-
-
+###
 
 
 

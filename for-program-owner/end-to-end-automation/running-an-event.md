@@ -12,7 +12,7 @@ CENTRAL is integrated with **Eventbrite** system and all events are automaticall
 
 ### Guidelines for program owner on using Eventbrite
 
-{% embed url="https://docs.google.com/document/d/1XuFb6sWdilYSh8Yk96hc24\_kJNVR3R0PF9J\_CNjwxkU/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/document/d/1XuFb6sWdilYSh8Yk96hc24_kJNVR3R0PF9J_CNjwxkU/edit?usp=sharing" %}
 
 
 
@@ -24,35 +24,34 @@ MaGIC Tech team is the master account manager. We do not add admin to Eventbrite
 It's various Team Leader's responsibility to train their team members on using Eventbrite system. Team Leaders also must keep the admin list updated, removing old MaGICians and add in new ones.
 {% endhint %}
 
-Here is a list of MaGICians with access to MaGIC Eventbrite account. 
+Here is a list of MaGICians with access to MaGIC Eventbrite account.&#x20;
 
 **Individuals:**
 
-* hanafi@mymagic.my 
-* roslin@mymagic.my 
+* hanafi@mymagic.my&#x20;
+* roslin@mymagic.my&#x20;
 * amirul.izzat@mymagic.my
-* adzim@mymagic.my 
-* afidz@mymagic.my 
-* hasbullah@mymagic.my 
-* zulfadli@mymagic.my 
-* masita@mymagic.my 
-* muqri@mymagic.my 
+* adzim@mymagic.my&#x20;
+* afidz@mymagic.my&#x20;
+* hasbullah@mymagic.my&#x20;
+* zulfadli@mymagic.my&#x20;
+* masita@mymagic.my&#x20;
+* muqri@mymagic.my&#x20;
 * salbiah@mymagic.my
-* rizalman@mymagic.my 
-* izzwan.dzulkifli@mymagic.my 
-* saffa@mymagic.my 
-* ahmad.farhan@mymagic.my 
-* maisarah@mymagic.my 
-* muhammad.adib@mymagic.my 
-* nurul.shaheera@mymagic.my 
-* maisarah.hussein@mymagic.my 
-* amirah.izzah@mymagic.my 
-* nadhira@mymagic.my 
-* m.ammar@mymagic.my 
+* rizalman@mymagic.my&#x20;
+* izzwan.dzulkifli@mymagic.my&#x20;
+* saffa@mymagic.my&#x20;
+* ahmad.farhan@mymagic.my&#x20;
+* maisarah@mymagic.my&#x20;
+* muhammad.adib@mymagic.my&#x20;
+* nurul.shaheera@mymagic.my&#x20;
+* maisarah.hussein@mymagic.my&#x20;
+* amirah.izzah@mymagic.my&#x20;
+* nadhira@mymagic.my&#x20;
+* m.ammar@mymagic.my&#x20;
 * muhammad.khaliq@mymagic.my
 
 **Teams**
 
 * community@mymagic.my
 * finance@mymagic.my
-

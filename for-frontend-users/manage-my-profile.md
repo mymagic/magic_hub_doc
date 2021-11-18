@@ -4,7 +4,7 @@
 
 ### Profile in Settings
 
-![Update Profile](../.gitbook/assets/screenshot-2021-07-29-at-2.32.24-pm%20%281%29.png)
+![Update Profile](<../.gitbook/assets/screenshot-2021-07-29-at-2.32.24-pm (1).png>)
 
 {% hint style="info" %}
 If you already verified your indentity with EKYC, the system will disable updates to your name, gender and country.
@@ -14,9 +14,9 @@ You may update your individual details here, such as:
 
 * Full name
 * Gender
-* Profile Picture \(avatar\)
+* Profile Picture (avatar)
 * Country
-* Persona \(multiple allowed\) - what's your other role?
+* Persona (multiple allowed) - what's your other role?
 
 ### Other Emails
 
@@ -50,11 +50,11 @@ If you had registered mobile number with the system, you can set to receive SMS 
 This page has been temporary disabled by Admin
 {% endhint %}
 
-You may **Terminate your account** from a link found at bottom of this page. Please note this action is irreversible and we will not be able to recover your account after this.
+You may **Terminate your account **from a link found at bottom of this page. Please note this action is irreversible and we will not be able to recover your account after this.
 
 ### Manage Interest
 
-Help us serve you better by updating your interests to get better program and service recommendations. 
+Help us serve you better by updating your interests to get better program and service recommendations.&#x20;
 
 CENTRAL asks for your interests upon your first login to Member Control Panel. Here is where you can update the data if you missed it.
 
@@ -64,9 +64,9 @@ We ask for:
 * SDG
 * Startup Stages
 
-### Two-Factor Authentication \(2FA\)
+### Two-Factor Authentication (2FA)
 
-Two-factor authentication \(2FA\) improves account security by requiring a second piece of information to validate your identity when logging in.
+Two-factor authentication (2FA) improves account security by requiring a second piece of information to validate your identity when logging in.
 
 {% hint style="info" %}
 Highly recommend all admin user to strenghten security for their account by enable two-factor authentication.
@@ -81,6 +81,4 @@ Follow the instruction here and click `Next` to complete the setup. Once 2FA is 
 ![Prompt to verify with 2FA code](../.gitbook/assets/screenshot-2021-07-29-at-2.51.31-pm.png)
 
 You may disable this anytime by clicking `Disable 2FA`.
-
-
 

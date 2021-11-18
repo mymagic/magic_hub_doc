@@ -28,7 +28,7 @@
   * [Running a mentorship program](for-program-owner/end-to-end-automation/running-a-mentorship-program.md)
   * [Train the trainer](for-program-owner/end-to-end-automation/train-the-trainer.md)
 * [MaGIC Dashboard](for-program-owner/open-dashboard.md)
-* [Central App \(Google add-on\)](for-program-owner/central-google-addon.md)
+* [Central App (Google add-on)](for-program-owner/central-google-addon.md)
 
 ## For Ecosystem Developers
 
@@ -73,7 +73,7 @@
 * [Collection](by-modules/collection.md)
 * [Comment](by-modules/comment.md)
 * [Community](by-modules/community.md)
-* [CV \(Talentbank\)](by-modules/cv-talentbank/README.md)
+* [CV (Talentbank)](by-modules/cv-talentbank/README.md)
   * [CV for Admin](by-modules/cv-talentbank/cv-for-admin.md)
 * [EKYC](by-modules/ekyc/README.md)
   * [EKYC for Companies](by-modules/ekyc/ekyc-for-companies.md)
@@ -102,9 +102,9 @@
 * [Futurelab](by-modules/futurelab/README.md)
   * [UAT](by-modules/futurelab/uat.md)
 * [SSM Integration](by-modules/ssm-integration/README.md)
-  * [Check Entity](by-modules/ssm-integration/ssm-check-entity.md)
+  * [SSM Report Purchase](by-modules/ssm-integration/ssm-check-entity.md)
 
-## Other Topics <a id="other-topic"></a>
+## Other Topics <a href="other-topic" id="other-topic"></a>
 
 * [Number of Startups](other-topic/number-of-startups.md)
 * [Data Handling Management](other-topic/data-handling-management/README.md)
@@ -112,4 +112,3 @@
   * [User Access Change & Review](other-topic/data-handling-management/user-access-change-and-review.md)
   * [Security & Data Breach](other-topic/data-handling-management/security-and-data-breach.md)
 * [Deprecated](other-topic/deprecated.md)
-

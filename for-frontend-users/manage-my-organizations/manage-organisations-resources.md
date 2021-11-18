@@ -12,7 +12,7 @@ Resources are attached to an organization. To manage or add a new one, you must 
 
 Once submitted, Central Admin will respond with a decision of either Approve / Reject the submission.
 
-Approved Submissions will be automatically published onto Central Resource frontend.  
+Approved Submissions will be automatically published onto Central Resource frontend.\
 
 
 ### Update Resources
@@ -27,11 +27,10 @@ Approved Submissions will be automatically published onto Central Resource front
 
 ### Resource Frontend
 
-MaGIC Resource is a crowdsource directory with a comprehensive collection of products and services from public and private organizations, available for entrepreneurs. 
+MaGIC Resource is a crowdsource directory with a comprehensive collection of products and services from public and private organizations, available for entrepreneurs.&#x20;
 
 {% hint style="warning" %}
-Do not spam this crowdsource directory with irrelevant products or services. Doing so may cause your account to be blacklisted and blocked permanently without warning. 
+Do not spam this crowdsource directory with irrelevant products or services. Doing so may cause your account to be blacklisted and blocked permanently without warning.&#x20;
 {% endhint %}
 
 ![](../../.gitbook/assets/screenshot-2021-02-22-at-12.11.27-pm.png)
-

@@ -12,7 +12,7 @@ This documentation is still at infancy stage of development. Tech team are worki
 
 ### With CENTRAL You Can:
 
-* **Remove Information Silo** with CENTRAL acting as a Single Source Of Truth \(SSOT\) for data
+* **Remove Information Silo **with CENTRAL acting as a Single Source Of Truth (SSOT) for data
 
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.33.37-am.png)
 
@@ -24,8 +24,6 @@ This documentation is still at infancy stage of development. Tech team are worki
 
 ![](.gitbook/assets/screenshot-2021-02-08-at-10.06.58-am.png)
 
-* **Enforce Integration** with systems built by different vendors using the same data standard and stack of technologies.
-* **Reduce Redundant Effort** by building together thru Open Source and Open Data 
-
-
+* **Enforce Integration **with systems built by different vendors using the same data standard and stack of technologies.
+* **Reduce Redundant Effort **by building together thru Open Source and Open Data&#x20;
 
