@@ -6,37 +6,37 @@ description: Accelerator Tracking & Application System. MaGIC owned module.
 
 ### The stage of ATAS Application
 
-![The different between each stage](<../.gitbook/assets/01 (1).jpg>)
+![The different between each stage](<../../.gitbook/assets/01 (1).jpg>)
 
 ### Apply your Application
 
 First, need to select your company and can be accessed through the direct link below:
 
-{% content-ref url="atas.md" %}
-[atas.md](atas.md)
+{% content-ref url="./" %}
+[.](./)
 {% endcontent-ref %}
 
 #### Perform Apply for your application
 
 Once select company, User can through the "Apply" button to apply their application in manage companies page.
 
-![Frontend of Manage Companies](../.gitbook/assets/01.jpg)
+![Frontend of Manage Companies](../../.gitbook/assets/01.jpg)
 
 Fill up all the information in GAP Application Form, save draft and submit.
 
-![GAP Application Form](../.gitbook/assets/02.jpg)
+![GAP Application Form](../../.gitbook/assets/02.jpg)
 
 Once shortlisted user’s application status is change to Accepted, is automatically in pre-arrival stage. A** **"Create" Button will generate and user can process to PreArrival.
 
-!["Create" button for PreArrial](../.gitbook/assets/03.jpg)
+!["Create" button for PreArrial](../../.gitbook/assets/03.jpg)
 
 Fill up all the information in GAP PreArrival Form, save draft and submit.
 
-![GAP PreArrival Form](../.gitbook/assets/04.jpg)
+![GAP PreArrival Form](../../.gitbook/assets/04.jpg)
 
 Once GAP PreArrival Form Accepted and Convert to InProgram will able to using Milestone and Claim function
 
-![Frontend of InProgram](../.gitbook/assets/05.jpg)
+![Frontend of InProgram](../../.gitbook/assets/05.jpg)
 
 ### How to Create and Manage Milestone for your Application
 
@@ -48,17 +48,17 @@ Set your milestones & update their progress during your weekly platoon meeting.
 
 A "Create Milestone" button in the top of list.
 
-![](../.gitbook/assets/0.jpg)
+![](../../.gitbook/assets/0.jpg)
 
 Fill up information of Milestone and create.
 
-![](../.gitbook/assets/06.jpg)
+![](../../.gitbook/assets/06.jpg)
 
 #### Manage and Edit Milestone for your Application
 
 User can Edit and View Milestone in milestone page. User can edit Preset Code, Title, Text Short Description, Source and Is Star.
 
-![](../.gitbook/assets/07.jpg)
+![](../../.gitbook/assets/07.jpg)
 
 ###
 
@@ -72,14 +72,14 @@ Submit new claim, track your claims’ status as well as printing the claim subm
 
 A "Create New" button in the list.
 
-![](../.gitbook/assets/08.jpg)
+![](../../.gitbook/assets/08.jpg)
 
 Fill up information of Client, save draft and submit.
 
-![](../.gitbook/assets/09.jpg)
+![](../../.gitbook/assets/09.jpg)
 
 #### How to check the status of claim
 
 User Can check and view the status of Claim (Approved or Rejected) in the claim page.
 
-![](../.gitbook/assets/10.jpg)
+![](../../.gitbook/assets/10.jpg)
