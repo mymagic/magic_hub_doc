@@ -50,6 +50,7 @@ Here is a list of MaGICians with access to MaGIC Eventbrite account.&#x20;
 * nadhira@mymagic.my&#x20;
 * m.ammar@mymagic.my&#x20;
 * muhammad.khaliq@mymagic.my
+* shaari@mymagic.my
 
 **Teams**
 
